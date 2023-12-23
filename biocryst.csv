@@ -1,0 +1,88 @@
+expand aca,ACA the Structural Science Society
+expand als,Advanced Light Source
+expand aps,Advanced Photon Source
+expand bnl,Brookhaven National Laboratory
+expand ccn,Computational Crystallography Newsletter
+expand cctbx,Computational Crystallography Toolbox
+expand charmm, Chemistry at Harvard Molecular Mechanics
+expand chess,Cornell High Energy Synchrotron Source
+expand nsls2,National Synchtrotron Light Source II
+expand pdb,Protein Data Bank,true
+expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand sad,Single-wavelength Anomalous Diffraction
+expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
+expand sas,small-angle scattering
+expand saxs,small-angle X-ray scattering
+expand slac,SLAC National Accelerator Center
+expand ssrl,Stanford Synchrotron Radiation Lightsource
+expand ssrl uec,SSRL Users Executive Committee
+expand waxs,Wide-Angle X-ray Scattering
+space group P1,$P1$
+space group P2,$P2$
+space group P21,$P2_{1}$ 
+space group C2,$C2$
+space group P222,$P222$
+space group P212121,$P2_{1}2_{1}2_{1}$ 
+space group P21212,$P2_{1}2_{1}2$ 
+space group P2221,$P222_{1}$ 
+space group C222,$C222$ 
+space group C2221,$C222_{1}$ 
+space group F222,$F222$
+space group I222,$I222$ 
+space group I212121,$I2_{1}2_{1}2_{1}$ 
+space group P4,$P4$
+space group P41,$P4_{1}$
+space group P42,$P4_{2}$
+space group P43,$P4_{3}$
+space group I4,$I4$
+space group I41,$I4_{1}$
+space group P422,$P422$
+space group P422,$P42_{1}2_{1}$
+space group P4122,$P4_{1}22$
+space group P41212,$P4_{1}2_{1}2$
+space group P4222,$P4_{2}22$
+space group P42212,$P4_{2}2_{1}2$
+space group P43212,$P4_{3}2_{1}2$
+space group P4322,$P4_{3}22$
+space group I422,$I422$
+space group I4122,$I4_{1}22$
+space group P3,$P3$
+space group P31,$P3_{1}$
+space group P32,$P3_{2}$
+space group P321,$P321$
+space group P312,$P312$
+space group P3112,$P3_{1}12$
+space group P3121,$P3_{1}21$
+space group P3212,$P3_{2}12$
+space group P3221,$P3_{2}21$
+space group R3,$R3$
+space group R32,$R32$
+space group P6,$P6$
+space group P61,$P6_{1}$
+space group P62,$P6_{2}$
+space group P63,$P6_{3}$
+space group P64,$P6_{4}$
+space group P65,$P6_{5}$
+space group P6122,$P6_{1}22$
+space group P6222,$P6_{2}22$
+space group P6322,$P6_{3}22$
+space group P6422,$P6_{4}22$
+space group P6522,$P6_{5}22$
+space group P432,$P432$
+space group P4132,$P4_{1}32$
+space group P4232,$P4_{2}32$
+space group P4332,$P4_{3}32$
+space group F432,$F432$
+space group F4132,$F4_{1}32$
+space group I432,$I432$
+space group I4132,$I4_{1}32$
+point group 2,$2$
+point group 222,$222$
+point group 4,$4$
+point group 422,$422$
+point group 32, $32$
+point group 23,$23$
+point group 432,$432$
+point group 6,$6$
+point group 622,$622$
+

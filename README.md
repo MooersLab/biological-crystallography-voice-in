@@ -14,7 +14,7 @@ The commands are mapped to the text that is actually inserted.
 Each command is paired with the inserted text on a single line in of a comma separated value file.
 Use the bulk ad button in Voice In Plus to upload these commands into your collecton of custom commands.
 
-## Contents
+## Contents of the library
 
 - 65 biological space groups
 - acronymns in crystallography

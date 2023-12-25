@@ -18,8 +18,8 @@ Use the bulk ad button in Voice In Plus to upload these commands into your colle
 
 - 65 biological space groups
 - acronymns in crystallography
-- light source acronyms
-- scientific society acronyms
+- light source acronyms and their expansions
+- scientific society acronyms and their expansions
 
 ## Related repos
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing)

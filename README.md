@@ -22,10 +22,12 @@ Use the **bulk add** button in Voice In Plus to upload these commands into your 
 
 ## Contents of the library biocryst.csv
 
-- 65 biological space groups
-- acronymns in crystallography
-- light source acronyms and their expansions
-- scientific society acronyms and their expansions
+- Names of space groups that can accommodate chrial moleculaes (i.e., proteins and nucleic acids)
+- space group numbers for the space groups that can accommodate chrial moleculae
+- Acronymns in crystallography
+- Light source acronyms and their expansions
+- Scientific society acronyms and their expansions
+
 
 ## Related repos
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing)

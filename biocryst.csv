@@ -7,7 +7,7 @@ expand cctbx,Computational Crystallography Toolbox
 expand charmm, Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
 expand nsls2,National Synchtrotron Light Source II
-expand pdb,Protein Data Bank,true
+expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
 expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
@@ -56,7 +56,9 @@ P3121,$P3_{1}21$
 P3212,$P3_{2}12$
 P3221,$P3_{2}21$
 R3,$R3$
+H3,$H3$
 R32,$R32$
+H32,$H32$
 P6,$P6$
 P61,$P6_{1}$
 P62,$P6_{2}$

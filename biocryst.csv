@@ -153,4 +153,11 @@ insert space group number for I432,211
 insert space group number for P4332,212
 insert space group number for P4132,213
 insert space group number for I4132,214
-
+mero-hitriy,merohedry
+reticular 20, reticular twinning
+pseudomeroheral 20,pseudomeroheral twinnig
+merohedral 20, merohedral twinning
+hemihedral 20,hemihedral twinning
+non-merohedral 20,non-merohedral twinning
+20 by merohedry, twinning by merohedry
+20th operator,twinning operator

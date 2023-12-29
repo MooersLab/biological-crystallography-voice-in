@@ -4,8 +4,8 @@
 This repo contains voice commands about biological crystallography for the speech recognition software Voice In Plus.
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites opened in Google Chrome.
-They can be used during dictation of manuscripts about protein and nucleic acid crystallography.
-The commands include the symbols for the 65 space groups that can accommodate chiral molecules like the biological molecules.
+They can be used during dictation of manuscripts about protein and nucleic acid crystal structures and crystallography.
+The commands include the symbols for all of the space groups that can accommodate chiral molecules like the biological molecules.
 The symbols are represented as LaTeX math.
 These short snippets of the LaTeX are recognized and rendered correctly by most markdown type setting languages including org-mode.
 
@@ -16,9 +16,8 @@ I then dictate the command.
 See the documentation for the Voice In plug-in to learn how to configure keyboard shortcuts.
 
 ## Installation
-The commands are mapped to the text that is actually inserted.
 Each command is paired with the inserted text on a single line in of a comma separated value file (biocryst.csv).
-Use the **bulk add** button in Voice In Plus to upload these commands into your collecton of custom commands.
+Use the **bulk add** button in Voice In Plus to upload these commands into your collection of custom commands.
 
 ## Contents of the library biocryst.csv
 

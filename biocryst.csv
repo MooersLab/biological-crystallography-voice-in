@@ -161,3 +161,8 @@ hemihedral 20,hemihedral twinning
 non-merohedral 20,non-merohedral twinning
 20 by merohedry, twinning by merohedry
 20th operator,twinning operator
+DIGS,Demdodulation of Intensities by Grouping and Scaling
+expand tNCS,translational noncrystallographic symmetry
+expand ROD,rotational order-disorder
+expand LTD,lattice translocation deffects
+expand OD,order-disorder

@@ -21,9 +21,9 @@ Use the **bulk add** button in Voice In Plus to upload these commands into your 
 
 ## Contents of the library biocryst.csv
 
-- Names of space groups that can accommodate chrial moleculaes (i.e., proteins and nucleic acids)
-- space group numbers for the space groups that can accommodate chrial moleculae
-- Acronymns in crystallography
+- Names of space groups that can accommodate chiral molecules (i.e., proteins and nucleic acids)
+- Space group numbers for the space groups that can accommodate chiral molecules
+- Acronyms in crystallography
 - Light source acronyms and their expansions
 - Scientific society acronyms and their expansions
 

@@ -45,8 +45,8 @@ If you pick a word combination with a subset of words already assigned to anothe
 It is better to pick a synonym for the new command than include the old one.
 
 ### Use verbs are prefaces
-I use the verb "insert" in front of the computer code that I want to insert.
-I use the verb "expand" to expand a person's first name into their full name and to expand acronyms into their full term.
+I use the verb "insert" in front of the name for the computer code or equation that I want to insert.
+I use the verb "expand" to expand acronyms.
 
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.

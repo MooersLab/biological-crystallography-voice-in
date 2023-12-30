@@ -161,8 +161,21 @@ hemihedral 20,hemihedral twinning
 non-merohedral 20,non-merohedral twinning
 20 by merohedry, twinning by merohedry
 20th operator,twinning operator
-DIGS,Demdodulation of Intensities by Grouping and Scaling
+DIGS,Demodulation of Intensities by Grouping and Scaling
 expand tNCS,translational noncrystallographic symmetry
 expand ROD,rotational order-disorder
 expand LTD,lattice translocation deffects
 expand OD,order-disorder
+mtz,MTZ
+jana 2006,Jana2006
+super flip,SuperFlip
+a star,$\mathbf{a}$
+b star,$\mathbf{b}$
+be star,$\mathbf{b}$
+c star,$\mathbf{c}$
+se star,$\mathbf{c}$
+eval 15,Eval15
+Yana 2006,Jana2006
+in commensurately,incommensurately
+expand AMF,Atomic Modulation Function
+url for CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}

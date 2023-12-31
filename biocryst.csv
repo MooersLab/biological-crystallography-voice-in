@@ -213,3 +213,9 @@ define non-merohedral twinning,only certain zones of reciprocal lattice points o
 pseudo-translational,pseudotranslational
 insert Wilson ratio,$\left\langle I^2\right\rangle /\langle I\rangle^2$
 insert Stanley ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$
+insert equations for hemihedry,"\begin{equation}
+\begin{aligned}
+& I_{\mathrm{obs}}\left(\mathbf{h}_1\right)=(1-\alpha) I\left(\mathbf{h}_1\right)+\alpha I\left(\mathbf{h}_2\right), \\
+& I_{\text {obs }}\left(\mathbf{h}_2\right)=\alpha I\left(\mathbf{h}_1\right)+(1-\alpha) I\left(\mathbf{h}_2\right),
+\end{aligned}
+\end{equation}"

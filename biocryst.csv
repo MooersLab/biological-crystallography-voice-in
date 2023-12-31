@@ -191,7 +191,7 @@ define twin operation,the operation mapping the orientations of two individuals 
 define twinning,the oriented association of two or more individual domains in the same crystalline phase
 list the causes of twinning,(1) occurs during nucleation, (2) post-growth nucleation and oriented attachment, (3)a phase tranisiton, or (4) mechanical action
 define a twin law,the set of all the twin operations that do the same mapping
-How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law." 
+How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law. 
 define epitaxy,the oriented crystal association of chemically heterogeneous phases
 epitaxial twinning,WRONG!! Misused term. Rewrite.
 merohedral twinning,twinning by merohedry 

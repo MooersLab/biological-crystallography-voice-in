@@ -211,3 +211,5 @@ NCS operator,NCS operation
 What is a common feature of merohedral and pseudomyhedral twinning,all of the reflections from the twin domains overlap
 define non-merohedral twinning,only certain zones of reciprocal lattice points overlap
 pseudo-translational,pseudotranslational
+insert Wilson ratio,$\left\langle I^2\right\rangle /\langle I\rangle^2$
+insert Stanley ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$

@@ -218,3 +218,9 @@ insert equations for hemihedry,"\begin{equation}
 & I_{\text {obs }}\left(\mathbf{h}_2\right)=\alpha I\left(\mathbf{h}_1\right)+(1-\alpha) I\left(\mathbf{h}_2\right),
 \end{aligned}
 \end{equation}"
+insert Wilson ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$
+value of Wilson ratio for acentric data from untwinned crystal,0.785
+value of Wilson ratio for acentric data from perfect twin,0.885
+insert Stanley factor,$\left\langle I^2\right\rangle /\langle I\rangle^2$
+value of Stanley factor for acentric data from perfect twin,1.5
+value of Stanley factor for acentric data from untwinned crystal,2

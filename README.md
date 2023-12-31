@@ -17,7 +17,8 @@ See the documentation for the Voice In plug-in to learn how to configure keyboar
 
 ## Installation
 Each command is paired with the inserted text on a single line in of a comma separated value file (biocryst.csv).
-Use the **bulk add** button in Voice In Plus to upload these commands into your collection of custom commands.
+Equations, code snippets, and so on that span multiple lines are placed inside of double quotes.
+Use the **Bulk Add** button in Voice In Plus to upload these commands into your collection of custom commands.
 
 ## Contents of the library biocryst.csv
 

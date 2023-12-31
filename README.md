@@ -37,12 +37,6 @@ See [Voice Computing section of landing page](https://github.com/MooersLab/Mooer
 The basic rule for developing a voice command is to pick a word combination that is very unlikely to be used in one's prose.
 This choice can avoid the accidental insertion of an unintended set of words.
 
-For example, using the voice command `to do` to insert an org-mode TODO is pretty pointless because this phrase is used frequently in my prose.
-Instead, I came up with the command `priority` and then the associated alphanumeric code for the priority. 
-It is pretty unlikely that I will say the command `priority A1` in my usual prose.
-Likewise, I use a voice command `limit A1 harp 1` to insert the org-mode TODO with a priority of A1 and a time limit of 1 hour.
-The word harp is used to insert a `h` in the Talon Voice phonetic alphabet.
-
 ### Pick word combinations that do not contain other commands
 If you pick a word combination with a subset of words already assigned to another command, the commands will collide, and you will not get the intended effect.
 It is better to pick a synonym for the new command than include the old one.
@@ -50,6 +44,8 @@ It is better to pick a synonym for the new command than include the old one.
 ### Use verbs are prefaces
 I use the verb "insert" in front of the name for the computer code or equation that I want to insert.
 I use the verb "expand" to expand acronyms.
+I use the verb "list" to list sets of causes.
+
 
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.

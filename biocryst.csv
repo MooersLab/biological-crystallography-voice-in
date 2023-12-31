@@ -17,6 +17,9 @@ expand slac,SLAC National Accelerator Center
 expand ssrl,Stanford Synchrotron Radiation Lightsource
 expand ssrl uec,SSRL Users Executive Committee
 expand waxs,Wide-Angle X-ray Scattering
+expand OD,Order-Disorder
+expand ROD,Rotational Order-Disorder
+expand LTD,Lattice Translocation Deffect
 P1,$P1$
 P2,$P2$
 P21,$P2_{1}$ 
@@ -179,7 +182,31 @@ Yana 2006,Jana2006
 in commensurately,incommensurately
 expand AMF,Atomic Modulation Function
 url for CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
-Rotational order-disorder,Rotational Order-Disorder
+rotational order-disorder,Rotational Order-Disorder
 order disorder,Order-Disorder
 latches translocation defects,Lattice-Translocation Defects
-Lattice-Translocation Defects,Lattice-Translocation Defects 
+lattice-translocation defects,Lattice-Translocation Defects
+twinning operation,twin operation 
+define twin operation,"the operation mapping the orientations of two individuals of a twin, one on to the other, and is a crystallographic operation about a direct lattice element" 
+define twinning,"the oriented association of two or more individual domains in the same crystalline phase"
+list the causes of twinning,"(1) occurs during nucleation, (2) post-growth nucleation and oriented attachment, (3)a phase tranisiton, or (4) mechanical action" 
+define a twin law,"the set of all the twin operations that do the same mapping"
+How are twin laws derived,"by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law." 
+define epitaxy,"the oriented crystal association of chemically heterogeneous phases" 
+epitaxial twinning, "WRONG!! Misused term. Rewrite."
+merohedral twinning,twinning by merohedry 
+hemihedral twinning,twinning by hemihedry 
+merohedral twin,twinning by merohedry 
+hemihedral twin,twinning by hemihedry
+tritohedral twinning,twinning by tritohedry twinning
+tritohedral twin,tritohedry twinning
+tetartohedral twin, twinning by tetartohedry 
+tetartohedral twinning, twinning by tetartohedry 
+twin operator,twin operation 
+twinning operator,twinning operation
+bizarre systematic absences,non-space group absences 
+Britian plot,Britton plot 
+NCS operator,NCS operation 
+What is a common feature of merohedral and pseudomyhedral twinning,"all of the reflections from the twin domains overlap" 
+define non-merohedral twinning, "only certain zones of reciprocal lattice points overlap"
+pseudo-translational,pseudotranslational

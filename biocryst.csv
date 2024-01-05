@@ -270,3 +270,17 @@ ccp4 study weekend,CCP4 Study Weekend
 ice bear,IceBear
 expand ELN, Electronic Lab Notebook
 expand LIMS,Laboratory Information Management System
+rock maker,Rockmaker
+eln,ELN
+lims,LIMS
+crims,CRIMS
+epxand CRIMS,Crystallographic Information Management System
+url for crims,\url{https://alpx-services.com/#crims}
+url for ice bear,\url{https://www.icebear.fi/}
+rock maker,ROCK MAKER
+url for rock maker,\url{https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/}
+christographer,crystallographer
+secretron radiation labs,synchrotron radiation labs
+expand RoPE,Representation of Protein Entities
+FLEV,Flatland Ligand Environment View
+url for RoPE,\ur{rope.hginn.co.uk}

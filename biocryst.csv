@@ -1,9 +1,9 @@
 exapnd cns,Crystallography and NMR System
 exapnd mad,Multi-wavelength Anomalous Diffraction
 expand aca,ACA the Structural Science Society
-expand AfCA,African Crystallographic Association
+expand afca,African Crystallographic Association
 expand als,Advanced Light Source
-expand AMF,Atomic Modulation Function
+expand amf,Atomic Modulation Function
 expand aps,Advanced Photon Source
 expand bnl,Brookhaven National Laboratory
 expand ccn,Computational Crystallography Newsletter
@@ -11,19 +11,19 @@ expand ccp4,Collaborative Computational Project Number 4
 expand cctbx,Computational Crystallography Toolbox
 expand charmm, Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
-expand CMB,IUCr Commission on Biological Macromolecules
-expand CMM,checkMyMetal
-expand cryo-EM,cryo electron microscopy
-expand CSGID,Center for Structural Genomics of Infectious Diseases
-expand DDDWG,IUCr Diffraction Data Deposition Working Group
+expand cmb,IUCr Commission on Biological Macromolecules
+expand cmm,checkMyMetal
+expand cryo-em,cryo electron microscopy
+expand csgid,Center for Structural Genomics of Infectious Diseases
+expand dddwg,IUCr Diffraction Data Deposition Working Group
 expand digs,Demodulation of Intensities by Grouping and Scaling\
 expand doi,Digital Object Identifier
-expand ECA,European Crystallographic Association
-expand ESRF,European Synchrotron Radiation Facility
-expand FAIR,Findable Accessible Interoperable Re-usable
-expand IRRMC,Integrated Resource for Reproducibility inMacromolecular Crystallography
+expand eca,European Crystallographic Association
+expand esrf,European Synchrotron Radiation Facility
+expand fair,Findable Accessible Interoperable Re-usable
+expand irrmc,Integrated Resource for Reproducibility inMacromolecular Crystallography
 expand iucr,International Union of Crystallography
-expand JCSG,Joint Center for Structural Genomic
+expand jcsg,Joint Center for Structural Genomic
 expand jsr,Journal of Synchrotron Radiation
 expand eln, Electronic Lab Notebook
 expand lims,Laboratory Information Management System
@@ -35,7 +35,7 @@ expand nakb,Nucleic Acid Knowledge Base
 expand ncs,noncrystallographic symmetry
 expand ndb,Nucleic Acid Database
 expand nsls2,National Synchtrotron Light Source II
-expand NYSGRC,New York Structural Genomics Research Consortium
+expand nysgrc,New York Structural Genomics Research Consortium
 expand od,Order-Disorder
 expand oup,Oxford University Press
 expand pdb,Protein Data Bank
@@ -46,13 +46,14 @@ expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering
-expand SBGrid,Structural Biology Grid Consortium
-expand SGC,Structural Genomics Consortium 
+expand sbgrid,Structural Biology Grid Consortium
+expand sgc,Structural Genomics Consortium 
 expand slac,SLAC National Accelerator Center
-expand SSGCID,Seattle Structural Genomics Center for Infectious Disease 
+expand ssgcid,Seattle Structural Genomics Center for Infectious Disease 
 expand ssrl uec,SSRL Users Executive Committee
 expand ssrl,Stanford Synchrotron Radiation Lightsource
-expand tNCS,translational noncrystallographic symmetry
+expand tls,"Translation, Libration, and Screw" 
+expand tncs,translational noncrystallographic symmetry
 expand waxs,Wide-Angle X-ray Scattering
 equations for hemihedry,"\begin{equation}
 \begin{aligned}
@@ -61,6 +62,8 @@ equations for hemihedry,"\begin{equation}
 \end{aligned}
 \end{equation}"
 expresion for I over sigma,$I/{\sigma}$
+expression for sigmaA 2fo minus fc, $2mF_{o} - DF_{c}$
+expression for sigmaA fo minus fc, $mF_{o} - DF_{c}$
 expression for Stanley factor,$\left\langle I^2\right\rangle /\langle I\rangle^2$
 expression for Stanley ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$
 expression for Wilson ratio,$\left\langle I^2\right\rangle /\langle I\rangle^2$
@@ -72,10 +75,13 @@ url for crims,\url{https://alpx-services.com/#crims}
 url for ice bear,\url{https://www.icebear.fi/}
 url for IRRMC,\url{http://www.proteindiffraction.org}
 url for moorhen,\url{moorhen.org}
-url for phenix,\url{}
+url for phenix,\url{https://phenix-online.org}
 url for rock maker,\url{https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/}
-url for RoPE,\ur{rope.hginn.co.uk}
+url for RoPE,\url{rope.hginn.co.uk}
 url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
+url for shelx,\url{https://shelx.uni-goettingen.de/}
+url for sirware,\url{https://www.ba.ic.cnr.it/softwareic}
+url for Zenodo,\url{https://zenodo.org/}
 P1,$P1$
 P2,$P2$
 P21,$P2_{1}$ 
@@ -312,3 +318,16 @@ rock maker,ROCK MAKER
 christographer,crystallographer
 secretron radiation labs,synchrotron radiation labs
 FLEV,Flatland Ligand Environment View
+gemme,GEMMI
+gemmi,GEMMI
+flexer,FLEXR
+ccp4 cloud,CCP4 Cloud
+privateer,Privateer,
+model craft,ModelCraft
+alpha fold two,AlphaFold2
+check my sequence,checkMySequence
+check my metal,checkMyMetal
+isolde,ISOLDE
+iucrj,IUCrJ
+zenodo,Zenodo
+hendrickson-lattman coefficients,Hendrickson-Lattman coefficients

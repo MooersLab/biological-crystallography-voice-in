@@ -1,4 +1,7 @@
+exapnd cns,Crystallography and NMR System
+exapnd mad,Multi-wavelength Anomalous Diffraction
 expand aca,ACA the Structural Science Society
+expand AfCA,African Crystallographic Association
 expand als,Advanced Light Source
 expand AMF,Atomic Modulation Function
 expand aps,Advanced Photon Source
@@ -8,18 +11,31 @@ expand ccp4,Collaborative Computational Project Number 4
 expand cctbx,Computational Crystallography Toolbox
 expand charmm, Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
-exapnd cns,Crystallography and NMR System
+expand CMB,IUCr Commission on Biological Macromolecules
+expand CMM,checkMyMetal
+expand cryo-EM,cryo electron microscopy
+expand CSGID,Center for Structural Genomics of Infectious Diseases
+expand DDDWG,IUCr Diffraction Data Deposition Working Group
 expand digs,Demodulation of Intensities by Grouping and Scaling\
+expand doi,Digital Object Identifier
+expand ECA,European Crystallographic Association
+expand ESRF,European Synchrotron Radiation Facility
+expand FAIR,Findable Accessible Interoperable Re-usable
+expand IRRMC,Integrated Resource for Reproducibility inMacromolecular Crystallography
 expand iucr,International Union of Crystallography
+expand JCSG,Joint Center for Structural Genomic
+expand jsr,Journal of Synchrotron Radiation
 expand ltd,Lattice Translocation Deffects
-exapnd mad,Multi-wavelength Anomalous Diffraction
+expand MCSG,Midwest Center for Structural Genomics
 expand mir,Multiple Isomorpous Replacement
 expand mr,Molecular Replacement
-expand nsls2,National Synchtrotron Light Source II
 expand nakb,Nucleic Acid Knowledge Base
-expand ndb,Nucleic Acid Database
 expand ncs,noncrystallographic symmetry
+expand ndb,Nucleic Acid Database
+expand nsls2,National Synchtrotron Light Source II
+expand NYSGRC,New York Structural Genomics Research Consortium
 expand od,Order-Disorder
+expand OUP,Oxford University Press
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
 expand rod,Rotational Order-Disorder
@@ -28,32 +44,14 @@ expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering
+expand SBGrid,Structural Biology Grid Consortium
+expand SGC,Structural Genomics Consortium 
 expand slac,SLAC National Accelerator Center
-expand ssrl,Stanford Synchrotron Radiation Lightsource
+expand SSGCID,Seattle Structural Genomics Center for Infectious Disease 
 expand ssrl uec,SSRL Users Executive Committee
+expand ssrl,Stanford Synchrotron Radiation Lightsource
 expand tNCS,translational noncrystallographic symmetry
 expand waxs,Wide-Angle X-ray Scattering
-expand AfCA,African Crystallographic Association
-expand CMM,checkMyMetal
-expand cryo-EM,cryo electron microscopy
-expand ECA,European Crystallographic Association
-expand FAIR,Findable Accessible Interoperable Re-usable
-expand jsr,Journal of Synchrotron Radiation
-expand OUP,Oxford University Press
-expand CMB,IUCr Commission on Biological Macromolecules
-expand doi,Digital Object Identifier
-expand IRRMC,Integrated Resource for Reproducibility inMacromolecular Crystallography
-expand SBGrid,Structural Biology Grid Consortium
-expand ESRF,European Synchrotron Radiation Facility
-expand CSGID,Center for Structural Genomics of Infectious Diseases
-expand SSGCID,Seattle Structural Genomics Center for Infectious Disease 
-expand DDDWG,IUCr Diffraction Data Deposition Working Group
-expand SGC,Structural Genomics Consortium 
-expand MCSG,Midwest Center for Structural Genomics
-expand JCSG,Joint Center for Structural Genomic
-expand NYSGRC,New York Structural Genomics Research Consortium
-journal of applied crystallography,Journal of Applied Crystallography
-journal of synchroron radiation,Journal of Synchrotron Radiation
 P1,$P1$
 P2,$P2$
 P21,$P2_{1}$ 

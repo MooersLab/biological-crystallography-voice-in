@@ -9,7 +9,8 @@ expand cctbx,Computational Crystallography Toolbox
 expand charmm, Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
 exapnd cns,Crystallography and NMR System
-expand digs,Demodulation of Intensities by Grouping and Scaling
+expand digs,Demodulation of Intensities by Grouping and Scaling\
+expand iucr,International Union of Crystallography
 expand ltd,Lattice Translocation Deffects
 exapnd mad,Multi-wavelength Anomalous Diffraction
 expand mir,Multiple Isomorpous Replacement
@@ -222,7 +223,6 @@ insert equations for hemihedry,"\begin{equation}
 & I_{\text {obs }}\left(\mathbf{h}_2\right)=\alpha I\left(\mathbf{h}_1\right)+(1-\alpha) I\left(\mathbf{h}_2\right),
 \end{aligned}
 \end{equation}"
-insert Wilson ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$
 value of Wilson ratio for acentric data from untwinned crystal,0.785
 value of Wilson ratio for acentric data from perfect twin,0.885
 insert Stanley factor,$\left\langle I^2\right\rangle /\langle I\rangle^2$
@@ -238,7 +238,6 @@ see 2221,$C222_{1}$
 see 2,$C2$
 C222,$C222_{1}$
 Phoenix,Phenix
-expand MIR,multiple isomorphous replacement
 shell XL,SHELXL
 parent cemetery,apparent symmetry
 electric placement,molecular replacement

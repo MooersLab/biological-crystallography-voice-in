@@ -71,6 +71,7 @@ value of Wilson ratio for acentric data from untwinned crystal,0.785
 value of Wilson ratio for acentric data from perfect twin,0.885
 value of Stanley factor for acentric data from perfect twin,1.5
 value of Stanley factor for acentric data from untwinned crystal,2
+url for atsas,\url{https://www.embl-hamburg.de/biosaxs/atsas-online/}
 url for crims,\url{https://alpx-services.com/#crims}
 url for ice bear,\url{https://www.icebear.fi/}
 url for IRRMC,\url{http://www.proteindiffraction.org}

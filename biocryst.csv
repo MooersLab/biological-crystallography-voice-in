@@ -72,10 +72,13 @@ value of Wilson ratio for acentric data from perfect twin,0.885
 value of Stanley factor for acentric data from perfect twin,1.5
 value of Stanley factor for acentric data from untwinned crystal,2
 url for atsas,\url{https://www.embl-hamburg.de/biosaxs/atsas-online/}
-url for bioxtas,,\url{https://bioxtas-raw.readthedocs.io/en/latest/}
+url for bioxtas,\url{https://bioxtas-raw.readthedocs.io/en/latest/}
+url for coot,\curl{https://pemsley.github.io/coot/}
 url for crims,\url{https://alpx-services.com/#crims}
 url for ice bear,\url{https://www.icebear.fi/}
 url for IRRMC,\url{http://www.proteindiffraction.org}
+url for Jana2020,\url{http://jana.fzu.cz/}
+url for Jana2006,\url{http://jana.fzu.cz/}
 url for moorhen,\url{moorhen.org}
 url for phenix,\url{https://phenix-online.org}
 url for rock maker,\url{https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/}
@@ -83,7 +86,11 @@ url for RoPE,\url{rope.hginn.co.uk}
 url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
 url for shelx,\url{https://shelx.uni-goettingen.de/}
 url for sirware,\url{https://www.ba.ic.cnr.it/softwareic}
-url for Zenodo,\url{https://zenodo.org/}
+url for ucla anisotropy server,\url{https://srv.mbi.ucla.edu/Anisoscale/}
+url for ucla twinning server,\url{https://srv.mbi.ucla.edu/Twinning/}
+url for ucla self-rotation funciton server,\url{https://services.mbi.ucla.edu/selfrot/}
+url for ucla server for nist*Lattice,\url{https://services.mbi.ucla.edu/nist/}
+url for zenodo,\url{https://zenodo.org/}
 P1,$P1$
 P2,$P2$
 P21,$P2_{1}$ 

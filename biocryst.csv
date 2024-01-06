@@ -22,6 +22,7 @@ expand od,Order-Disorder
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
 expand rod,Rotational Order-Disorder
+expand rope,Representation of Protein Entities
 expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
@@ -284,6 +285,5 @@ rock maker,ROCK MAKER
 url for rock maker,\url{https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/}
 christographer,crystallographer
 secretron radiation labs,synchrotron radiation labs
-expand RoPE,Representation of Protein Entities
 FLEV,Flatland Ligand Environment View
 url for RoPE,\ur{rope.hginn.co.uk}

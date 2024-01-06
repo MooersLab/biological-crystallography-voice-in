@@ -18,6 +18,7 @@ expand mr,Molecular Replacement
 expand nsls2,National Synchtrotron Light Source II
 expand nakb,Nucleic Acid Knowledge Base
 expand ndb,Nucleic Acid Database
+expand ncs,noncrystallographic symmetry
 expand od,Order-Disorder
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
@@ -177,6 +178,7 @@ non-merohedral 20,non-merohedral twinning
 20 by merohedry, twinning by merohedry
 20th operator,twinning operator
 mtz,MTZ
+olex2,Olex2
 jana 2006,Jana2006
 super flip,SuperFlip
 a star,$\mathbf{a}$

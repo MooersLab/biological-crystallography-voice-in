@@ -23,6 +23,7 @@ expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
 expand irrmc,Integrated Resource for Reproducibility inMacromolecular Crystallography
 expand iucr,International Union of Crystallography
+expand jac,Journal of Applied Crystallography
 expand jcsg,Joint Center for Structural Genomic
 expand jsr,Journal of Synchrotron Radiation
 expand eln, Electronic Lab Notebook
@@ -337,7 +338,6 @@ alpha fold two,AlphaFold2
 check my sequence,checkMySequence
 check my metal,checkMyMetal
 isolde,ISOLDE
-iucrj,IUCrJ
 zenodo,Zenodo
 hendrickson-lattman coefficients,Hendrickson-Lattman coefficients
 section A, Acta Cryst. Section A

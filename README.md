@@ -1,7 +1,9 @@
 # biological-crystallography-voice-in
 
 ## Introduction
-This repo contains voice commands about biological crystallography for the speech recognition software Voice In Plus.
+This repo contains voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+Voice In plus is a Google Chrome extension.
+It only works in Google Chrome at this time.
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites opened in Google Chrome.
 They can be used during dictation of manuscripts about protein and nucleic acid crystal structures and crystallography.
@@ -24,13 +26,17 @@ Use the **Bulk Add** button in Voice In Plus to upload these commands into your 
 
 - Names of space groups that can accommodate chiral molecules (i.e., proteins and nucleic acids)
 - Space group numbers for the space groups that can accommodate chiral molecules
-- Acronyms in crystallography
+- Software acronyms and their expansions
 - Light source acronyms and their expansions
 - Scientific society acronyms and their expansions
+- Journal acronyms and their expansions
+- Key equations
+- Urls for software
 
 
 ## Related repos
-See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing)
+See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing).
+At a minimum, you will want to include the library of contractions so that these can be eliminated from your formal prose.
 
 ## Rules for developing voice commands
 
@@ -47,9 +53,13 @@ I use the verb "insert" in front of the name for the computer code or equation t
 I use the verb "expand" to expand acronyms.
 I use the verb "list" to list sets of causes.
 
-
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
 The speed with which you vocalize a command has a significant impact.
 You may find that you have to verbalize the command at high speed to avoid inserting just the first word of the command rather than the entire command.
+
+## Contributions are welcome
+This project can benefit all biological crystallographers.
+It should be a community project.
+Make a pull request, post a issue, or send me e-mail with additions in csv format.
 

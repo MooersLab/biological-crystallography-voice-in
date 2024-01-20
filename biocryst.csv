@@ -350,26 +350,27 @@ iucrj,IUCrJ
 iucrdata,IUCrData
 expand DSL,Domain Specific Language
 expand ONIOM,	\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
-equation gradient driven quantum refinment in phenix	$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
-equation for quantum refinment in phenix	$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
-bravis lattice	Bravias lattice
-bravis lattices	Bravias lattices
-four sub one	$4_1$
-four one	$4_1$
-two sub one	$2_1$
-three sub one	$3_1$
-six sub one	$6_1$
-four sub two	$4_2$
-four sub three	$4_3$
-three sub one	$3_2$
-six sub two	$6_2$
-six sub three	$6_3$
-six sub four	$6_4$
-six sub five	$6_5$
-insert equation for atomic scattering factor vector	$$\mathbf{f}_j=f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
-insert equation for the structure factor	$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
-insert equation for position vector	$$\mathbf{r}=\mathbf{a x}+\mathbf{b y}+\mathbf{c z}$$
-insert Bragg's equation	$$2 \mathrm{~d} \sin \theta=\mathrm{n} \lambda$$
-Argand diagram	Argand diagram
-expand ADP	Atomic Displacement Paramters
-expand DPI	Diffraction Precision Index
+equation gradient driven quantum refinment in phenix,	$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
+equation for quantum refinment in phenix,	$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
+bravis lattice,	Bravias lattice
+bravis lattices,	Bravias lattices
+four sub one,	$4_1$
+four one,	$4_1$
+two sub one,	$2_1$
+three sub one,	$3_1$
+six sub one,	$6_1$
+four sub two,	$4_2$
+four sub three,	$4_3$
+three sub one,	$3_2$
+six sub two,	$6_2$
+six sub three,	$6_3$
+six sub four,	$6_4$
+six sub five,	$6_5$
+insert equation for atomic scattering factor vector,	$$\mathbf{f}_j=f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
+insert equation for the structure factor,	$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
+insert equation for position vector,	$$\mathbf{r}=\mathbf{a x}+\mathbf{b y}+\mathbf{c z}$$
+insert Bragg's equation,	$$2 \mathrm{~d} \sin \theta=\mathrm{n} \lambda$$
+Argand diagram,	Argand diagram
+expand ADP,	Atomic Displacement Paramters
+expand DPI,	Diffraction Precision Index
+insert equation for the structure factor with contributions from one molecule,\mathbf{F}_1(h,k,l) = \sum_j f_j \exp(2\pi\,i\,(hx_j+ky_j+lz_j)

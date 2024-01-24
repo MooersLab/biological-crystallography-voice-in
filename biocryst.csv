@@ -1,6 +1,52 @@
+20 by hemahedron,twinning by hemihedry
+20 by merohedry, twinning by merohedry
+20 in operation,twinning operation
+20 in operation,twinning operation
+20 operation,twinning operation
+20th operator,twinning operator
+a star,$\mathbf{a}$
+actor Christ,Acta Cryst.
+alpha fold two,AlphaFold2
+Anita Patterson,a native Patterson
+Argand diagram,Argand diagram
+b star,$\mathbf{b}$
+be star,$\mathbf{b}$
+bizarre systematic absences,non-space group absences 
+bravis lattice,Bravias lattice
+Britian plot,Britton plot 
+c star,$\mathbf{c}$
+C2,$C2$
+C222,$C222$ 
+C222,$C222_{1}$
+C2221,$C222_{1}$ 
+ccp4 cloud,CCP4 Cloud
+ccp4 study weekend,CCP4 Study Weekend
+check my metal,checkMyMetal
+check my sequence,checkMySequence
+christographer,crystallographer
+christography,crystallography
+crims,CRIMS
+Crystal Graphics symmetry,crystallographic symmetry
+Crystal low graphic symmetry,crystallographic symmetry
+define a twin law,the set of all the twin operations that do the same mapping
+define epitaxy,the oriented crystal association of chemically heterogeneous phases
+define non-merohedral twinning,only certain zones of reciprocal lattice points overlap
+define twin operation,the operation mapping the orientations of two individuals of a twin, one on to the other, and is a crystallographic operation about a direct lattice element
+define twinning,the oriented association of two or more individual domains in the same crystalline phase
+disarmography,crystallography
+electric graphics,molecular graphics
+electric placement,molecular replacement
+eln,ELN
+epitaxial twinning,WRONG!! Misused term. Rewrite.
+epxand CRIMS,Crystallographic Information Management System
+equation for quantum refinment in phenix,	$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
+equation gradient driven quantum refinment in phenix,	$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
+equations for hemihedry,"\begin{equation}
+eval 15,Eval15
 exapnd cns,Crystallography and NMR System
 exapnd mad,Multi-wavelength Anomalous Diffraction
 expand aca,ACA the Structural Science Society
+expand ADP,Atomic Displacement Paramters
 expand afca,African Crystallographic Association
 expand als,Advanced Light Source
 expand amf,Atomic Modulation Function
@@ -18,7 +64,10 @@ expand csgid,Center for Structural Genomics of Infectious Diseases
 expand dddwg,IUCr Diffraction Data Deposition Working Group
 expand digs,Demodulation of Intensities by Grouping and Scaling\
 expand doi,Digital Object Identifier
+expand DPI,Diffraction Precision Index
+expand DSL,Domain Specific Language
 expand eca,European Crystallographic Association
+expand eln,Electronic Lab Notebook
 expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
 expand irrmc,Integrated Resource for Reproducibility inMacromolecular Crystallography
@@ -26,7 +75,6 @@ expand iucr,International Union of Crystallography
 expand jac,Journal of Applied Crystallography
 expand jcsg,Joint Center for Structural Genomic
 expand jsr,Journal of Synchrotron Radiation
-expand eln, Electronic Lab Notebook
 expand lims,Laboratory Information Management System
 expand ltd,Lattice Translocation Deffects
 expand mcsg,Midwest Center for Structural Genomics
@@ -38,6 +86,7 @@ expand ndb,Nucleic Acid Database
 expand nsls2,National Synchtrotron Light Source II
 expand nysgrc,New York Structural Genomics Research Consortium
 expand od,Order-Disorder
+expand ONIOM,\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
 expand oup,Oxford University Press
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
@@ -56,321 +105,266 @@ expand ssrl,Stanford Synchrotron Radiation Lightsource
 expand tls,"Translation, Libration, and Screw" 
 expand tncs,translational noncrystallographic symmetry
 expand waxs,Wide-Angle X-ray Scattering
-equations for hemihedry,"\begin{equation}
-\begin{aligned}
-& I_{\mathrm{obs}}\left(\mathbf{h}_1\right)=(1-\alpha) I\left(\mathbf{h}_1\right)+\alpha I\left(\mathbf{h}_2\right), \\
-& I_{\text {obs }}\left(\mathbf{h}_2\right)=\alpha I\left(\mathbf{h}_1\right)+(1-\alpha) I\left(\mathbf{h}_2\right),
-\end{aligned}
-\end{equation}"
 expresion for I over sigma,$I/{\sigma}$
 expression for sigmaA 2fo minus fc, $2mF_{o} - DF_{c}$
 expression for sigmaA fo minus fc, $mF_{o} - DF_{c}$
 expression for Stanley factor,$\left\langle I^2\right\rangle /\langle I\rangle^2$
 expression for Stanley ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$
 expression for Wilson ratio,$\left\langle I^2\right\rangle /\langle I\rangle^2$
-value of Wilson ratio for acentric data from untwinned crystal,0.785
-value of Wilson ratio for acentric data from perfect twin,0.885
-value of Stanley factor for acentric data from perfect twin,1.5
-value of Stanley factor for acentric data from untwinned crystal,2
+F222,$F222$
+F4132,$F4_{1}32$
+F432,$F432$
+FLEV,Flatland Ligand Environment View
+flexer,FLEXR
+four one,$4_1$
+four sub one,$4_1$
+four sub three,$4_3$
+four sub two,$4_2$
+gemme,GEMMI
+gemmi,GEMMI
+H3,$H3$
+H32,$H32$
+hemihedral 20,hemihedral twinning
+hemihedral twin,twinning by hemihedry
+hemihedral twinning,twinning by hemihedry 
+hendrickson-lattman coefficients,Hendrickson-Lattman coefficients
+hkl 3000,HKL3000
+How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law. 
+I over sick,$I/{\sigma}$
+I212121,$I2_{1}2_{1}2_{1}$ 
+I222,$I222$ 
+I4,$I4$
+I41,$I4_{1}$
+I4122,$I4_{1}22$
+I4132,$I4_{1}32$
+I422,$I422$
+I432,$I432$
+ice bear,IceBear
+in commensurately,incommensurately
+insert Bragg's equation,$$2 \mathrm{~d} \sin \theta=\mathrm{n} \lambda$$
+insert equation for atomic scattering factor vector,$$\mathbf{f}_j=f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
+insert equation for position vector,$$\mathbf{r}=\mathbf{a x}+\mathbf{b y}+\mathbf{c z}$$
+insert equation for the structure factor with contributions from one molecule,\mathbf{F}_1(h,k,l) = \sum_j f_j \exp(2\pi\,i\,(hx_j+ky_j+lz_j)
+insert equation for the structure factor,$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
+insert space group number for C2,5
+insert space group number for C222,21
+insert space group number for C2221,20
+insert space group number for F222,22
+insert space group number for F23,196
+insert space group number for F4132,210
+insert space group number for F432,209
+insert space group number for I212121,24
+insert space group number for I213,199
+insert space group number for I222,23
+insert space group number for I23,197
+insert space group number for I4,79
+insert space group number for I41,80
+insert space group number for I4122,98
+insert space group number for I4132,214
+insert space group number for I422,97
+insert space group number for I432,211
+insert space group number for P1,1
+insert space group number for P2,3
+insert space group number for P21,4
+insert space group number for P21212,18
+insert space group number for P212121,19
+insert space group number for P213,198
+insert space group number for P222,16
+insert space group number for P2221,17
+insert space group number for P23,195
+insert space group number for P3,143
+insert space group number for P31,144
+insert space group number for P3112,151
+insert space group number for P312,149
+insert space group number for P3121,152
+insert space group number for P32,145
+insert space group number for P321,150
+insert space group number for P3212,153
+insert space group number for P3221,154
+insert space group number for P4,75
+insert space group number for P41,76
+insert space group number for P41212,92
+insert space group number for P4122,91
+insert space group number for P4132,213
+insert space group number for P42,77
+insert space group number for P4212,90
+insert space group number for P422,89
+insert space group number for P42212,94
+insert space group number for P4222,93
+insert space group number for P4232,208
+insert space group number for P43,78
+insert space group number for P432,207
+insert space group number for P43212,96
+insert space group number for P4322,95
+insert space group number for P4332,212
+insert space group number for P6,168
+insert space group number for P61,169
+insert space group number for P6122,178
+insert space group number for P622,177
+insert space group number for P6222,180
+insert space group number for P63,171
+insert space group number for P63,173
+insert space group number for P6322,182
+insert space group number for P64,172
+insert space group number for P6422,181
+insert space group number for P65,170
+insert space group number for P6522,179
+insert space group number for R3,146
+insert space group number for R32,155
+insert url for space group tables,\url{http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm}
+international tables for crystallography,International Tables for Crystallography
+international tables of crystallography,International Tables for Crystallography
+isolde,ISOLDE
+iucrdata,IUCrData
+iucrj,IUCrJ
+jana 2006,Jana2006
+latches translocation defects,Lattice-Translocation Defects
+lattice-translocation defects,Lattice-Translocation Defects
+Limited twinning,mimetic twinning
+lims,LIMS
+list the causes of twinning,(1) occurs during nucleation, (2) post-growth nucleation and oriented attachment, (3)a phase tranisiton, or (4) mechanical action
+Lolly symmetry,Laue symmetry
+Lowry Cemetery,Laue symmetry
+Magnetic 20,mimetic twinning
+Magnetic twin,mimetic twinning
+Memetic 20,mimetic twinning
+mero-hitriy,merohedry
+merohedral 20, merohedral twinning
+merohedral twin,twinning by merohedry 
+merohedral twinning,twinning by merohedry 
+model craft,ModelCraft
+more hen,Moorhen
+mtz,MTZ
+NCS operator,NCS operation 
+non-merohedral 20,non-merohedral twinning
+nucleic acid cartography,nucleic acid crystallography
+olex2,Olex2
+order disorder,Order-Disorder
+P1,$P1$
+P2,$P2$
+P21,$P2_{1}$ 
+P21212,$P2_{1}2_{1}2$ 
+P212121,$P2_{1}2_{1}2_{1}$ 
+P222,$P222$
+P2221,$P222_{1}$ 
+P3,$P3$
+P31,$P3_{1}$
+P3112,$P3_{1}12$
+P312,$P312$
+P3121,$P3_{1}21$
+P32,$P3_{2}$
+P321,$P321$
+P3212,$P3_{2}12$
+P3221,$P3_{2}21$
+P4,$P4$
+P41,$P4_{1}$
+P41212,$P4_{1}2_{1}2$
+P4122,$P4_{1}22$
+P4132,$P4_{1}32$
+P42,$P4_{2}$
+P422,$P422$
+P422,$P42_{1}2_{1}$
+P42212,$P4_{2}2_{1}2$
+P4222,$P4_{2}22$
+P4232,$P4_{2}32$
+P43,$P4_{3}$
+P432,$P432$
+P43212,$P4_{3}2_{1}2$
+P4322,$P4_{3}22$
+P4332,$P4_{3}32$
+P6,$P6$
+P61,$P6_{1}$
+P6122,$P6_{1}22$
+P62,$P6_{2}$
+P6222,$P6_{2}22$
+P63,$P6_{3}$
+P6322,$P6_{3}22$
+P64,$P6_{4}$
+P6422,$P6_{4}22$
+P65,$P6_{5}$
+P6522,$P6_{5}22$
+parent cemetery,apparent symmetry
+partial 20,partial twinning
+Perfect 20,perfect twinning
+Phoenix Dot extraarch,phenix.xtriage
+Phoenix extraage,phenix.xtriage
+Phoenix,Phenix
+point group 2,$2$
+point group 222,$222$
+point group 23,$23$
+point group 32, $32$
+point group 4,$4$
+point group 422,$422$
+point group 432,$432$
+point group 6,$6$
+point group 622,$622$
+privateer,Privateer
+pseudo-translational,pseudotranslational
+pseudomeroheral 20,pseudomeroheral twinnig
+R3,$R3$
+R32,$R32$
+ref Mac,Refmac5
+reticular 20, reticular twinning
+reticular metal hatred,reticular merohedry
+reticular metal hedry,reticular merohedry
+rock maker,ROCK MAKER
+rock maker,Rockmaker
+rotational order-disorder,Rotational Order-Disorder
+rough Mac,Refmac5
+se star,$\mathbf{c}$
+secretron radiation labs,synchrotron radiation labs
+section A,Acta Cryst. Section A
+section B,Acta Cryst. Section B
+section C,Acta Cryst. Section C
+section D,Acta Cryst. Section D
+section E,Acta Cryst. Section E
+section F,Acta Cryst. Section F
+see 2,$C2$
+see 2221,$C222_{1}$
+shell XL,SHELXL
+six sub five,$6_5$
+six sub four,$6_4$
+six sub one,$6_1$
+six sub three,$6_3$
+six sub two,$6_2$
+super flip,SuperFlip
+tetartohedral twin,twinning by tetartohedry 
+tetartohedral twinning,twinning by tetartohedry 
+The Mythic 20,mimetic twinning
+The Mythic twinning,mimetic twinning
+three sub one,$3_1$
+three sub one,$3_2$
+tritohedral twin,tritohedry twinning
+tritohedral twinning,twinning by tritohedry twinning
+twin operator,twin operation 
+twinning operation,twin operation 
+twinning operator,twinning operation
+two sub one,$2_1$
 url for atsas,\url{https://www.embl-hamburg.de/biosaxs/atsas-online/}
 url for bioxtas,\url{https://bioxtas-raw.readthedocs.io/en/latest/}
 url for coot,\curl{https://pemsley.github.io/coot/}
 url for crims,\url{https://alpx-services.com/#crims}
 url for ice bear,\url{https://www.icebear.fi/}
 url for IRRMC,\url{http://www.proteindiffraction.org}
-url for Jana2020,\url{http://jana.fzu.cz/}
 url for Jana2006,\url{http://jana.fzu.cz/}
+url for Jana2020,\url{http://jana.fzu.cz/}
 url for moorhen,\url{moorhen.org}
 url for phenix,\url{https://phenix-online.org}
 url for rock maker,\url{https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/}
 url for RoPE,\url{rope.hginn.co.uk}
-url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
 url for shelx,\url{https://shelx.uni-goettingen.de/}
 url for sirware,\url{https://www.ba.ic.cnr.it/softwareic}
+url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
+url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
 url for ucla anisotropy server,\url{https://srv.mbi.ucla.edu/Anisoscale/}
-url for ucla server for nist*Lattice,\url{https://services.mbi.ucla.edu/nist/}
 url for ucla self-rotation funciton server,\url{https://services.mbi.ucla.edu/selfrot/}
+url for ucla server for nist*Lattice,\url{https://services.mbi.ucla.edu/nist/}
 url for ucla twinning server,\url{https://srv.mbi.ucla.edu/Twinning/}
 url for zenodo,\url{https://zenodo.org/}
-P1,$P1$
-P2,$P2$
-P21,$P2_{1}$ 
-C2,$C2$
-P222,$P222$
-P212121,$P2_{1}2_{1}2_{1}$ 
-P21212,$P2_{1}2_{1}2$ 
-P2221,$P222_{1}$ 
-C222,$C222$ 
-C2221,$C222_{1}$ 
-F222,$F222$
-I222,$I222$ 
-I212121,$I2_{1}2_{1}2_{1}$ 
-P4,$P4$
-P41,$P4_{1}$
-P42,$P4_{2}$
-P43,$P4_{3}$
-I4,$I4$
-I41,$I4_{1}$
-P422,$P422$
-P422,$P42_{1}2_{1}$
-P4122,$P4_{1}22$
-P41212,$P4_{1}2_{1}2$
-P4222,$P4_{2}22$
-P42212,$P4_{2}2_{1}2$
-P43212,$P4_{3}2_{1}2$
-P4322,$P4_{3}22$
-I422,$I422$
-I4122,$I4_{1}22$
-P3,$P3$
-P31,$P3_{1}$
-P32,$P3_{2}$
-P321,$P321$
-P312,$P312$
-P3112,$P3_{1}12$
-P3121,$P3_{1}21$
-P3212,$P3_{2}12$
-P3221,$P3_{2}21$
-R3,$R3$
-H3,$H3$
-R32,$R32$
-H32,$H32$
-P6,$P6$
-P61,$P6_{1}$
-P62,$P6_{2}$
-P63,$P6_{3}$
-P64,$P6_{4}$
-P65,$P6_{5}$
-P6122,$P6_{1}22$
-P6222,$P6_{2}22$
-P6322,$P6_{3}22$
-P6422,$P6_{4}22$
-P6522,$P6_{5}22$
-P432,$P432$
-P4132,$P4_{1}32$
-P4232,$P4_{2}32$
-P4332,$P4_{3}32$
-F432,$F432$
-F4132,$F4_{1}32$
-I432,$I432$
-I4132,$I4_{1}32$
-point group 2,$2$
-point group 222,$222$
-point group 4,$4$
-point group 422,$422$
-point group 32, $32$
-point group 23,$23$
-point group 432,$432$
-point group 6,$6$
-point group 622,$622$
-insert url for space group tables,\url{http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm}
-insert space group number for P1,1
-insert space group number for P2,3
-insert space group number for P21,4
-insert space group number for C2,5
-insert space group number for P222,16
-insert space group number for P2221,17
-insert space group number for P21212,18
-insert space group number for P212121,19
-insert space group number for C2221,20
-insert space group number for C222,21
-insert space group number for F222,22
-insert space group number for I222,23
-insert space group number for I212121,24
-insert space group number for P4,75
-insert space group number for P41,76
-insert space group number for P42,77
-insert space group number for P43,78
-insert space group number for I4,79
-insert space group number for I41,80
-insert space group number for P422,89
-insert space group number for P4212,90
-insert space group number for P4122,91
-insert space group number for P41212,92
-insert space group number for P4222,93
-insert space group number for P42212,94
-insert space group number for P4322,95
-insert space group number for P43212,96
-insert space group number for I422,97
-insert space group number for I4122,98
-insert space group number for P3,143
-insert space group number for P31,144
-insert space group number for P32,145
-insert space group number for R3,146
-insert space group number for P312,149
-insert space group number for P321,150
-insert space group number for P3112,151
-insert space group number for P3121,152
-insert space group number for P3212,153
-insert space group number for P3221,154
-insert space group number for R32,155
-insert space group number for P6,168
-insert space group number for P61,169
-insert space group number for P65,170
-insert space group number for P63,171
-insert space group number for P64,172
-insert space group number for P63,173
-insert space group number for P622,177
-insert space group number for P6122,178
-insert space group number for P6522,179
-insert space group number for P6222,180
-insert space group number for P6422,181
-insert space group number for P6322,182
-insert space group number for P23,195
-insert space group number for F23,196
-insert space group number for I23,197
-insert space group number for P213,198
-insert space group number for I213,199
-insert space group number for P432,207
-insert space group number for P4232,208
-insert space group number for F432,209
-insert space group number for F4132,210
-insert space group number for I432,211
-insert space group number for P4332,212
-insert space group number for P4132,213
-insert space group number for I4132,214
-mero-hitriy,merohedry
-reticular 20, reticular twinning
-pseudomeroheral 20,pseudomeroheral twinnig
-merohedral 20, merohedral twinning
-hemihedral 20,hemihedral twinning
-non-merohedral 20,non-merohedral twinning
-20 by merohedry, twinning by merohedry
-20th operator,twinning operator
-mtz,MTZ
-olex2,Olex2
-jana 2006,Jana2006
-super flip,SuperFlip
-a star,$\mathbf{a}$
-b star,$\mathbf{b}$
-be star,$\mathbf{b}$
-c star,$\mathbf{c}$
-se star,$\mathbf{c}$
-eval 15,Eval15
-Yana 2006,Jana2006
-in commensurately,incommensurately
-url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
-rotational order-disorder,Rotational Order-Disorder
-order disorder,Order-Disorder
-latches translocation defects,Lattice-Translocation Defects
-lattice-translocation defects,Lattice-Translocation Defects
-twinning operation,twin operation 
-define twin operation,the operation mapping the orientations of two individuals of a twin, one on to the other, and is a crystallographic operation about a direct lattice element
-define twinning,the oriented association of two or more individual domains in the same crystalline phase
-list the causes of twinning,(1) occurs during nucleation, (2) post-growth nucleation and oriented attachment, (3)a phase tranisiton, or (4) mechanical action
-define a twin law,the set of all the twin operations that do the same mapping
-How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law. 
-define epitaxy,the oriented crystal association of chemically heterogeneous phases
-epitaxial twinning,WRONG!! Misused term. Rewrite.
-merohedral twinning,twinning by merohedry 
-hemihedral twinning,twinning by hemihedry 
-merohedral twin,twinning by merohedry 
-hemihedral twin,twinning by hemihedry
-tritohedral twinning,twinning by tritohedry twinning
-tritohedral twin,tritohedry twinning
-tetartohedral twin, twinning by tetartohedry 
-tetartohedral twinning, twinning by tetartohedry 
-twin operator,twin operation 
-twinning operator,twinning operation
-bizarre systematic absences,non-space group absences 
-Britian plot,Britton plot 
-NCS operator,NCS operation 
+value of Stanley factor for acentric data from perfect twin,1.5
+value of Stanley factor for acentric data from untwinned crystal,2
+value of Wilson ratio for acentric data from perfect twin,0.885
+value of Wilson ratio for acentric data from untwinned crystal,0.785
 What is a common feature of merohedral and pseudomyhedral twinning,all of the reflections from the twin domains overlap
-define non-merohedral twinning,only certain zones of reciprocal lattice points overlap
-pseudo-translational,pseudotranslational
-christography,crystallography
-Anita Patterson,a native Patterson
-hkl 3000,HKL3000
-I over sick,$I/{\sigma}$
-Phoenix Dot extraarch,phenix.xtriage
-Phoenix extraage,phenix.xtriage
-see 2221,$C222_{1}$
-see 2,$C2$
-C222,$C222_{1}$
-Phoenix,Phenix
-shell XL,SHELXL
-parent cemetery,apparent symmetry
-electric placement,molecular replacement
-20 operation,twinning operation
-20 in operation,twinning operation
-Crystal Graphics symmetry,crystallographic symmetry
-Crystal low graphic symmetry,crystallographic symmetry
-20 in operation,twinning operation
-Lolly symmetry,Laue symmetry
-Lowry Cemetery,Laue symmetry
-Perfect 20,perfect twinning
-partial 20,partial twinning
-actor Christ,Acta Cryst.
-disarmography,crystallography
-nucleic acid cartography,nucleic acid crystallography
-international tables for crystallography,International Tables for Crystallography
-international tables of crystallography,International Tables for Crystallography
-The Mythic twinning,mimetic twinning
-Magnetic 20,mimetic twinning
-The Mythic 20,mimetic twinning
-Memetic 20,mimetic twinning
-Magnetic twin,mimetic twinning
-Limited twinning,mimetic twinning
-20 by hemahedron,twinning by hemihedry
-more hen,Moorhen
-electric graphics,molecular graphics
-reticular metal hedry,reticular merohedry
-reticular metal hatred,reticular merohedry
-ref Mac,Refmac5
-rough Mac,Refmac5
-ccp4 study weekend,CCP4 Study Weekend
-ice bear,IceBear
-rock maker,Rockmaker
-eln,ELN
-lims,LIMS
-crims,CRIMS
-epxand CRIMS,Crystallographic Information Management System
-rock maker,ROCK MAKER
-christographer,crystallographer
-secretron radiation labs,synchrotron radiation labs
-FLEV,Flatland Ligand Environment View
-gemme,GEMMI
-gemmi,GEMMI
-flexer,FLEXR
-ccp4 cloud,CCP4 Cloud
-privateer,Privateer,
-model craft,ModelCraft
-alpha fold two,AlphaFold2
-check my sequence,checkMySequence
-check my metal,checkMyMetal
-isolde,ISOLDE
+Yana 2006,Jana2006
 zenodo,Zenodo
-hendrickson-lattman coefficients,Hendrickson-Lattman coefficients
-section A, Acta Cryst. Section A
-section B, Acta Cryst. Section B
-section C, Acta Cryst. Section C
-section D, Acta Cryst. Section D
-section E, Acta Cryst. Section E
-section F, Acta Cryst. Section F
-iucrj,IUCrJ
-iucrdata,IUCrData
-expand DSL,Domain Specific Language
-expand ONIOM,	\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
-equation gradient driven quantum refinment in phenix,	$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
-equation for quantum refinment in phenix,	$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
-bravis lattice,	Bravias lattice
-bravis lattices,	Bravias lattices
-four sub one,	$4_1$
-four one,	$4_1$
-two sub one,	$2_1$
-three sub one,	$3_1$
-six sub one,	$6_1$
-four sub two,	$4_2$
-four sub three,	$4_3$
-three sub one,	$3_2$
-six sub two,	$6_2$
-six sub three,	$6_3$
-six sub four,	$6_4$
-six sub five,	$6_5$
-insert equation for atomic scattering factor vector,$$\mathbf{f}_j=f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
-insert equation for the structure factor,$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
-insert equation for position vector,$$\mathbf{r}=\mathbf{a x}+\mathbf{b y}+\mathbf{c z}$$
-insert Bragg's equation,$$2 \mathrm{~d} \sin \theta=\mathrm{n} \lambda$$
-Argand diagram,Argand diagram
-expand ADP,Atomic Displacement Paramters
-expand DPI,Diffraction Precision Index
-insert equation for the structure factor with contributions from one molecule,\mathbf{F}_1(h,k,l) = \sum_j f_j \exp(2\pi\,i\,(hx_j+ky_j+lz_j)

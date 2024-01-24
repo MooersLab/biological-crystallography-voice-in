@@ -101,7 +101,7 @@ expand slac,SLAC National Accelerator Center
 expand ssgcid,Seattle Structural Genomics Center for Infectious Disease 
 expand ssrl uec,SSRL Users Executive Committee
 expand ssrl,Stanford Synchrotron Radiation Lightsource
-expand tls,"Translation, Libration, and Screw" 
+expand tls,Translation Libration and Screw
 expand tncs,translational noncrystallographic symmetry
 expand waxs,Wide-Angle X-ray Scattering
 expresion for I over sigma,$I/{\sigma}$

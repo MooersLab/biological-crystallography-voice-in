@@ -143,7 +143,7 @@ in commensurately,incommensurately
 insert Bragg's equation,$$2 \mathrm{~d} \sin \theta=\mathrm{n} \lambda$$
 insert equation for atomic scattering factor vector,$$\mathbf{f}_j=f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
 insert equation for position vector,$$\mathbf{r}=\mathbf{a x}+\mathbf{b y}+\mathbf{c z}$$
-insert equation for the structure factor with contributions from one molecule,\mathbf{F}_1(h,k,l) = \sum_j f_j \exp(2\pi\,i\,(hx_j+ky_j+lz_j)
+insert equation for the structure factor with contributions from one molecule,$$\mathbf{F}_1(h,k,l) = \sum_j f_j \exp(2\pi\,i\,(hx_j+ky_j+lz_j)$$
 insert equation for the structure factor,$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
 insert space group number for C2,5
 insert space group number for C222,21

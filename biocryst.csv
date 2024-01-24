@@ -41,7 +41,6 @@ epitaxial twinning,WRONG!! Misused term. Rewrite.
 epxand CRIMS,Crystallographic Information Management System
 equation for quantum refinment in phenix,	$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
 equation gradient driven quantum refinment in phenix,	$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
-equations for hemihedry,"\begin{equation}
 eval 15,Eval15
 exapnd cns,Crystallography and NMR System
 exapnd mad,Multi-wavelength Anomalous Diffraction

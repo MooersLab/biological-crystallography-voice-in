@@ -26,6 +26,7 @@ check my metal,checkMyMetal
 check my sequence,checkMySequence
 christographer,crystallographer
 christography,crystallography
+cns,CNS
 crims,CRIMS
 Crystal Graphics symmetry,crystallographic symmetry
 Crystal low graphic symmetry,crystallographic symmetry
@@ -59,6 +60,8 @@ expand charmm,Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
 expand cmb,IUCr Commission on Biological Macromolecules
 expand cmm,checkMyMetal
+expand cns,Cold Neutron Source
+expand cns,Crystallography and NMR System
 expand cryo-em,cryo electron microscopy
 expand csgid,Center for Structural Genomics of Infectious Diseases
 expand dddwg,IUCr Diffraction Data Deposition Working Group
@@ -82,8 +85,11 @@ expand mcsg,Midwest Center for Structural Genomics
 expand mir,Multiple Isomorpous Replacement
 expand mr,Molecular Replacement
 expand nakb,Nucleic Acid Knowledge Base
+expand nbsr,National Bureau of Standards Reactor
 expand ncs,noncrystallographic symmetry
+expand ncnr,NIST Center for Neutron Research
 expand ndb,Nucleic Acid Database
+expand nist,National Institute of Standards and Technology
 expand nsls2,National Synchtrotron Light Source II
 expand nysgrc,New York Structural Genomics Research Consortium
 expand od,Order-Disorder

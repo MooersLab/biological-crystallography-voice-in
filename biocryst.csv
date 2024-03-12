@@ -70,11 +70,12 @@ expand eca,European Crystallographic Association
 expand eln,Electronic Lab Notebook
 expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
-expand irrmc,Integrated Resource for Reproducibility inMacromolecular Crystallography
+expand irrmc,Integrated Resource for Reproducibility in Macromolecular Crystallography
 expand iucr,International Union of Crystallography
 expand jac,Journal of Applied Crystallography
 expand jcsg,Joint Center for Structural Genomic
 expand jsr,Journal of Synchrotron Radiation
+expand lcls,Linac Coherent Light Source
 expand lims,Laboratory Information Management System
 expand ltd,Lattice Translocation Deffects
 expand mcsg,Midwest Center for Structural Genomics
@@ -92,6 +93,7 @@ expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
 expand rod,Rotational Order-Disorder
 expand rope,Representation of Protein Entities
+expand sack,Scientific Advisory Committee
 expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
@@ -99,11 +101,13 @@ expand saxs,small-angle X-ray scattering
 expand sbgrid,Structural Biology Grid Consortium
 expand sgc,Structural Genomics Consortium 
 expand slac,SLAC National Accelerator Center
-expand ssgcid,Seattle Structural Genomics Center for Infectious Disease 
+expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
+expand ssrl sack,SSRL Scientific Advisory Committee
 expand ssrl uec,SSRL Users Executive Committee
 expand ssrl,Stanford Synchrotron Radiation Lightsource
 expand tls,Translation Libration and Screw
 expand tncs,translational noncrystallographic symmetry
+expand xfel,X-ray Free Electron Laser
 expand waxs,Wide-Angle X-ray Scattering
 expresion for I over sigma,$I/{\sigma}$
 expression for sigmaA 2fo minus fc, $2mF_{o} - DF_{c}$
@@ -220,6 +224,10 @@ iucrj,IUCrJ
 jana 2006,Jana2006
 latches translocation defects,Lattice-Translocation Defects
 lattice-translocation defects,Lattice-Translocation Defects
+lcls,LCLS
+lcls users' executive committee,LCL Users' Executive Committee
+lcls2,LCLS-II
+lclsx,LCLS-X
 Limited twinning,mimetic twinning
 lims,LIMS
 list the causes of twinning,(1) occurs during nucleation\n (2) post-growth nucleation and oriented attachment\n (3)a phase tranisiton\n (4) mechanical action\n
@@ -327,6 +335,9 @@ six sub four,$6_4$
 six sub one,$6_1$
 six sub three,$6_3$
 six sub two,$6_2$
+ssrl lcls users meeting,SSRL/LCLS Users Meeting
+ssrl scientific advisory committee,SSRL Scientific Advisory Committee
+ssrl users' executive committee,SSRL Users' Executive Committee
 super flip,SuperFlip
 tetartohedral twin,twinning by tetartohedry 
 tetartohedral twinning,twinning by tetartohedry 

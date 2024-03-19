@@ -44,8 +44,6 @@ epxand CRIMS,Crystallographic Information Management System
 equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
 equation gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
 eval 15,Eval15
-exapnd cns,Crystallography and NMR System
-exapnd mad,Multi-wavelength Anomalous Diffraction
 expand aca,ACA the Structural Science Society
 expand ADP,Atomic Displacement Paramters
 expand ALD,Associate Lab Director
@@ -58,6 +56,7 @@ expand bnl,Brookhaven National Laboratory
 expand ccn,Computational Crystallography Newsletter
 expand ccp4,Collaborative Computational Project Number 4
 expand cctbx,Computational Crystallography Toolbox
+exapnd cns,Crystallography and NMR System
 expand charmm,Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
 expand cmb,IUCr Commission on Biological Macromolecules
@@ -73,8 +72,15 @@ expand DPI,Diffraction Precision Index
 expand DSL,Domain Specific Language
 expand eca,European Crystallographic Association
 expand eln,Electronic Lab Notebook
+expand elmam2,Epxerimental Library of Multipolar Atom Model 2
+expand elmo,Extremely Localized Molecular Oribitals
 expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
+expand gid,Generalized Invariom Database
+expand har,Hirshfeld Atom Refinement
+expand iam,Independent Atom Model
+expand ias,Interatomic Scatterers
+expand ideal,Invariom Derived Electron AnaLysis
 expand irrmc,Integrated Resource for Reproducibility in Macromolecular Crystallography
 expand iucr,International Union of Crystallography
 expand jac,Journal of Applied Crystallography
@@ -84,6 +90,9 @@ expand lcls,Linac Coherent Light Source
 expand lims,Laboratory Information Management System
 expand llg,log likelihood gain
 expand ltd,Lattice Translocation Deffects
+exapnd mad,Multi-wavelength Anomalous Diffraction
+expand matts,Multipolar Atom Types from Thoery and Statistical clustering databank
+expand MEM,Maximum Entropy Method
 expand mcsg,Midwest Center for Structural Genomics
 expand mir,Multiple Isomorpous Replacement
 expand mr,Molecular Replacement
@@ -109,6 +118,7 @@ expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering
+expand sbfa,Supramolecular Synthon Based Fragments Approach
 expand sbgrid,Structural Biology Grid Consortium
 expand sgc,Structural Genomics Consortium 
 expand slac,SLAC National Accelerator Center
@@ -116,8 +126,10 @@ expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
 expand ssrl sack,SSRL Scientific Advisory Committee
 expand ssrl uec,SSRL Users Executive Committee
 expand ssrl,Stanford Synchrotron Radiation Lightsource
+expand taam,Transferable Aspherical Atom Model
 expand tls,Translation Libration and Screw
 expand tncs,translational noncrystallographic symmetry
+expand vir,Database of real and virtual spherical-atom parameters
 expand xfel,X-ray Free Electron Laser
 expand waxs,Wide-Angle X-ray Scattering
 expresion for I over sigma,$I/{\sigma}$

@@ -67,6 +67,7 @@ expand cns,Crystallography and NMR System
 expand cryo-em,cryo electron microscopy
 expand csgid,Center for Structural Genomics of Infectious Diseases
 expand dddwg,IUCr Diffraction Data Deposition Working Group
+expand dft,Density Functional Theory
 expand digs,Demodulation of Intensities by Grouping and Scaling\
 expand doi,Digital Object Identifier
 expand DPI,Diffraction Precision Index
@@ -79,6 +80,7 @@ expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
 expand gid,Generalized Invariom Database
 expand har,Hirshfeld Atom Refinement
+expand HF,Hartree-Fock
 expand iam,Independent Atom Model
 expand ias,Interatomic Scatterers
 expand ideal,Invariom Derived Electron AnaLysis
@@ -130,6 +132,7 @@ expand ssrl,Stanford Synchrotron Radiation Lightsource
 expand taam,Transferable Aspherical Atom Model
 expand tls,Translation Libration and Screw
 expand tncs,translational noncrystallographic symmetry
+expand udbd,University of Buffalo Databank
 expand vir,Database of real and virtual spherical-atom parameters
 expand xfel,X-ray Free Electron Laser
 expand waxs,Wide-Angle X-ray Scattering

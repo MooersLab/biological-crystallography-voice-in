@@ -48,10 +48,12 @@ exapnd cns,Crystallography and NMR System
 exapnd mad,Multi-wavelength Anomalous Diffraction
 expand aca,ACA the Structural Science Society
 expand ADP,Atomic Displacement Paramters
+expand ALD,Associate Lab Director
 expand afca,African Crystallographic Association
 expand als,Advanced Light Source
 expand amf,Atomic Modulation Function
 expand aps,Advanced Photon Source
+expand besac,Basic Energy Sciences Advisory Committee
 expand bnl,Brookhaven National Laboratory
 expand ccn,Computational Crystallography Newsletter
 expand ccp4,Collaborative Computational Project Number 4
@@ -80,6 +82,7 @@ expand jcsg,Joint Center for Structural Genomic
 expand jsr,Journal of Synchrotron Radiation
 expand lcls,Linac Coherent Light Source
 expand lims,Laboratory Information Management System
+expand llg,log likelihood gain
 expand ltd,Lattice Translocation Deffects
 expand mcsg,Midwest Center for Structural Genomics
 expand mir,Multiple Isomorpous Replacement
@@ -95,10 +98,12 @@ expand nysgrc,New York Structural Genomics Research Consortium
 expand od,Order-Disorder
 expand ONIOM,\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
 expand oup,Oxford University Press
+expand pae,Predicted Aligned Error
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand rncs, rotational noncrystallographic symmetry
 expand rod,Rotational Order-Disorder
-expand rope,Representation of Protein Entities
+expand rope,Representation of Protein Entities.
 expand sack,Scientific Advisory Committee
 expand sad,Single-wavelength Anomalous Diffraction
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2

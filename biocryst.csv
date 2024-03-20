@@ -84,6 +84,7 @@ expand elmo,Extremely Localized Molecular Oribitals
 expand eln,Electronic Lab Notebook
 expand epmm,Exact Potential Multipole Moment
 expand esrf,European Synchrotron Radiation Facility
+expand EPMM,Exact Potential Multipole Moment
 expand fair,Findable Accessible Interoperable Re-usable
 expand FFT,Fast Fourier Transform
 expand gid,Generalized Invariom Database
@@ -108,7 +109,8 @@ expand MEM,Maximum Entropy Method
 expand mcsg,Midwest Center for Structural Genomics
 expand mir,Multiple Isomorpous Replacement
 expand mmCIF,macro-molecular crystallographic information file
-expand mogul,
+expand mndo,Modified Neglect of Diatomic Overlap
+expand mopac,Molecular Orbital PACkage
 expand mr,Molecular Replacement
 expand nakb,Nucleic Acid Knowledge Base
 expand nbsr,National Bureau of Standards Reactor
@@ -125,7 +127,9 @@ expand oup,Oxford University Press
 expand pae,Predicted Aligned Error
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand pli,protein-ligand interactions
 expand qmr,quantum mechanical refinement
+expand qtaim,Quantum Theory of Atoms in Molecules
 expand reel,Restraint Editor Essentially Ligands
 expand rncs, rotational noncrystallographic symmetry
 expand rod,Rotational Order-Disorder
@@ -138,6 +142,7 @@ expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering
 expand sbfa,Supramolecular Synthon Based Fragments Approach
 expand sbgrid,Structural Biology Grid Consortium
+expand scf,Self-Consistent Field
 expand sgc,Structural Genomics Consortium
 expand smiles,Simplified Molecular-Input Line-Entry System 
 expand slac,SLAC National Accelerator Center
@@ -151,6 +156,7 @@ expand tncs,translational noncrystallographic symmetry
 expand udbd,University of Buffalo Databank
 expand vir,Database of real and virtual spherical-atom parameters
 expand xfel,X-ray Free Electron Laser
+vdW,van der Waals
 expand waxs,Wide-Angle X-ray Scattering
 expresion for I over sigma,$I/{\sigma}$
 expression for sigmaA 2fo minus fc, $2mF_{o} - DF_{c}$

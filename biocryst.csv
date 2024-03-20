@@ -57,6 +57,7 @@ expand bnl,Brookhaven National Laboratory
 expand ccn,Computational Crystallography Newsletter
 expand ccp4,Collaborative Computational Project Number 4
 expand cctbx,Computational Crystallography Toolbox
+expand cif,Crystallographic Information File 
 exapnd cns,Crystallography and NMR System
 expand charmm,Chemistry at Harvard Molecular Mechanics
 expand chess,Cornell High Energy Synchrotron Source
@@ -65,19 +66,22 @@ expand cmm,checkMyMetal
 expand cns,Cold Neutron Source
 expand cns,Crystallography and NMR System
 expand cryo-em,cryo electron microscopy
+exapnd csd,Cambridge Structural Database
 expand csgid,Center for Structural Genomics of Infectious Diseases
 expand dddwg,IUCr Diffraction Data Deposition Working Group
 expand dft,Density Functional Theory
-expand digs,Demodulation of Intensities by Grouping and Scaling\
+expand digs,Demodulation of Intensities by Grouping and Scaling
 expand doi,Digital Object Identifier
 expand DPI,Diffraction Precision Index
 expand DSL,Domain Specific Language
 expand eca,European Crystallographic Association
-expand eln,Electronic Lab Notebook
+expand elBOW,electronic ligand Building
 expand elmam2,Epxerimental Library of Multipolar Atom Model 2
 expand elmo,Extremely Localized Molecular Oribitals
+expand eln,Electronic Lab Notebook
 expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
+expand FFT,Fast Fourier Transform
 expand gid,Generalized Invariom Database
 expand har,Hirshfeld Atom Refinement
 expand HF,Hartree-Fock
@@ -98,6 +102,8 @@ expand matts,Multipolar Atom Types from Thoery and Statistical clustering databa
 expand MEM,Maximum Entropy Method
 expand mcsg,Midwest Center for Structural Genomics
 expand mir,Multiple Isomorpous Replacement
+expand mmCIF,macro-molecular crystallographic information file
+expand mogul,
 expand mr,Molecular Replacement
 expand nakb,Nucleic Acid Knowledge Base
 expand nbsr,National Bureau of Standards Reactor
@@ -113,6 +119,7 @@ expand oup,Oxford University Press
 expand pae,Predicted Aligned Error
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand reel,Restraint Editor Essentially Ligands
 expand rncs, rotational noncrystallographic symmetry
 expand rod,Rotational Order-Disorder
 expand rope,Representation of Protein Entities.
@@ -123,7 +130,8 @@ expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering
 expand sbfa,Supramolecular Synthon Based Fragments Approach
 expand sbgrid,Structural Biology Grid Consortium
-expand sgc,Structural Genomics Consortium 
+expand sgc,Structural Genomics Consortium
+expand smiles,Simplified Molecular-Input Line-Entry System 
 expand slac,SLAC National Accelerator Center
 expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
 expand ssrl sack,SSRL Scientific Advisory Committee

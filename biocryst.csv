@@ -82,6 +82,7 @@ expand elBOW,electronic ligand Building
 expand elmam2,Epxerimental Library of Multipolar Atom Model 2
 expand elmo,Extremely Localized Molecular Oribitals
 expand eln,Electronic Lab Notebook
+expand epmm,Exact Potential Multipole Moment
 expand esrf,European Synchrotron Radiation Facility
 expand fair,Findable Accessible Interoperable Re-usable
 expand FFT,Fast Fourier Transform
@@ -111,6 +112,7 @@ expand mogul,
 expand mr,Molecular Replacement
 expand nakb,Nucleic Acid Knowledge Base
 expand nbsr,National Bureau of Standards Reactor
+expand nci,noncovalent interaction
 expand ncs,noncrystallographic symmetry
 expand ncnr,NIST Center for Neutron Research
 expand ndb,Nucleic Acid Database
@@ -130,6 +132,7 @@ expand rod,Rotational Order-Disorder
 expand rope,Representation of Protein Entities.
 expand sack,Scientific Advisory Committee
 expand sad,Single-wavelength Anomalous Diffraction
+expand sapt,Symmetry-Adapted Perturbation Theory
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering

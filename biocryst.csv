@@ -54,12 +54,15 @@ expand aug-promol,point charges-augmented promolecule
 expand aps,Advanced Photon Source
 expand besac,Basic Energy Sciences Advisory Committee
 expand bnl,Brookhaven National Laboratory
+expand caBLAM,C-alpha Based Low-resolution Annotation Methods
+expand ccl,Chemical Component Library
 expand ccn,Computational Crystallography Newsletter
 expand ccp4,Collaborative Computational Project Number 4
 expand cctbx,Computational Crystallography Toolbox
 expand cif,Crystallographic Information File 
 exapnd cns,Crystallography and NMR System
 expand charmm,Chemistry at Harvard Molecular Mechanics
+expand ceres,CryoEM re-refinement system
 expand chess,Cornell High Energy Synchrotron Source
 expand cmb,IUCr Commission on Biological Macromolecules
 expand cmm,checkMyMetal
@@ -84,6 +87,7 @@ expand fair,Findable Accessible Interoperable Re-usable
 expand FFT,Fast Fourier Transform
 expand gid,Generalized Invariom Database
 expand har,Hirshfeld Atom Refinement
+expand HETATM,hetero atom
 expand HF,Hartree-Fock
 expand iam,Independent Atom Model
 expand ias,Interatomic Scatterers
@@ -119,6 +123,7 @@ expand oup,Oxford University Press
 expand pae,Predicted Aligned Error
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand qmr,quantum mechanical refinement
 expand reel,Restraint Editor Essentially Ligands
 expand rncs, rotational noncrystallographic symmetry
 expand rod,Rotational Order-Disorder

@@ -1,3 +1,7 @@
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in=0.1&color=brightcolor)
+[![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
+
+
 # biological-crystallography-voice-in
 
 ## Introduction

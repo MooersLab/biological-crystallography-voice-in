@@ -16,15 +16,15 @@ The symbols are represented as LaTeX math.
 These short snippets of the LaTeX are recognized and rendered correctly by most markdown type setting languages including org-mode.
 
 ## Usage
-After the commands have been uploaded, you can utilize them immediately.
+You can utilize the commands immediately after they have been uploaded.
 I toggle Voice In on and off by using a keyboard shortcut.
 I then dictate the command.
-See the documentation for the Voice In plug-in to learn how to configure keyboard shortcuts.
+See the Voice In plug-in documentation to learn how to configure keyboard shortcuts.
 
 ## Installation
-Each command is paired with the inserted text on a single line in of a comma separated value file (biocryst.csv).
-Equations, code snippets, and so on that span multiple lines are placed inside of double quotes.
-Use the **Bulk Add** button in Voice In Plus to upload these commands into your collection of custom commands.
+Each command is paired with the inserted text on a single line in a comma-separated value file (biocryst.csv).
+Equations, code snippets, and so on that span multiple lines are placed inside double quotes.
+You can upload these commands into your collection of custom commands using the **Bulk Add** button in Voice In Plus.
 
 ## Contents of the library biocryst.csv
 
@@ -35,16 +35,16 @@ Use the **Bulk Add** button in Voice In Plus to upload these commands into your 
 - Scientific society acronyms and their expansions
 - Journal acronyms and their expansions
 - Key equations
-- Urls for software
+- URLs for software
 
 
-## Related repos
+## Related repositpories
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing).
-At a minimum, you will want to include the library of contractions so that these can be eliminated from your formal prose.
+You will want to include the library of contractions at a minimum so that these can be eliminated from your formal prose.
 
 ## Rules for developing voice commands
 
-### Pick word combinations rarely used in normal prose
+### Pick word combinations rarely used in ordinary prose
 The basic rule for developing a voice command is to pick a word combination that is very unlikely to be used in one's prose.
 This choice can avoid the accidental insertion of an unintended set of words.
 
@@ -52,10 +52,10 @@ This choice can avoid the accidental insertion of an unintended set of words.
 If you pick a word combination with a subset of words already assigned to another command, the commands will collide, and you will not get the intended effect.
 It is better to pick a synonym for the new command than include the old one.
 
-### Use verbs are prefaces
-I use the verb "insert" in front of the name for the computer code or equation that I want to insert.
+### Use verbs are prefixes
+I use the verb "insert" before the name of the computer code or equation that I want to insert.
 I use the verb "expand" to expand acronyms.
-I use the verb "list" to list sets of causes.
+I use the verb "list" to list sets of items.
 
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
@@ -67,3 +67,9 @@ This project can benefit all biological crystallographers.
 It should be a community project.
 Make a pull request, post a issue, or send me e-mail with additions in csv format.
 
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)

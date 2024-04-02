@@ -10,8 +10,8 @@ Voice In plus is a Google Chrome extension.
 It only works in Google Chrome at this time.
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites opened in Google Chrome.
-They can be used during dictation of manuscripts about protein and nucleic acid crystal structures and crystallography.
-The commands include the symbols for all of the space groups that can accommodate chiral molecules like the biological molecules.
+They can be used when dictating manuscripts about protein and nucleic acid crystal structures and crystallography.
+The commands include the symbols for all of the space groups that can accommodate chiral molecules, such as biological molecules.
 The symbols are represented as LaTeX math.
 These short snippets of the LaTeX are recognized and rendered correctly by most markdown type setting languages including org-mode.
 
@@ -20,6 +20,16 @@ You can utilize the commands immediately after they have been uploaded.
 I toggle Voice In on and off by using a keyboard shortcut.
 I then dictate the command.
 See the Voice In plug-in documentation to learn how to configure keyboard shortcuts.
+
+## Examples of voice triggers and their results
+
+We call these voice commands voice triggers in analogy to tap triggers in text editors with snippet libraries.
+
+| Voice trigger | Result|
+| :------: | :----:|
+| expand jac | Journal of Applied Crystallography|
+| expand iucr | Internationalo Union of Crystallograhy|
+
 
 ## Installation
 Each command is paired with the inserted text on a single line in a comma-separated value file (biocryst.csv).

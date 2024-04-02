@@ -28,7 +28,7 @@ We call these voice commands voice triggers in analogy to tap triggers in text e
 | Voice trigger | Result|
 | :------: | :----:|
 | expand jac | Journal of Applied Crystallography|
-| expand iucr | Internationalo Union of Crystallograhy|
+| expand iucr | Internationalo Union of Crystallography|
 
 
 ## Installation

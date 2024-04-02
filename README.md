@@ -34,7 +34,8 @@ We call these voice commands voice triggers in analogy to tap triggers in text e
 |expression for Stanley factor | $\left\langle I^2\right\rangle /\langle I\rangle^2$ |
 |expression for Stanley ratio | $\langle F\rangle^2 /\left\langle F^2\right\rangle$ |
 |expression for Wilson ratio | $\left\langle I^2\right\rangle /\langle I\rangle^2$ |
-|F222 | $F222$|
+|P212121  | $P2_{1}2_{1}2_{1}$  |
+
 
 
 ## Installation

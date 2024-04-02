@@ -12,7 +12,7 @@ The utilization of these custom commands requires a subscription to Voice In Plu
 These commands can be used in the text area of most websites opened in Google Chrome.
 They can be used when dictating manuscripts about protein and nucleic acid crystal structures and crystallography.
 The commands include the symbols for all space groups that can accommodate chiral molecules, such as biological molecules.
-The symbols are represented as LaTeX math (e.g., \$P2_{1}2_{1}2_{1}\$ ).
+The symbols are represented as LaTeX math (e.g., $P2_{1}2_{1}2_{1}$ ).
 These short snippets of the LaTeX are recognized and rendered correctly by most markdown type setting languages including org-mode.
 
 ## Usage

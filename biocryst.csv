@@ -40,7 +40,7 @@ electric graphics,molecular graphics
 electric placement,molecular replacement
 eln,ELN
 epitaxial twinning,WRONG!! Misused term. Rewrite.
-epxand CRIMS,Crystallographic Information Management System
+expand CRIMS,Crystallographic Information Management System
 equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
 equation gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
 eval 15,Eval15
@@ -60,16 +60,16 @@ expand ccn,Computational Crystallography Newsletter
 expand ccp4,Collaborative Computational Project Number 4
 expand cctbx,Computational Crystallography Toolbox
 expand cif,Crystallographic Information File 
-exapnd cns,Crystallography and NMR System
+expand cns,Crystallography and NMR System
 expand charmm,Chemistry at Harvard Molecular Mechanics
 expand ceres,CryoEM re-refinement system
 expand chess,Cornell High Energy Synchrotron Source
 expand cmb,IUCr Commission on Biological Macromolecules
 expand cmm,checkMyMetal
 expand cns,Cold Neutron Source
-expand cns,Crystallography and NMR System
+expand CNS,Crystallography and NMR System
 expand cryo-em,cryo electron microscopy
-exapnd csd,Cambridge Structural Database
+expand csd,Cambridge Structural Database
 expand csgid,Center for Structural Genomics of Infectious Diseases
 expand dddwg,IUCr Diffraction Data Deposition Working Group
 expand dft,Density Functional Theory
@@ -103,7 +103,7 @@ expand lcls,Linac Coherent Light Source
 expand lims,Laboratory Information Management System
 expand llg,log likelihood gain
 expand ltd,Lattice Translocation Deffects
-exapnd mad,Multi-wavelength Anomalous Diffraction
+expand mad,Multi-wavelength Anomalous Diffraction
 expand matts,Multipolar Atom Types from Thoery and Statistical clustering databank
 expand MEM,Maximum Entropy Method
 expand mcsg,Midwest Center for Structural Genomics
@@ -158,7 +158,7 @@ expand vir,Database of real and virtual spherical-atom parameters
 expand xfel,X-ray Free Electron Laser
 vdW,van der Waals
 expand waxs,Wide-Angle X-ray Scattering
-expresion for I over sigma,$I/{\sigma}$
+expression for I over sigma,$I/{\sigma}$
 expression for sigmaA 2fo minus fc, $2mF_{o} - DF_{c}$
 expression for sigmaA fo minus fc, $mF_{o} - DF_{c}$
 expression for Stanley factor,$\left\langle I^2\right\rangle /\langle I\rangle^2$

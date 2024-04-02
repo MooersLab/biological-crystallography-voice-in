@@ -6,12 +6,12 @@
 
 ## Introduction
 This repo contains voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
-Voice In plus is a Google Chrome extension.
+Voice In Plus is a Google Chrome extension.
 It only works in Google Chrome at this time.
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites opened in Google Chrome.
 They can be used when dictating manuscripts about protein and nucleic acid crystal structures and crystallography.
-The commands include the symbols for all of the space groups that can accommodate chiral molecules, such as biological molecules.
+The commands include the symbols for all space groups that can accommodate chiral molecules, such as biological molecules.
 The symbols are represented as LaTeX math.
 These short snippets of the LaTeX are recognized and rendered correctly by most markdown type setting languages including org-mode.
 
@@ -35,7 +35,7 @@ We call these voice commands voice triggers in analogy to tap triggers in text e
 |expression for Stanley ratio | $\langle F\rangle^2 /\left\langle F^2\right\rangle$ |
 |expression for Wilson ratio | $\left\langle I^2\right\rangle /\langle I\rangle^2$ |
 |P212121  | $P2_{1}2_{1}2_{1}$  |
-
+|insert space group number for P212121 | 19|
 
 
 ## Installation

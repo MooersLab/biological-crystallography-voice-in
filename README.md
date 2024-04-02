@@ -29,6 +29,12 @@ We call these voice commands voice triggers in analogy to tap triggers in text e
 | :------: | :----:|
 | expand jac | Journal of Applied Crystallography|
 | expand iucr | Internationalo Union of Crystallography|
+|expression for sigmaA 2fo minus fc| $2mF_{o} - DF_{c}$|
+|expression for sigmaA fo minus fc |  $mF_{o} - DF_{c}$|
+|expression for Stanley factor | $\left\langle I^2\right\rangle /\langle I\rangle^2$|
+|expression for Stanley ratio | $\langle F\rangle^2 /\left\langle F^2\right\rangle$|
+|expression for Wilson ratio | $\left\langle I^2\right\rangle /\langle I\rangle^2$|
+|F222 | $F222$|
 
 
 ## Installation
@@ -48,7 +54,7 @@ You can upload these commands into your collection of custom commands using the 
 - URLs for software
 
 
-## Related repositpories
+## Related repositories
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing).
 You will want to include the library of contractions at a minimum so that these can be eliminated from your formal prose.
 

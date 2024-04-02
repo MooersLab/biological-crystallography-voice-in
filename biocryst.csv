@@ -19,7 +19,8 @@ c star,$\mathbf{c}$
 C2,$C2$
 C222,$C222$ 
 C222,$C222_{1}$
-C2221,$C222_{1}$ 
+C2221,$C222_{1}$
+cc one-half,$CC_{1/2}$ 
 ccp4 cloud,CCP4 Cloud
 ccp4 study weekend,CCP4 Study Weekend
 check my metal,checkMyMetal
@@ -68,15 +69,18 @@ expand cmb,IUCr Commission on Biological Macromolecules
 expand cmm,checkMyMetal
 expand cns,Cold Neutron Source
 expand CNS,Crystallography and NMR System
-expand cryo-em,cryo electron microscopy
+expand coot,Crystallographic Object-Oriented Toolkit
+expand crims,Crystallization Information Management System 
+expand cryo-em,cryo-electron microscopy
 expand csd,Cambridge Structural Database
 expand csgid,Center for Structural Genomics of Infectious Diseases
+expand csv,comma-separated values
 expand dddwg,IUCr Diffraction Data Deposition Working Group
 expand dft,Density Functional Theory
 expand digs,Demodulation of Intensities by Grouping and Scaling
 expand doi,Digital Object Identifier
 expand DPI,Diffraction Precision Index
-expand DSL,Domain Specific Language
+expand DSL,Diamond Light Source
 expand eca,European Crystallographic Association
 expand elBOW,electronic ligand Building
 expand elmam2,Epxerimental Library of Multipolar Atom Model 2
@@ -91,10 +95,12 @@ expand gid,Generalized Invariom Database
 expand har,Hirshfeld Atom Refinement
 expand HETATM,hetero atom
 expand HF,Hartree-Fock
+expand htx,high-throughput crystallography
 expand iam,Independent Atom Model
 expand ias,Interatomic Scatterers
 expand ideal,Invariom Derived Electron AnaLysis
 expand irrmc,Integrated Resource for Reproducibility in Macromolecular Crystallography
+expand ispyb,Information System for Protein crystallography Beamlines
 expand iucr,International Union of Crystallography
 expand jac,Journal of Applied Crystallography
 expand jcsg,Joint Center for Structural Genomic
@@ -112,6 +118,7 @@ expand mmCIF,macro-molecular crystallographic information file
 expand mndo,Modified Neglect of Diatomic Overlap
 expand mopac,Molecular Orbital PACkage
 expand mr,Molecular Replacement
+expand mx,macromolecular crystallography
 expand nakb,Nucleic Acid Knowledge Base
 expand nbsr,National Bureau of Standards Reactor
 expand nci,noncovalent interaction
@@ -127,6 +134,7 @@ expand oup,Oxford University Press
 expand pae,Predicted Aligned Error
 expand pdb,Protein Data Bank
 expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand pims,Protein Information Management System
 expand pli,protein-ligand interactions
 expand qmr,quantum mechanical refinement
 expand qtaim,Quantum Theory of Atoms in Molecules
@@ -140,12 +148,16 @@ expand sapt,Symmetry-Adapted Perturbation Theory
 expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
 expand sas,small-angle scattering
 expand saxs,small-angle X-ray scattering
+expand swaxs,small-wide angle X-ary scattering
 expand sbfa,Supramolecular Synthon Based Fragments Approach
 expand sbgrid,Structural Biology Grid Consortium
 expand scf,Self-Consistent Field
 expand sgc,Structural Genomics Consortium
 expand smiles,Simplified Molecular-Input Line-Entry System 
+expand smis,Scientific Management Information System
 expand slac,SLAC National Accelerator Center
+expand soap,Simple Object Access Protocol
+expand sql,Structured Query Language
 expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
 expand ssrl sack,SSRL Scientific Advisory Committee
 expand ssrl uec,SSRL Users Executive Committee
@@ -156,6 +168,8 @@ expand tncs,translational noncrystallographic symmetry
 expand udbd,University of Buffalo Databank
 expand vir,Database of real and virtual spherical-atom parameters
 expand xfel,X-ray Free Electron Laser
+expand xfels,X-ray Free Electron Lasers
+expand xml,Extensible Markup Language
 vdW,van der Waals
 expand waxs,Wide-Angle X-ray Scattering
 expression for I over sigma,$I/{\sigma}$
@@ -182,6 +196,7 @@ hemihedral twin,twinning by hemihedry
 hemihedral twinning,twinning by hemihedry 
 hendrickson-lattman coefficients,Hendrickson-Lattman coefficients
 hkl 3000,HKL3000
+htx,HTX
 How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law. 
 I over sick,$I/{\sigma}$
 I212121,$I2_{1}2_{1}2_{1}$ 
@@ -267,6 +282,7 @@ insert space group number for R32,155
 insert url for space group tables,\url{http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm}
 international tables for crystallography,International Tables for Crystallography
 international tables of crystallography,International Tables for Crystallography
+ispyb,ISPyB
 isolde,ISOLDE
 iucrdata,IUCrData
 iucrj,IUCrJ
@@ -288,10 +304,12 @@ Memetic 20,mimetic twinning
 mero-hitriy,merohedry
 merohedral 20, merohedral twinning
 merohedral twin,twinning by merohedry 
-merohedral twinning,twinning by merohedry 
+merohedral twinning,twinning by merohedry
+mitigen,MiTeGen 
 model craft,ModelCraft
 more hen,Moorhen
 mtz,MTZ
+mx,MX
 NCS operator,NCS operation 
 non-merohedral 20,non-merohedral twinning
 nucleic acid cartography,nucleic acid crystallography
@@ -367,6 +385,7 @@ reticular metal hatred,reticular merohedry
 reticular metal hedry,reticular merohedry
 rock maker,ROCK MAKER
 rock maker,Rockmaker
+raddose-3D,RADDOSE-3D
 rotational order-disorder,Rotational Order-Disorder
 rough Mac,Refmac5
 se star,$\mathbf{c}$

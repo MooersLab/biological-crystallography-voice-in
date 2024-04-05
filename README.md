@@ -29,13 +29,13 @@ We call these voice commands voice triggers in analogy to tap triggers in text e
 | :------: | :----:|
 | expand jac | Journal of Applied Crystallography|
 | expand iucr | International Union of Crystallography|
-|expression for sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}2mF_{o} - DF_{c}$$ |
-|expression for sigmaA fo minus fc |  $$mF_{o} - DF_{c}mF_{o} - DF_{c}$$ |
-|expression for Stanley factor | $$\left\langle I^2\right\rangle /\langle I\rangle^2\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
-|expression for Stanley ratio | $$\langle F\rangle^2 /\left\langle F^2\right\rangle\langle F\rangle^2 /\left\langle F^2\right\rangle$$ |
-|expression for Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
+|expression for sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
+|expression for sigmaA fo minus fc |  $$mF_{o} - DF_{c}$$ |
+|expression for Stanley factor | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
+|expression for Stanley ratio | $$\langle F\rangle^2 /\left\langle F^2\right\rangle$$ |
+|expression for Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
 |insert equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
-|P212121  | $$P2_{1}2_{1}2_{1}P2_{1}2_{1}2_{1}$$  |
+|P212121  | $$P2_{1}2_{1}2_{1}}$$  |
 |insert space group number for P212121 | 19|
 
 

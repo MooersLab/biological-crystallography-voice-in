@@ -24,6 +24,7 @@ See the Voice In plug-in documentation to learn how to configure keyboard shortc
 ## Examples of voice triggers and their results
 
 We call these voice commands voice triggers in analogy to tap triggers in text editors with snippet libraries.
+You may have to reload this page to get the equations rendered by **Mathjax**.
 
 | Voice trigger | Result|
 | :------: | :----:|

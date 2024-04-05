@@ -1,4 +1,4 @@
-I made it into display let me guess a lot of sink![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.2&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.2&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
@@ -10,7 +10,7 @@ Voice In Plus is a Google Chrome extension.
 It only works in Google Chrome at this time.
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites opened in Google Chrome.
-They can be used when dictating manuscripts about protein and nucleic acid crystal structures and crystallography.
+They can be used when dictating protein and nucleic acid crystal structure manuscripts.
 The commands include the symbols for all space groups that can accommodate chiral molecules, such as biological molecules.
 The symbols are represented as LaTeX math (e.g., `P2_{1}2_{1}2_{1}P2_{1}2_{1}2_{1}` ).
 These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages including org-mode and markdown cells in Jupyter notebooks.
@@ -29,13 +29,13 @@ We call these voice commands voice triggers in analogy to tap triggers in text e
 | :------: | :----:|
 | expand jac | Journal of Applied Crystallography|
 | expand iucr | International Union of Crystallography|
-|expression for sigmaA 2fo minus fc| 2mF_{o} - DF_{c}2mF_{o} - DF_{c} |
-|expression for sigmaA fo minus fc |  mF_{o} - DF_{c}mF_{o} - DF_{c} |
-|expression for Stanley factor | \left\langle I^2\right\rangle /\langle I\rangle^2\left\langle I^2\right\rangle /\langle I\rangle^2 |
-|expression for Stanley ratio | \langle F\rangle^2 /\left\langle F^2\right\rangle\langle F\rangle^2 /\left\langle F^2\right\rangle |
-|expression for Wilson ratio | \left\langle I^2\right\rangle /\langle I\rangle^2\left\langle I^2\right\rangle /\langle I\rangle^2 |
+|expression for sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}2mF_{o} - DF_{c}$$ |
+|expression for sigmaA fo minus fc |  $$mF_{o} - DF_{c}mF_{o} - DF_{c}$$ |
+|expression for Stanley factor | $$\left\langle I^2\right\rangle /\langle I\rangle^2\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
+|expression for Stanley ratio | $$\langle F\rangle^2 /\left\langle F^2\right\rangle\langle F\rangle^2 /\left\langle F^2\right\rangle$$ |
+|expression for Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
 |insert equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
-|P212121  | P2_{1}2_{1}2_{1}P2_{1}2_{1}2_{1}  |
+|P212121  | $$P2_{1}2_{1}2_{1}P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
 
 
@@ -58,7 +58,7 @@ You can upload these commands into your collection of custom commands using the 
 
 ## Related repositories
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing).
-You will want to include the library of contractions at a minimum so that these can be eliminated from your formal prose.
+You will want to include the library of contractions at a minimum so that you can eliminate them from your formal prose.
 
 ## Rules for developing voice commands
 
@@ -71,19 +71,19 @@ If you pick a word combination with a subset of words already assigned to anothe
 It is better to pick a synonym for the new command than include the old one.
 
 ### Use verbs are prefixes
-I use the verb "insert" before the name of the computer code or equation that I want to insert.
+I use the verb "insert" before the name of the computer code or equation I want to insert.
 I use the verb "expand" to expand acronyms.
 I use the verb "list" to list sets of items.
 
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
 The speed with which you vocalize a command has a significant impact.
-You may find that you have to verbalize the command at high speed to avoid inserting just the first word of the command rather than the entire command.
+You may have to verbalize the command at high speed to avoid inserting just the first word rather than the entire command.
 
 ## Contributions are welcome
 This project can benefit all biological crystallographers.
 It should be a community project.
-Make a pull request, post a issue, or send me e-mail with additions in csv format.
+Make a pull request, post an issue, or send me an e-mail with additions in CSV format.
 
 ## Sources of funding
 

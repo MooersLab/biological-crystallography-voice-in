@@ -11,7 +11,7 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 
 ## Examples of voice triggers and their results
 
-<center>
+
   
 | Voice trigger | Result|
 | :------: | :----:|
@@ -23,7 +23,7 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
 
-</center>
+
 You may have to reload this page to get the equations rendered by **Mathjax**.
 
 ## Usage

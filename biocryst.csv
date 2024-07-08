@@ -349,10 +349,12 @@ open index 3,<open:file:///Users/blaine/Documents/WebpagesBlaine/index3.html>
 open Integrated Resource for Reproducibility in Macromolecular Crystallography,<open:https://proteindiffraction.org/>
 open IRRMC,<open:https://proteindiffraction.org/>
 open IRRMC,<open:http://www.proteindiffraction.org>
+open IUCr 2026,<open:https://www.iucr2026.org/>
 open Jana2006,<open:http://jana.fzu.cz/>
 open Jana2020,<open:http://jana.fzu.cz/>
 open Japanese Protein Data Bank,<open:https://pdbj.org/>
 open LBSF,<open:https://research.ouhsc.edu/Core-Facilities/Laboratory-of-Biomolecular-Structure-and-Function>
+open molprobity,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
 open mitigen,<open:https://www.mitegen.com/>
 open moorhen,<open:moorhen.org>
 open my next beam time,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html#Jul292024>
@@ -407,6 +409,8 @@ open User Meeting,<open:https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d
 open worldwide PDB,<open:https://www.wwpdb.org/>
 open worldwide Protein Data Bank,<open: https://www.wwpdb.org/>
 open wwPDB,<open:https://www.wwpdb.org/>
+open wwPDB OneDep,<open:https://deposit-1.wwpdb.org/>
+open wwPDB OneDep System,<open:https://deposit-1.wwpdb.org/>
 open zenodo,<open:https://zenodo.org/>
 order disorder,Order-Disorder
 P1,$P1$

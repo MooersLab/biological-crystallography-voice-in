@@ -11,7 +11,7 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 
 ## Examples of voice triggers and their results
 
-<p>
+<center>
 | Voice trigger | Result|
 | :------: | :----:|
 |expand jac | Journal of Applied Crystallography|
@@ -21,7 +21,7 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 |insert equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
-</p>
+</center>
 You may have to reload this page to get the equations rendered by **Mathjax**.
 
 ## Usage

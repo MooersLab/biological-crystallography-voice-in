@@ -6,35 +6,30 @@
 
 ## Introduction
 This repo contains voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
-Voice In Plus is a Google Chrome extension.
-It only works in Google Chrome at this time.
-The utilization of these custom commands requires a subscription to Voice In Plus.
-These commands can be used in the text area of most websites opened in Google Chrome.
-They can be used when dictating protein and nucleic acid crystal structure manuscripts.
-The commands include the symbols for all space groups that can accommodate chiral molecules, such as biological molecules.
-The symbols are represented as LaTeX math (e.g., `$P2_{1}2_{1}2_{1}$` ).
-These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages including org-mode and markdown cells in Jupyter notebooks.
-
-## Usage
-You can utilize the commands immediately after they have been uploaded.
-I toggle Voice In on and off by using a keyboard shortcut.
-I then dictate the command.
-See the Voice In plug-in documentation to learn how to configure keyboard shortcuts.
+Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
+These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks.
 
 ## Examples of voice triggers and their results
 
-We call these voice commands voice triggers in analogy to tap triggers in text editors with snippet libraries.
-You may have to reload this page to get the equations rendered by **Mathjax**.
 
 | Voice trigger | Result|
 | :------: | :----:|
-| expand jac | Journal of Applied Crystallography|
-| expand iucr | International Union of Crystallography|
+|expand jac | Journal of Applied Crystallography|
+|expand iucr | International Union of Crystallography|
 |expression for sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
 |expression for Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
 |insert equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
+
+You may have to reload this page to get the equations rendered by **Mathjax**.
+
+## Usage
+The utilization of these custom commands requires a subscription to Voice In Plus.
+You can utilize the commands immediately after they have been uploaded.
+I toggle Voice In on and off by using a keyboard shortcut.
+I then dictate the command.
+See the Voice In plug-in documentation to learn how to configure keyboard shortcuts.
 
 
 ## Installation

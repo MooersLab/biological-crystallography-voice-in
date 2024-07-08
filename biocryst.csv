@@ -6,6 +6,7 @@
 a star,$\mathbf{a}$
 actor Christ,Acta Cryst.
 alpha fold two,AlphaFold2
+alpha fold three,AlphaFold3
 Anita Patterson,a native Patterson
 Argand diagram,Argand diagram
 b star,$\mathbf{b}$
@@ -27,6 +28,7 @@ check my sequence,checkMySequence
 christographer,crystallographer
 christography,crystallography
 cns,CNS
+colab fold,ColabFold
 crims,CRIMS
 Crystal Graphics symmetry,crystallographic symmetry
 Crystal low graphic symmetry,crystallographic symmetry
@@ -335,6 +337,7 @@ open ccp4 downloads page,<open:https://www.ccp4.ac.uk/download/#os=macos>
 open cctbx,<open:https://cctbx.github.io/>
 open cctbx documentation,<open:https://cctbx.github.io/>
 open cctbx github site,<open:https://github.com/cctbx/cctbx_project>
+open colab fold,<open:https://github.com/sokrypton/ColabFold>
 open Computational Crystallography Toolbox,<open:https://cctbx.github.io/>
 open Computational Crystallography Toolbox documentation,<open:https://cctbx.github.io/>
 open Computational Crystallography Toolbox github site,<open:https://github.com/cctbx/cctbx_project>
@@ -401,6 +404,9 @@ open RCSB PDB,<open:https://www.rcsb.org/>
 open RCSB Protein Data Bank,<open:https://www.rcsb.org/>
 open rock maker,<open:https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/>
 open RoPE,<open:rope.hginn.co.uk>
+open rosettafold2,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
+open rosettafold2 notebook,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
+open rosettafold2 colab notebook,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
 open SASDBD,<open:https://www.sasbdb.org/>
 open shelx documentation,<open:https://shelx.uni-goettingen.de/wikis.php>
 open shelx downloads,<open:https://shelx.uni-goettingen.de/download.php>

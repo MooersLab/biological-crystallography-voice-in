@@ -326,6 +326,7 @@ NCS operator,NCS operation
 non-merohedral 20,non-merohedral twinning
 nucleic acid cartography,nucleic acid crystallography
 olex2,Olex2
+open 750 words,<open:https://750words.com/>
 open alpha fold database,<open:https://alphafold.com/>
 open alpha fold protein structure database,<open:https://alphafold.com/>
 open alpha fold server,<open:https://alphafoldserver.com/about>
@@ -402,6 +403,7 @@ open protein diffraction dot org,<open:https://proteindiffraction.org/>
 open pymol download,<open:https://pymol.org/>
 open RCSB PDB,<open:https://www.rcsb.org/>
 open RCSB Protein Data Bank,<open:https://www.rcsb.org/>
+open right honey,<open;https://app.writehoney.com/write>
 open rock maker,<open:https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/>
 open RoPE,<open:rope.hginn.co.uk>
 open rosettafold2,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
@@ -435,6 +437,7 @@ open ucla twinning server,<open:https://srv.mbi.ucla.edu/Twinning/>
 open User Meeting,<open:https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d039d9be2/summary>
 open worldwide PDB,<open:https://www.wwpdb.org/>
 open worldwide Protein Data Bank,<open: https://www.wwpdb.org/>
+open write honey,<open;https://app.writehoney.com/write>
 open wwPDB,<open:https://www.wwpdb.org/>
 open wwPDB OneDep,<open:https://deposit-1.wwpdb.org/>
 open wwPDB OneDep System,<open:https://deposit-1.wwpdb.org/>
@@ -574,3 +577,140 @@ vdW,van der Waals
 What is a common feature of merohedral and pseudomyhedral twinning,all of the reflections from the twin domains overlap
 Yana 2006,Jana2006
 zenodo,Zenodo
+create cctbx conda environment,conda create -n cctbx312 -c conda-forge cctbx-base python=3.12
+create cctbx conda kernel,conda activate cctbx312 && python -m ipykernel install --user --name cctbx312 --display-name 'cctbx 3.12'
+read mtz file into a miller array,"<case:lower> from iotbx.reflection_file_reader import any_reflection_file
+hkl_file = any_reflection_file('${1:3hz7.mtz}')
+miller_arrays = hkl_file.as_miller_arrays(merge_equivalents=False)"
+print labels of miller array,"<case:lower> [print('Miller Array %s: %s' % (i, miller_array.info().labels)) for i, miller_array in list(enumerate(miller_arrays))[:2]]"
+print wavelength of each miller array,"<case:lower> [print('Miller Array %s: %s' % (i, miller_array.info().wavelength)) for i, miller_array in list(enumerate(miller_arrays))]"
+print source of each miller array,"<case:lower> print('Miller Array %s: %s' % (i, miller_array.info().source)) for i, miller_array in list(enumerate(miller_arrays))]"
+print number of datasets in miller array,"<case:lower> len(miller_arrays)"
+print symmetry of each miller array,"<case:lower> [print('Miller Array %s: %s' % (i, miller_array.info().crystal_symmetry_from_file)) for i, miller_array in list(enumerate(miller_arrays))]"
+print miller indices for a given miller array,"<case:lower> [print(hkl) for hkl in miller_arrays[${1:0}].indices()]"
+print the available methods for the Miller class.,"<case:lower> dir(miller_arrays[${1:0}])"
+print  the resolution range in d star in a specified Miller array,"<case:lower> miller_arrays[${1:0}].min_max_d_star_sq()"
+print  the resolution range in Angstroms for a Miller array,"<case:lower> miller_arrays[${1:0}].d_max_min()"
+print  the I/sig overall for a given Miller array,"<case:lower> miller_arrays[${1:0}].i_over_sig_i()"
+print  CC one-half sigma tau for a given Miller array,"<case:lower> miller_arrays[${1:0}].cc_one_half_sigma_tau()"
+print CC one-half for a given Miller array,"<case:lower> miller_arrays[${1:0}].cc_one_half()"
+print the Bijvoet ratios in a specified Miller array,"<case:lower> [print(i) for i in miller_arrays[${1:0}].bijvoet_ratios()]"
+Return the `measurability` of the anomalous signal in a specified Miller array,"<case:lower> miller_arrays[${1:0}].measurability()"
+Return the anomalous signal in a specified Miller array,"<case:lower> miller_arrays[${1:0}].anomalous_signal()"
+Show comprehensive summary for a specified Miller array,"<case:lower> miller_arrays[${1:0}].show_comprehensive_summary()"
+Show number of bijvoet pairs for a specified Miller array,"<case:lower> miller_arrays[${1:0}].n_bijvoet_pairs()"
+Show wilson ratio of miller array for a specified Miller array,"<case:lower> miller_arrays[${1:0}].wilson_ratio()"
+Unpack anomalous pairs for a specified Miller array,"<case:lower> Iobs = miller_arrays[${1:0}]
+i_plus, i_minus = Iobs.hemispheres_acentrics()
+ipd = i_plus.data()
+ip=list(ipd)
+imd = i_minus.data()
+im = list(imd)
+len(im)
+Iobs.show_summary()
+print(Iobs.info())
+print(Iobs.observation_type())"
+insert anomalous pair plot,"%matplotlib inline
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+import matplotlib.ticker as ticker
+from matplotlib.ticker import MultipleLocator #, FormatStrFormatter
+from matplotlib.ticker import FuncFormatter
+from iotbx.reflection_file_reader import any_reflection_file
+# >>> change the mtz file name
+hkl_file = any_reflection_file('3hz7.mtz')
+miller_arrays = hkl_file.as_miller_arrays(merge_equivalents=False)
+Iobs = miller_arrays[1]
+i_plus, i_minus = Iobs.hemispheres_acentrics()
+ipd = i_plus.data()
+ip=list(ipd)
+imd = i_minus.data()
+im = list(imd)
+len(im)
+
+print('Number of anomalous pairs: ', miller_arrays[0].n_bijvoet_pairs())
+
+comma_fmt = FuncFormatter(lambda x, p: format(int(x), ','))
+
+mpl.rcParams['savefig.dpi'] = 600
+mpl.rcParams['figure.dpi'] = 600
+
+# Set to width of a one column on a two-column page.
+# May want to adjust settings for a slide.
+fig, ax = plt.subplots(figsize=[3.25, 3.25])
+ax.scatter(ip,im,c='k',alpha=0.3,s=5.5)
+ax.set_xlabel(r'I(+)',fontsize=12)
+ax.set_ylabel(r'I(-)',fontsize=12)
+ax.xaxis.set_major_locator(MultipleLocator(50000.))
+ax.yaxis.set_major_locator(MultipleLocator(50000.))
+ax.get_xaxis().set_major_formatter(comma_fmt)
+ax.get_yaxis().set_major_formatter(comma_fmt)
+
+plt.xticks(fontsize=12)
+plt.yticks(fontsize=12)
+ax.grid(False)
+
+# >>> change name of the figure file
+plt.savefig('3hz7IpIm.pdf',bbox_inches='tight')"
+print five rows of Iobs,"list(Iobs[${1:100:105}])"
+extract the intensities for a Miller array and print ten rows,"Iobs = miller_arrays[${1:0}]
+iobsdata = Iobs.data()
+list(iobsdata[${1:100:110}])"
+print all of the intensities for a given Miller array,"<case:lower> [print(hkl) for hkl in miller_arrays[1].data()]"
+write miller array as a mtz file.,"# Convert the miller array into a mtz_dataset and write out as a mtz file.
+mtz_dataset = Iobs.as_mtz_dataset(column_root_label='${1:I}')
+mtz_dataset.mtz_object().write('${2:3hz7intensities}.mtz')"
+read mtz file and print column labels,"<case:lower> mtz_filename2 = '${1:3hz7intensities}.mtz'
+mtz_file2 = mtz.object(mtz_filename2)
+mtz_file2.column_labels()"
+convert arrays to dictionaries,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='${1:3nd4}.mtz')
+# Only works with mtz.object. 
+# Does not work if mtz is read in with iotbx.file_reader.
+miller_arrays_dict = mtz_obj.as_miller_arrays_dict()"
+Print the keys() of a miller dictionary.,"miller_arrays_dict.keys()"
+Print the column labels of Miller dictionary.,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='${1:/Users/blaine/3nd4.mtz}')
+# Only works with mtz.object. Does not work if mtz is read in with iotbx.file_reader.
+miller_arrays_dict = mtz_obj.as_miller_arrays_dict()
+[print(f'Column label: {key[2]}')  for key in miller_arrays_dict.keys()]"
+generate the indices of given unit cell ,"from cctbx import miller
+import cctbx
+from cctbx import crystal
+ms = miller.build_set(
+    crystal_symmetry=crystal.symmetry(
+        space_group_symbol='${1:Fd-3m}',
+        unit_cell=(${2:5.4307,5.4307,5.4307,90.00,90.0,90.00})),
+    anomalous_flag=${3:True},
+    d_min=${4:0.4})
+[print(hkl) for hkl in ms.indices()]"
+generate reflections,"<case:lower> from cctbx import miller
+import cctbx
+from cctbx import crystal
+
+ms = miller.build_set(
+    crystal_symmetry=crystal.symmetry(
+        space_group_symbol='${1:Fd-3m}',
+        unit_cell=(${2:5.4307,5.4307,5.4307,90.00,90.0,90.00})),
+    anomalous_flag=${3:True},
+    d_min=${4:0.4})
+
+msu = ms.map_to_asu()
+[print(hkl2) for hkl2 in msu.indices()]"
+print summary of mtz file after reading into miller array,"<case:lower> from iotbx.reflection_file_reader import any_reflection_file
+hkl_in = any_reflection_file(file_name='${1:3nd4}.mtz')
+miller_arrays = hkl_in.as_miller_arrays()
+f_obs = miller_arrays[0]
+f_obs.show_summary()"
+print summary of mtz file after reading a mtz object,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='/Users/blaine/${1:3nd4}.mtz')
+mtz_obj.show_summary()"
+read mtz file into a Miller array,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='${1:3nd4}.mtz')
+miller_arrays = mtz_obj.as_miller_arrays()"
+read mtz file into a Miller array and truncate and print summary,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='3nd4.mtz')
+miller_arrays = mtz_obj.as_miller_arrays()
+miller_array_truncated = miller_arrays[0].resolution_filter(d_min=2, d_max=5)
+print(miller_array_truncated)
+miller_array_truncated.show_summary()"

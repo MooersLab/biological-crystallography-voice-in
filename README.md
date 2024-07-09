@@ -100,7 +100,7 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 
 |Version      | Changes                                                                                                                                                                         | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.3 |   Added updated table, video, link to slides, and some commands.                                                                                                                 | 2024 July 9         |
+| Version 0.3 |   Added update table, video, link to slides, and some commands.                                                                                                                 | 2024 July 9         |
 
 
   

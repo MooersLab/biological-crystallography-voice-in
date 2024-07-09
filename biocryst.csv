@@ -121,6 +121,7 @@ expand MEM,Maximum Entropy Method
 expand mir,Multiple Isomorpous Replacement
 expand mmCIF,macro-molecular crystallographic information file
 expand mndo,Modified Neglect of Diatomic Overlap
+expand MolISSI,Molecular Sciences Software Institute
 expand mopac,Molecular Orbital PACkage
 expand mr,Molecular Replacement
 expand mx,macromolecular crystallography
@@ -131,6 +132,7 @@ expand ncnr,NIST Center for Neutron Research
 expand ncs,noncrystallographic symmetry
 expand ndb,Nucleic Acid Database
 expand nist,National Institute of Standards and Technology
+expand NoSpherA2,Non-spherical Atoms in Olex2
 expand nsls2,National Synchtrotron Light Source II
 expand nysgrc,New York Structural Genomics Research Consortium
 expand od,Order-Disorder

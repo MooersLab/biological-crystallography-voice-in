@@ -7,7 +7,8 @@
 ## Introduction
 This repo contains voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
-These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks.
+Commands to navigate in the browser by voice to vital web sites are included.
+The snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages, including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks and, of course, documents in Overleaf, the online LaTeX editor for academics.
 
 https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
 

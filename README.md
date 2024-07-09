@@ -14,7 +14,6 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 
 ## Examples of voice triggers and their results
 
-
   
 | Voice trigger | Result|
 | :------: | :----:|
@@ -66,6 +65,9 @@ See [Voice Computing section of landing page](https://github.com/MooersLab/Mooer
 You will want to include the library of contractions at a minimum to eliminate them from your formal prose.
 
 You will likely want the [Jupyter markdown library](https://github.com/MooersLab/markdown-jupyter-voice-in) for writing prose in Markdown cells by voice command and the [Jupyter commands library](https://github.com/MooersLab/jupyter-voice-in) for running commands in code cells including line and cell magics.
+
+## Slides from ACA 2024 meeting
+See [ACA 2024 talk](https://github.com/MooersLab/ACA2024)
 
 ## Rules for developing voice commands
 

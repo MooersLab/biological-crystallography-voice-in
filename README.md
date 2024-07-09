@@ -25,7 +25,9 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 
 
 You may have to reload this page to get the equations rendered by **Mathjax**.
-Likewise, you may have to reload the view of the *biocryst.csv* file.
+Likewise, you may have to reload the view of the *biocryst.csv* file when opened in GitHub to get the rendering by **Mathjax**.
+
+
 
 ## Usage
 The utilization of these custom commands requires a subscription to Voice In Plus.
@@ -54,7 +56,9 @@ You can upload these commands into your collection of custom commands using the 
 
 ## Related repositories
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing).
-You will want to include the library of contractions at a minimum so that you can eliminate them from your formal prose.
+You will want to include the library of contractions at a minimum to eliminate them from your formal prose.
+
+You will likely want the [Jupyter related library]() for running Jupyter notebooks by voice command.
 
 ## Rules for developing voice commands
 

@@ -9,6 +9,8 @@ This repo contains voice commands about biological crystallography for the autom
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks.
 
+https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
+
 ## Examples of voice triggers and their results
 
 
@@ -29,7 +31,7 @@ Likewise, when opening the biocryst.csv file in GitHub, you may have to reload t
 
 
 
-https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
+
 
 
 

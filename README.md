@@ -1,4 +1,4 @@
-![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.2&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.3&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
@@ -28,11 +28,6 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 
 You may have to reload this page to get the equations rendered by **Mathjax**.
 Likewise, when opening the biocryst.csv file in GitHub, you may have to reload the view to get the rendering by **Mathjax**.
-
-
-
-
-
 
 
 ## Usage
@@ -100,3 +95,12 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 - NIH: R01 AI088011
 - NIH: P30 CA225520 (PI: R. Mannel)
 - NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
+
+## Update history
+
+|Version      | Changes                                                                                                                                                                         | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.3 |   Added updated table, video, link to slides, and some commands.                                                                                                                 | 2024 July 9         |
+
+
+  

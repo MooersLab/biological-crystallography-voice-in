@@ -25,6 +25,7 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 
 
 You may have to reload this page to get the equations rendered by **Mathjax**.
+Likewise, you may have to reload the view of the *biocryst.csv* file.
 
 ## Usage
 The utilization of these custom commands requires a subscription to Voice In Plus.

@@ -25,7 +25,7 @@ These short snippets of LaTeX are recognized and rendered correctly by most mark
 
 
 You may have to reload this page to get the equations rendered by **Mathjax**.
-Likewise, you may have to reload the view of the *biocryst.csv* file when opened in GitHub to get the rendering by **Mathjax**.
+Likewise, when opening the biocryst.csv file in GitHub, you may have to reload the view to get the rendering by Mathjax.
 
 
 

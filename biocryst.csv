@@ -179,6 +179,7 @@ expand vir,Database of real and virtual spherical-atom parameters
 expand waxs,Wide-Angle X-ray Scattering
 expand xfel,X-ray Free Electron Laser
 expand xfels,X-ray Free Electron Lasers
+expand xss,X-ray Solution Scattering
 expand xml,Extensible Markup Language
 expression for I over sigma,$I/{\sigma}$
 expression for sigmaA 2fo minus fc, $2mF_{o} - DF_{c}$

@@ -1,3 +1,20 @@
+expand tr-SFX,time-resolved XFEL serial crystallography
+expand tr-SSX,time-resolved synchrotron serial crystallography
+expand KIE,kinetic isotopic effect
+expand MICS,mix-and-inject serial crystallography
+expand 3D ED,three-dimensional electron diffraction
+expand XRD,X-ray Diffraction
+expand XES,X-ray emission spectroscopy
+expand tr-XES,time-resolved X-ray emission spectroscopy
+expand 3DVA,3D variability analysis
+expand SHG,Second-harmonic generation
+expand FEL,free-electron laser
+expand rMMS,Random Microseed Matrix-Screening
+expand MMS,Microseed Matrix-Screening
+expand LCP,lipidic cubic phase
+expand LCP-rMMS,lipidic cubic phase Random Microseed Matrix-Screening
+expand SAD,single wavelength anomalous dispersion
+expand I3C,"5-amino-2,4,6-triiodoisophthalic acid"
 20 by hemahedron,twinning by hemihedry
 20 by merohedry, twinning by merohedry
 20 in operation,twinning operation

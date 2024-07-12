@@ -1,3 +1,4 @@
+open tenth ICDM,<open:https://icdm10.netlify.app/> 
 open olex 2 options,<open:https://github.com/pcxod/olex2/blob/master/options.txt>
 expand TSC,tabulated scatter contribution
 expand tr-SFX,time-resolved XFEL serial crystallography

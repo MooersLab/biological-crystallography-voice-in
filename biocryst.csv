@@ -1,3 +1,9 @@
+open gatan,<open:https://www.gatan.com/>
+open stoe,<open:https://www.stoe.com/>
+open IUCr journals,<open:https//https://journals.iucr.org>
+open cctbx documentation,<open:https://cctbx.github.io/>
+open cctbx miller array documentation,<open:https://cctbx.github.io/cctbx/cctbx.miller.html>
+open cctbx modules documentation,<open:https://cctbx.github.io/cctbx/cctbx.html>
 open tenth ICDM,<open:https://icdm10.netlify.app/> 
 open olex 2 options,<open:https://github.com/pcxod/olex2/blob/master/options.txt>
 expand TSC,tabulated scatter contribution

@@ -1,6 +1,8 @@
+expand MCMS,Micro-Cross-Seeding Matrix Screening
+expand MSMS,Micro-Self-Seeding Matrix Screening
 CD,seeding
 Micro seating,microseeding
-Macro seating,macroseeding
+Macro seating,macroseedinr
 Cross seating, cross-seeding
 Iterative CD,iterative seeding
 Iterative seating,iterative seeding

@@ -1,4 +1,4 @@
-![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.3&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
@@ -39,20 +39,22 @@ See the Voice In plug-in documentation to learn how to configure keyboard shortc
 
 
 ## Installation
-Each command is paired with the inserted text on a single line in a comma-separated value file (biocryst.csv).
+Each command is paired with the inserted text on a single line in a comma-separated value file, *biocryst.csv*.
 Equations, code snippets, and so on that span multiple lines are placed inside double quotes.
 You can upload these commands into your collection of custom commands using the **Bulk Add** button in Voice In Plus.
 
 ## Contents of the library biocryst.csv
 
-- Names of space groups that can accommodate chiral molecules (i.e., proteins and nucleic acids)
-- Space group numbers for the space groups that can accommodate chiral molecules
+- Names of all 230 space groups that can accommodate chiral molecules (i.e., proteins and nucleic acids)
+- Space group numbers
 - Software acronyms and their expansions
 - Light source acronyms and their expansions
 - Scientific society acronyms and their expansions
 - Journal acronyms and their expansions
-- Key equations
+- Select equations formatted in LaTeX for in-line and display mode
+- Select cctbx code snippets in Python
 - URLs for software
+- URLs for vendors
 
 
 ## Related repositories
@@ -82,7 +84,7 @@ I use the verb "list" to list sets of items.
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
 The speed with which you vocalize a command has a significant impact.
-You may have to verbalize the command at high speed to avoid inserting just the first word rather than the entire command.
+You may have to verbalize the command quickly to avoid inserting just the first word rather than the entire command.
 
 ## Contributions are welcome
 This project can benefit all biological crystallographers.
@@ -98,9 +100,11 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                                         | Date                 |
+|Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.3 |   Added update table, video, link to slides, and some commands.                                                                                                                 | 2024 July 9         |
+| Version 0.3 |   Added update table, video, link to slides, and some commands.                                                                            | 2024 July 9          |
+| Version 0.4 |   Added voice commands for centrosymmetric space groups.                                                                                   | 2024 July 17         |
+
 
 
   

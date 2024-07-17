@@ -14,7 +14,7 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 
 ## Examples of voice triggers and their results
 
-$$P_{xi}=\overline{U_{x}}+\sigma_{x}\frac{\sum^{Nu}_{k}D_{kx}\times \left( \frac{S_{ki}-\overline{U_{k}}}{\sigma_{k}}\right)}{\sum^{Nu}_{k}D_{kx}}$$
+$$P_{xi}=\overline{U_{x}}$$
 
   
 | Voice trigger | Result|

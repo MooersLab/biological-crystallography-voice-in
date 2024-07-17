@@ -14,7 +14,7 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 
 ## Examples of voice triggers and their results
 
-$$P_{xi}=\overline{U_{x}}$$
+\[ P_{xi}=\overline{U_{x}}\]
 
   
 | Voice trigger | Result|

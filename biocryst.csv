@@ -1,5 +1,5 @@
-display relation between normalized intensity and the Wilson B,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right) .$$
-display relation between the natural log of normalized intensity and the Wilson B,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right) .$$
+display relation between normalized intensity and the inverse resolution squared,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right) .$$
+display relation between the natural log of normalized intensity and the inverse resolution squared,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right) .$$
 display equation for relative Wilson plot for two crystals A and B,$\ln \left(\frac{Y_B}{Y_A}\right)=\ln \left(\frac{k_B}{k_A}\right)-2\left(B_B-B_A\right)\left(\frac{\sin ^2 \theta}{\lambda^2}\right) .$$
 expand MCMS,Micro-Cross-Seeding Matrix Screening
 expand MSMS,Micro-Self-Seeding Matrix Screening

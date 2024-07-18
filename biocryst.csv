@@ -1,4 +1,4 @@
-comment,"% Add the following to the preamble once
+comment, going around% Add the following to the preamble once
 %\usepackage{amsmath}
 %\usepackage{amsfonts}
 %\usepackage{amssymb}
@@ -8,7 +8,6 @@ comment,"% Add the following to the preamble once
 %\setlist[terms]{labelwidth=2cm,labelsep=1em,
 %                        leftmargin=!,align=myright,font=\normalfont}
 Where: 
-"
 20 by merohedry,twinning by merohedry
 20 in operation,twinning operation
 20 operation,twinning operation

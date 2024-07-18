@@ -1,3 +1,14 @@
+comment,"% Add the following to the preamble once
+%\usepackage{amsmath}
+%\usepackage{amsfonts}
+%\usepackage{amssymb}
+%\usepackage{enumitem}
+%\SetLabelAlign{myright}{\hss\llap{$#1$}}
+%\newlist{terms}{description}{1}
+%\setlist[terms]{labelwidth=2cm,labelsep=1em,
+%                        leftmargin=!,align=myright,font=\normalfont}
+Where: 
+"
 20 by merohedry,twinning by merohedry
 20 in operation,twinning operation
 20 operation,twinning operation

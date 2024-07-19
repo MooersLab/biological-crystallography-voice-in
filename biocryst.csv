@@ -1409,3 +1409,7 @@ expand ssrl sack,SSRL Scientific Advisory Committee
 expand ssrl uec,SSRL Users Executive Committee
 expand swaxs,small-wide angle X-ray scattering
 expand taam,Transferable Aspherical Atom Model
+citekey for short history of shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
+citekey for numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+citekey for Sheldrick 2008,\cite{Sheldrick2008AShortHistoryOfSHELX}
+citekey for Harris 2020,\cite{Harris2020ArrayProgrammingWithNumPy}

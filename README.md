@@ -103,7 +103,7 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 ## Update history
 
 |Version      | Changes                                                                                                                                    | Date                 |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------:|
 | Version 0.3 |   Added update table, video, link to slides, and some commands.                                                                            | 2024 July 9          |
 | Version 0.4 |   Added voice commands for centrosymmetric space groups.                                                                                   | 2024 July 17         |
 | Version 0.4.1 |   Added 333 text replacements and expansions.                                                                                            | 2024 July 18         |

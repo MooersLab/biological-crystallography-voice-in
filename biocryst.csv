@@ -1,13 +1,3 @@
-comment, going around% Add the following to the preamble once
-%\usepackage{amsmath}
-%\usepackage{amsfonts}
-%\usepackage{amssymb}
-%\usepackage{enumitem}
-%\SetLabelAlign{myright}{\hss\llap{$#1$}}
-%\newlist{terms}{description}{1}
-%\setlist[terms]{labelwidth=2cm,labelsep=1em,
-%                        leftmargin=!,align=myright,font=\normalfont}
-Where: 
 20 by merohedry,twinning by merohedry
 20 in operation,twinning operation
 20 operation,twinning operation
@@ -247,7 +237,7 @@ hendrickson-lattman coefficients,Hendrickson-Lattman coefficients
 hkl 3000,HKL3000
 How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law. 
 htx,HTX
-I over sick,$I/{\sigma}$
+inline I over sick,$I/{\sigma}$
 I212121,$I2_{1}2_{1}2_{1}$ 
 I222,$I222$ 
 I4,$I4$
@@ -1093,3 +1083,329 @@ face diagram,phase diagram
 display relation between normalized intensity and the Wilson B,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right)$$
 display relation between natural log of normalized intensity and the Wilson B,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right)$$
 display equation for relative Wilson plot for two crystals A and B,$$\ln \left(\frac{Y_B}{Y_A}\right)=\ln \left(\frac{k_B}{k_A}\right)-2\left(B_B-B_A\right)\left(\frac{\sin ^2 \theta}{\lambda^2}\right)$$
+Wilson bee factor,Wilson B-factor
+inline Iowa cig,$I/{\sigma}$
+20 by hemahedron,twinning by hemihedry
+20 fraction,twinning fraction
+20 law,twining law
+20th operator,twinning operator
+aca,ACA
+actor chris,Acta Cryst.
+actor chris section d,Acta Cryst. Section D
+actor chris section f,Acta Cryst. Section F
+actor christ,Acta Cryst.
+alpha fold three,AlphaFold3
+alpha fold two,AlphaFold2
+als,ALS
+amber,AMBER
+aps,APS
+are factors,$R$-factors
+are free,$R_{free}$
+are free,$R_{free}$
+biological sex,biological SAXS
+biological small angle scattering database,SASDB
+bizarre systematic absences,non-space group absences 
+blue eyes,Blu-Ice
+blue ice,Blu-Ice
+bnl,BNL
+britian plot,Britton plot 
+cctbx,cctbx
+cd,seeding
+charm plus plus,charm++
+check my metal,checkMyMetal
+check my sequence,checkMySequence
+chess,CHESS
+cinco tron radiation, synchotron radiation
+cite numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+cns,CNS
+co-crystallization,co-crystallization
+computational cartography newsletter,Computational Crystallography Newsletter
+computational crystallography newsletter,Computational Crystallography Newsletter
+computational crystalography newsletter,\emph{Computational Crystallography Newsletter}
+computing in science and engineering,Computing in Science and Engineering
+computing in science and engineering journal,\emph{Computing in Science and Engineering} journal
+create cctbx conda environment,conda create -n cctbx312 -c conda-forge cctbx-base python=3.12
+create cctbx conda kernel,conda activate cctbx312 && python -m ipykernel install --user --name cctbx312 --display-name 'cctbx 3.12'
+crile em,cryoEM
+crime em,cryoEM
+crims,CRIMS
+cross seating,cross-seeding
+crowley amd,cryoEM
+crowley in grades,cryoEM grids
+cryo em index key, \index{cryoEM}
+crystal 20,crystal twinning
+crystal graphic,crystallographic
+crystal graphics symmetry,crystallographic symmetry
+crystal low graphic symmetry,crystallographic symmetry
+crystalography,crystallography
+crystography,crystallography
+cue refine,qrefine
+cue refined,qrefine
+define a twin law,the set of all the twin operations that do the same mapping
+define epitaxy,the oriented crystal association of chemically heterogeneous phases
+define non-merohedral twinning,only certain zones of reciprocal lattice points overlap
+define twin operation,the operation mapping the orientations of two individuals of a twin and is a crystallographic operation about a direct lattice element
+define twinning,the oriented association of two or more individual domains in the same crystalline phase
+disarmography,crystallography
+double expand sac,SSRL Scientific Advisory Committee
+double expand ssrl sac,SSRL Scientific Advisory Committee
+double expand ssrl uec,Stanford Synchtron Radiation Lightsource Users Executive Committee
+edit command,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+edit commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+edit voice in command,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+edit voice in commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+electric graphics,molecular graphics
+electric placement,molecular replacement
+epitaxial twinning,WRONG!! Misused term. Rewrite.
+display equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
+display equation for gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
+eval 15,Eval15
+expand 3d ed,three-dimensional electron diffraction
+expand 3dva,3D variability analysis
+expand aca,ACA the Structural Science Society
+expand adm,Alternating Directions Method
+expand adp,Atomic Displacement Paramters
+expand advi,Automatic Differentiation Variational Inference
+expand ae,autoencoder
+expand aes,adaptive exploratory sampling
+expand afca,African Crystallographic Association
+expand afe,advanced front-end
+expand agi,Artificial General Intelligence
+expand ahs,adaptive hybrid sampling
+expand aic,Watanabe-Akaile Information Criterion
+expand air,acoustic impulse response
+expand ais,adaptive importance sampling
+expand ajax,Asynchronous JavaScript and XML
+expand ald,Associate Lab Director
+expand alm,Augmented Lagrange Multiplier
+expand als,Advanced Light Source
+expand amci,Amortized Monte Carlo Integration
+expand amf,Atomic Modulation Function
+expand anova,Analysis of Variance
+expand ansi,American National Standard Institute
+expand aps,Advanced Photon Source
+expand arma,Autoregressive Moving Average
+expand armax,Autoregressive Moving Average with eXogenous input
+expand biocat,Biophysics Collaborative Access Team
+expand biosas,biological small angle scattering
+expand bsc,Biomolecular Structure Core
+expand bsl-1,Biosafety Level 1
+expand bsl-2,Biosafety Level 2
+expand cablam,C-alpha Based Low-resolution Annotation Methods
+expand ccl,Chemical Component Library
+expand ccn,Computational Crystallography Newsletter
+expand ccp4,Collaborative Computational Project Number 4
+expand ccp4i,CCP4 Graphical User Interface
+expand ccp4mg,CCP4 Molecular Graphics
+expand ccr,Center for Cancer Research at NCI
+expand cctbx,Computational Crystallography Toolbox
+expand cd,circular dichroism
+expand charm,Chemistry at Harvard Molecular Mechanics
+expand charmm,Chemistry at Harvard Molecular Mechanics
+expand chess,Cornell High Energy Synchrotron Source
+expand cif,Crystallographic Information File 
+expand cmb,IUCr Commission on Biological Macromolecules
+expand cmllr,Constrained Maximum Likelihood Linear Regression
+expand cmm,checkMyMetal
+expand cns,Crystallography and NMR System
+expand coot,Crystallographic Object-Oriented Toolkit
+expand covid-19,coronavirus disease 2019
+expand crims,Crystallographic Information Management System
+expand cryo-em,cryo-electron microscopy
+expand csd,Cambridge Structural Database
+expand csgid,Center for Structural Genomics of Infectious Diseases
+expand dddwg,IUCr Diffraction Data Deposition Working Group
+expand dft,Density Functional Theory
+expand dhasd,Delaunay hybrid adaptive sequential desig
+expand dsd,Definitive Screening Design
+expand dsl,Diamond Light Source
+expand dsw,Data Science Workshop
+expand dt,Delaunay triangulation
+expand dtt,dithiothreitol
+expand elbow,electronic ligand Building
+expand ellgi,estimated Log-likelihood Gain on the Intensities
+expand elmam2,Epxerimental Library of Multipolar Atom Model 2
+expand elmo,Extremely Localized Molecular Oribitals
+expand eln,Electronic Lab Notebook
+expand eom,Ensemble Optimization Method
+expand ephi,electronic Protected Health Information
+expand epmm,Exact Potential Multipole Moment
+expand epr,Electron Paramagnetic Resonance
+expand eros,Ensemble Refinement of SAXS
+expand esrf,European Synchrotron Radiation Facility
+expand fel,free-electron laser
+expand fft,Fast Fourier Transform
+expand fnl,Frederick National Laboratory
+expand ga,Genetic Algorithm
+expand gpr,Gaussian Process Regression
+expand gpt,Generative Pretrained Transformer
+expand gpt-3,Generative Pre-trained Transformer-3
+expand gpt-4,Generative Pre-trained Transformer-4
+expand gpu,Graphics Processing Unit
+expand gpus,Graphics Processing Units
+expand gui,graphical user interface
+expand hdf,Hierarchical Data Format
+expand hepes,4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid
+expand hetatm,hetero atom
+expand hf,Hartree-Fock
+expand hfir,High Flux Isotope Reactor
+expand hm,harmonic mean
+expand hm-svms,hidden Markov support vector machines
+expand hmc,Hamiltonian Monte Carlo or Hybrid MC
+expand hmm,Hidden Markov Model
+expand hpd,Highest Posterior Density
+expand hpdi,Highest Posterior Density Interval
+expand hplc,High-pressure liquid chromatography
+expand iam,Independent Atom Model
+expand ias,Interatomic Scatterers
+expand ideal,Invariom Derived Electron AnaLysis
+expand INBRE,IDeA Networks of Biomedical Research Excellence
+expand irrmc,Integrated Resource for Reproducibility in Macromolecular Crystallography
+expand ispyb,Information System for Protein crystallography Beamlines
+expand iucr,International Union of Crystallography
+expand j a c,\emph{Journal of Applied Crystallography}
+expand jcsg,Joint Center for Structural Genomic
+expand jmlr,Journal of Machine Learning Research
+expand jsr,Journal of Synchrotron Radiation
+expand kde,kernal density estimation
+expand lalls,low-angle laser light scattering
+expand lcls,Linac Coherent Light Source
+expand lims,Laboratory Information Management System
+expand ls,light scattering
+expand malls,multi-angle laser light scattering
+expand mals,multi-angle light scattering
+expand mcmc,Markov Chain Monte Carlo
+expand md,Molecular Dynamics
+expand md simulations,molecular dynamics simulations
+expand me,maximum entropy
+expand mem,Maximum Entropy Method
+expand mes,Minimal Ensemble Search
+expand mes buffer,2-(N-morpholino)ethanesulfonic acid
+expand mir,Multiple Isomorpous Replacement
+expand mira,Maximizing Investigators’ Research Award
+expand moo,Multiobjective Optimization
+expand mopac,Molecular Orbital PACkage
+expand mops,3-(N-morpholino)propanesulfonic acid
+expand mx,macromolecular crystallography
+expand nakb,Nucleic Acid Knowledge Base
+expand nbsr,National Bureau of Standards Reactor
+expand ncats,National Center for Advancing Translational Sciences
+expand ncbi,National Center for Biotechnology Information
+expand nccih,National Center for Complementary and Integrative Health
+expand nci,noncovalent interaction
+expand ncnr,NIST Center for Neutron Research
+expand ndb,Nucleic Acid Database
+expand nei,National Eye Institute
+expand nei,National Eye Institute
+expand nfpa,National Fire Protection Association
+expand nhgri,National Human Genome Research Institute
+expand nia,National Institute on Aging
+expand niaaa,National Institute on Alcohol Abuse and Alcoholism
+expand niaid,National Institute of Allergy and Infectious Diseases
+expand niams,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+expand nibib,National Institute of Biomedical Imaging and Bioengineering
+expand nida,National Institute on Drug Abuse
+expand nidcd,National Institute on Deafness and Other Communication Disorders
+expand nidcr,National Institute of Dental and Craniofacial Research
+expand niddk,National Institute of Diabetes and Digestive and Kidney Diseases
+expand niehs,National Institute of Environmental Health Sciences 
+expand nigms,National Institute of General Medical Sciences
+expand nimble,Numerical Inference Models Bayesian Likelihood Estimation
+expand nimh,National Institute of Mental Health
+expand nimhd,National Institute on Minority Health and Health Disparities
+expand ninds,National Institute of Neurological Disorders and Stroke
+expand ninr,National Institute of Nursing Research
+expand nist,National Institute of Standards and Technology
+expand nll,Negative log likelihood
+expand nlm,National Library of Medicine
+expand nls,Nonlinear Schrödinger Equation
+expand nmc,Normalized Modulation Coefficient
+expand nmf,Nonnegative Matrix Factorization
+expand nmr,Nuclear Magnetic Resonance
+expand nn,neural networks
+expand nn-rs,neural network response surfaces
+expand nofo,Notice of Funding Opportunity
+expand np,nondeterministic polynomial time
+expand nsls2,National Synchtrotron Light Source II
+expand nysgrc,New York Structural Genomics Research Consortium
+expand oniom,\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
+expand ora,Office of Research Administration 
+expand osha,Occupational Safety and Health Administration
+expand oup,Oxford University Press
+expand pdb,Protein Data Bank
+expand pdb id,Protein Data Bank identifier
+expand pdbe,Protein Data Bank in Europe
+expand pddf,Pairwise Distance Distribution Function
+expand pep,Protein Expression and Purification
+expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand pims,Protein Information Management System
+expand pinns,Physics Informed Neural Networks
+expand pipes,piperazine-N,N′-bis(2-ethanesulfonic acid
+expand pli,protein-ligand interactions
+expand ppl,Probabilistic Programming Languages
+expand pso,particle swarm optimization
+expand pst,Patterson Superposition Techniques
+expand qtaim,Quantum Theory of Atoms in Molecules
+expand ralls,right-angle laser light scattering
+expand rbf,radial basis functions
+expand relu,rectified linear unit
+expand remd,Replica Exchange Molecular Dynamics
+expand reml,residual maximum likelihood
+expand repl,Read–Eval–Print Loop
+expand rhs,Right Hand Side (of an equation)
+expand ri,refractive index
+expand ribd,randomized incomplete block design
+expand rncs,rotational noncrystallographic symmetry
+expand rnn,recurrent neural network
+expand rnnlm,Recurrent neural network language model
+expand rope,Representation of Protein Entities
+expand sack,Scientific Advisory Committee
+expand sad,single wavelength anomalous dispersion
+expand sans,Small Angle Neutron Scattering
+expand sapt,Symmetry-Adapted Perturbation Theory
+expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
+expand sas,small-angle scattering
+expand sasbdb,Small Angle Scattering Biological Data Bank
+expand saxs,small-angle X-ray scattering
+expand scf,Self-Consistent Field
+expand scm,Source Code Management
+expand sdk,Software Development Kit
+expand se,Standard Error
+expand sec-mals,size-exclusion chromatography multi-angle light scattering
+expand sec-saxs,Size-exclusion chromatography Small Angle X-ray Scattering
+expand seo,Search Engine Optimisation
+expand sfx,Serial Femtosecond Crystallography
+expand sg-mcmc,Stochastic gradient Markov chain Monte Carlo
+expand sgc,Structural Genomics Consortium
+expand sgd,Stochastic Gradient Descent
+expand shg,Second-harmonic generation
+expand siam,Soceity for Industrial and Applied Mathematics
+expand sibyls,Structurally Integrated biology for Life Sciences
+expand sindy,Sparse Identification of Nonlinear Dynamics
+expand slac,SLAC National Accelerator Center
+expand sloc,Source Lines of Code
+expand sls,Swiss Light Source
+expand slurm,Simple Linux Utility for Resource Management
+expand smfret,single molecule Fluoresence Resonance Energy Transfer
+expand smiles,Simplified Molecular-Input Line-Entry System 
+expand smis,Scientific Management Information System
+expand sms,Sparse Matrix Sampling
+expand smwaxs,Small Angle/Medium Angle/Wide Angle X-ray Scattering Combined
+expand snn,spiking neural network
+expand snr,Signal-to-Noise Ratio
+expand sns,Swiss Neutron Source
+expand soap,Simple Object Access Protocol
+expand sobsa,sequencing optimization based on simulated annealing
+expand som,Self-Organizing Map
+expand sop,Standard Operating Procedures
+expand sql,Structured Query Language
+expand sqlxml,SQL Server XML
+expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
+expand ssm,State Space Model
+expand ssns,Swiss Spallation Neutron Source
+expand ssr,Sum of Squares Around the Regression Model
+expand ssrl,Stanford Synchrotron Radiation Lightsource
+expand ssrl sack,SSRL Scientific Advisory Committee
+expand ssrl uec,SSRL Users Executive Committee
+expand swaxs,small-wide angle X-ary scattering
+expand taam,Transferable Aspherical Atom Model

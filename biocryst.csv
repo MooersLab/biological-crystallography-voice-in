@@ -1415,3 +1415,5 @@ citekey for Sheldrick 2008,\cite{Sheldrick2008AShortHistoryOfSHELX}
 citekey for Harris 2020,\cite{Harris2020ArrayProgrammingWithNumPy}
 citekey shelx c d e,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
 citekey Sheldrick 2010,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
+citekey hkl 2 map,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
+citekey pape 2004,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}

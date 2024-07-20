@@ -5,10 +5,10 @@
 # biological-crystallography-voice-in
 
 ## Introduction
-This repo contains voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repo contains 1486 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
-The snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages, including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks and, of course, documents in Overleaf, the online LaTeX editor for academics.
+The snippets of LaTeX are recognized and rendered correctly by most Markdown typesetting languages, including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks and, of course, documents in Overleaf, the online LaTeX editor for academics.
 
 https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
 
@@ -18,14 +18,17 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 
   
 | Voice trigger | Result|
-| :------: | :----:|
+| :------ | :----|
 |expand jac | Journal of Applied Crystallography|
+|open Journal of Applied Crystallography| opens journal's homepage|
+|expand hepes|4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid|
 |expand iucr | International Union of Crystallography|
 |expression for sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
 |expression for Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
 |insert equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
+
 
 
 You may have to reload this page to get the equations rendered by **Mathjax**.
@@ -47,16 +50,24 @@ You can upload these commands into your collection of custom commands using the 
 
 ## Contents of the library biocryst.csv
 
-- Names of all 230 space groups that can accommodate chiral molecules (i.e., proteins and nucleic acids)
-- Space group numbers
+- Names of all 230 space groups
+- Commands to retreive the corresponding space group number of a given space group name
+- Commands to insert symmetry operation and point group symbols
 - Software acronyms and their expansions
+- Expansions of buffer and other chemicals common in crystallization screens
 - Light source acronyms and their expansions
+- Commands to open homepages of beamlines
+- Commands to open webpages with crystallization forms and experimental designs
 - Scientific society acronyms and their expansions
+- Commands to open homepages of Scientific Societies
 - Journal acronyms and their expansions
+- Commands to open homepages of journals
 - Select equations formatted in LaTeX for in-line and display mode
 - Select cctbx code snippets in Python
 - URLs for software
+- Commands to open homepages of software
 - URLs for vendors
+- Commands to open homepages of vendors
 
 
 ## Related repositories

@@ -507,7 +507,7 @@ open tenth ICDM,<open:https://icdm10.netlify.app/>
 open the refinement package CRYSTALS,<open:https://www.xtl.ox.ac.uk/crystals/documentation.html>
 open this year's goals,<open:file:///Users/blaine/2024goals.html>
 open ucla anisotropy server,<open:https://srv.mbi.ucla.edu/Anisoscale/>
-open ucla self-rotation funciton server,<open:https://services.mbi.ucla.edu/selfrot/>
+open ucla self-rotation function server,<open:https://services.mbi.ucla.edu/selfrot/>
 open ucla server for nist*Lattice,<open:https://services.mbi.ucla.edu/nist/>
 open ucla twinning server,<open:https://srv.mbi.ucla.edu/Twinning/>
 open User Meeting,<open:https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d039d9be2/summary>
@@ -1116,7 +1116,7 @@ check my metal,checkMyMetal
 check my sequence,checkMySequence
 chess,CHESS
 cinco tron radiation, synchotron radiation
-cite numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+citekey for numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
 cns,CNS
 co-crystallization,co-crystallization
 computational cartography newsletter,Computational Crystallography Newsletter
@@ -1415,7 +1415,7 @@ citekey for Sheldrick 2008,\cite{Sheldrick2008AShortHistoryOfSHELX}
 citekey for Harris 2020,\cite{Harris2020ArrayProgrammingWithNumPy}
 citekey for shelx c d e,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
 citekey for Sheldrick 2010,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
-citekey for hkl 2 map,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
+citekey for h k l 2 map,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
 citekey for pape 2004,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
 citekey for pattersons as priors,\cite{Burla2024UpdatingDirectMethodsII}
 citekey for Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
@@ -1591,15 +1591,32 @@ expand EDM,electron density modification
 expand EDM,electron density modification
 expand FT,Fourier transform
 citekey Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey Wilson plot,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey Wilson 1942 Wilson plot,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey Wilson 1942 Determination of abolute from relative,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey intertrpretation of normalized structure factors,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
-citekey Morris et al. 2004,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
-citekey updating direct methods 1,\cite{Giacovazzo2019UpdatingDirectMethods}
-citekey updating direct methods 2,\cite{Burla2024UpdatingDirectMethodsII}
-citekey Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
+citekey for Wilson plots,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+citekey for Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+citekey for Wilson 1942 Determination of abolute from relative X-ray intensity data,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+citekey for the intertrpretation of normalized structure factors,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
+citekey for Morris et al. 2004,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
+citekey for updating direct methods 1,\cite{Giacovazzo2019UpdatingDirectMethods}
+citekey for updating direct methods 2,\cite{Burla2024UpdatingDirectMethodsII}
+citekey for Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
 citekey Burla et al 2024,\cite{Burla2024UpdatingDirectMethodsII}
-citekey Giacovazzo 2019,\cite{Giacovazzo2019UpdatingDirectMethods}
-citekey Matthews 1968,\cite{Matthews1968SolventContentOfProteinCrystals}
-citekey solvent content of protein crystals,\cite{Matthews1968SolventContentOfProteinCrystals}
+citekey for Giacovazzo 2019,\cite{Giacovazzo2019UpdatingDirectMethods}
+citekey for Matthews 1968,\cite{Matthews1968SolventContentOfProteinCrystals}
+citekey for determining the solvent content of protein crystals,\cite{Matthews1968SolventContentOfProteinCrystals}
+list journals that allow PDF download by org ref,- Nature <newline> - Scientific Reports <newlne>
+list journals that do not allow PDF download by org ref,- IUCr journals <newline> - <newlne>
+citekey for Phenix,\cite{Liebschner2019RecentDevelopmentsInPhenix}
+citekey for CCP4,\cite{Agirre2023TheCCP4Suite}
+citekey for XDS,\cite{Kabsch2010XDS}
+citekey for shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
+citekey for Coot,\cite{Emsley2010FeaturesAndDevelopmentOfCoot}
+citekey for ChimeraX,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+citekey for shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
+citekey for Chimera,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+citekey for refinig structures with shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
+citekey for latest paper on Mattprob,\cite{Weichenberger2014TenYearsProbabilisticEstimatesBiocrystalSolventContent}
+citekey for Molprobity,\cite{Chen2010MolProbityAllAtomStructureValidationForMacromolecularCrystallography}
+expand TLSMD,TLS Motion Determination
+open TLSMD,<open:http://skuld.bmsc.washington.edu/~tlsmd/>
+citekey TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
+citekey TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}

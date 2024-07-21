@@ -349,7 +349,7 @@ insert space group number for P6522,179
 insert space group number for Pm,6
 insert space group number for R3,146
 insert space group number for R32,155
-insert url for space group tables,\url{http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm}
+url for space group tables,\url{http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm}
 international tables for crystallography,International Tables for Crystallography
 international tables of crystallography,International Tables for Crystallography
 isolde,ISOLDE
@@ -1637,3 +1637,5 @@ open HWI,<open:https://hwi.buffalo.edu/>
 open BCC,<open:https://research.csiro.au/crystal/>
 open Biomolecular Crystallisation and Characterisation,<open:https://research.csiro.au/crystal/>
 expand BCC,Biomolecular Crystallisation and Characterisation
+open space group tables,<open:http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm>
+open High Throughput Crystallization and Fragment Screening Facility,<open:https://www.embl.org/services-facilities/grenoble/high-throughput-crystallisation/>

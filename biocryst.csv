@@ -1641,3 +1641,6 @@ open space group tables,<open:http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm>
 open High Throughput Crystallization and Fragment Screening Facility,<open:https://www.embl.org/services-facilities/grenoble/high-throughput-crystallisation/>
 open ccp4 documentation,<open:https://www.ccp4.ac.uk/html/>
 open phenix webpage,<open:https://phenix-online.org>
+citekey hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+citekey imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
+citekey isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}

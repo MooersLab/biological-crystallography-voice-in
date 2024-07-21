@@ -1603,7 +1603,7 @@ citekey Burla et al 2024,\cite{Burla2024UpdatingDirectMethodsII}
 citekey for Giacovazzo 2019,\cite{Giacovazzo2019UpdatingDirectMethods}
 citekey for Matthews 1968,\cite{Matthews1968SolventContentOfProteinCrystals}
 citekey for determining the solvent content of protein crystals,\cite{Matthews1968SolventContentOfProteinCrystals}
-list journals that allow PDF download by org ref,- Nature <newline> - Scientific Reports <newlne>
+list journals that allow PDF download by org ref,Nature <newline>Physical Revew<newline>Scientific Reports<newline>
 list journals that do not allow PDF download by org ref,- IUCr journals <newline> - <newlne>
 citekey for Phenix,\cite{Liebschner2019RecentDevelopmentsInPhenix}
 citekey for CCP4,\cite{Agirre2023TheCCP4Suite}
@@ -1622,3 +1622,15 @@ citekey TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
 citekey TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
 citekey Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
 open Structural Dynamics,<open:https://pubs.aip.org/aca/sdy>
+citekey Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+citekey Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
+citekey for Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
+citekey for Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+citekey for Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+citekey for TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
+citekey for TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
+open National High-Throughput Crystallization Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
+open HTX Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
+open HWI Crystallization Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
+expand HWI,Hauptman-Woodward Medical Research Institute
+open HWI,<open:https://hwi.buffalo.edu/>

@@ -1620,3 +1620,5 @@ expand TLSMD,TLS Motion Determination
 open TLSMD,<open:http://skuld.bmsc.washington.edu/~tlsmd/>
 citekey TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
 citekey TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
+citekey Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+open Structural Dynamics,<open:https://pubs.aip.org/aca/sdy>

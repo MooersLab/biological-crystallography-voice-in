@@ -443,7 +443,7 @@ open more property,<open:http://molprobity.manchester.ac.uk/help/validation_opti
 open my next beam time,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html#Jul292024>
 Open my property,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html> 
 open NAKB,<open:https://www.nakb.org/>
-open Nucleic Acid Knowledge base,<open:https://www.nakb.org/>
+open Nucleic Acid Knowledge Base,<open:https://www.nakb.org/>
 open olex 2 options,<open:https://github.com/pcxod/olex2/blob/master/options.txt>
 open olex,<open:https://www.olexsys.org/olex2/>
 open olex2,<open:https://www.olexsys.org/olex2/>
@@ -1678,3 +1678,7 @@ open gemmi read the docs,<open:https://gemmi.readthedocs.io/en/latest/>
 open gemmi github,<open:https://github.com/project-gemmi>
 open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
 open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
+citekey nakb,\cite{Lawson2024TheNucleicAcidKnowledgebaseANewPortalFor3DStructuralInformationAboutNucleicAcids}
+citekey dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
+expand dssr,Dissecting the Spatial Structure of RNA
+citekey for dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}

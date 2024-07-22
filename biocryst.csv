@@ -1682,3 +1682,33 @@ citekey nakb,\cite{Lawson2024TheNucleicAcidKnowledgebaseANewPortalFor3DStructura
 citekey dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
 expand dssr,Dissecting the Spatial Structure of RNA
 citekey for dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
+open EM Data Resource,<open:https://www.emdataresource.org/index.html>
+citekey cryoEM ligand validation,\cite{Lawson2024OutcomesEmdataresourceCryoEmLigandModelingChallenge}
+citekey xtra pol 8,\cite{DeZitter2022Xtrapol8EnablesAutomaticElucidationOfLowOccupancyIntermediateStatesInCrystallographicStudies}
+open github site for xtra pol 8,<open:https://github.com/ElkeDeZitter/Xtrapol8>
+expand ESFA,extrapolated structure factor amplitudes
+open IUCr calendar of meetings,<open:https://www.iucr.org/calendar/calendar-of-events>
+citekey for scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
+citekey scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
+citekey pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
+citekey for pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
+citekey for statsmodels,\cite{Seabold2010Statsmodels}
+citekey statsmodels,\cite{Seabold2010Statsmodels}
+citekey matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
+citekey for matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
+citekey for numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
+citekey numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
+open pymc,<open:https://www.pymc.io/welcome.html>
+citekey pymc,\cite{Salvatier2016ProbabilisticProgrammingInPythonUsingPyMC3}
+citekey arviz,\cite{Kumar2019ArviZAUnifiedLibraryForExploratoryAnalysisOfBayesianModelsInPython}
+open arviz,<open:https://www.arviz.org/en/latest/>
+open github pytensor,<open:https://github.com/pymc-devs/pytensor>
+open pytensor,<open:https://github.com/pymc-devs/pytensor>
+citekey numba,\cite{Lam2015NumbaALlvmBasedPythonJitCompiler}
+open github numba,<open:https://github.com/numba/numba>
+open numba read the docs,<open:https://numba.readthedocs.io/>
+open pytensor,<open:https://github.com/pymc-devs/pytensor>
+citekey PyTorch,\cite{Ansel2024Pytorch}
+open PyTorch,<open:https://github.com/pytorch/pytorch>
+open read the docs for openpyxl,<open:https://openpyxl.readthedocs.io>
+open read the docs for xlsxwriter,<open:https://xlsxwriter.readthedocs.io/>

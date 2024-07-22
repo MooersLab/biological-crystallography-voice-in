@@ -1671,3 +1671,10 @@ citekey for rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidCom
 citekey rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
 citekey rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
 citekey for rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
+citekey for gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
+citekey gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
+open gemmi,<open:https://gemmi.readthedocs.io/en/latest/>
+open gemmi read the docs,<open:https://gemmi.readthedocs.io/en/latest/>
+open gemmi github,<open:https://github.com/project-gemmi>
+open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
+open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>

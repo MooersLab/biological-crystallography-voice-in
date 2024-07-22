@@ -1644,3 +1644,12 @@ open phenix webpage,<open:https://phenix-online.org>
 citekey hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
 citekey imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
 citekey isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
+open sir webpage,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
+open sir download site,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
+citekey for apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
+citekey apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
+citekey for isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
+citekey for hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+citekey for imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
+citekey hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
+citekey for hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}

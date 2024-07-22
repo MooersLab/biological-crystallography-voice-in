@@ -5,17 +5,16 @@
 # biological-crystallography-voice-in
 
 ## Introduction
-This repo contains 1486 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repo contains 1538 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
-The snippets of LaTeX are recognized and rendered correctly by most Markdown typesetting languages, including org-mode in Emacs and markdown cells in Jupyter and R Markdown notebooks and, of course, documents in Overleaf, the online LaTeX editor for academics.
+The snippets of math equations in LaTeX are recognized and rendered correctly by most Markdown typesetting languages, including GitHub Markdown.
+These math equations are also rendered in org-mode in Emac, Markdown cells in Jupyter, and R Markdown notebooks.
+Of course, they work in documents on Overleaf, the online LaTeX editor for academics, and in other TeX and LaTeX editors.
 
 https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
 
 ## Examples of voice triggers and their results
-
-\[ P_{xi}=\overline{U_{x}} \]
-
   
 | Voice trigger | Result|
 | :------ | :----|
@@ -23,9 +22,9 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 |open Journal of Applied Crystallography| opens journal's homepage|
 |expand hepes|4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid|
 |expand iucr | International Union of Crystallography|
-|expression for sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
-|expression for Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
-|insert equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
+|display sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
+|display Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
+|display equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
 
@@ -51,13 +50,14 @@ You can upload these commands into your collection of custom commands using the 
 ## Contents of the library biocryst.csv
 
 - Names of all 230 space groups
-- Commands to retreive the corresponding space group number of a given space group name
+- Commands to retrieve the corresponding space group number of a given space group name
 - Commands to insert symmetry operation and point group symbols
 - Software acronyms and their expansions
-- Expansions of buffer and other chemicals common in crystallization screens
+- Expansions of acronyms for buffer and other chemicals in crystallization screens
 - Light source acronyms and their expansions
 - Commands to open homepages of beamlines
 - Commands to open webpages with crystallization forms and experimental designs
+- Commands to open webpages of crystallization facilities
 - Scientific society acronyms and their expansions
 - Commands to open homepages of Scientific Societies
 - Journal acronyms and their expansions
@@ -67,7 +67,7 @@ You can upload these commands into your collection of custom commands using the 
 - URLs for software
 - Commands to open homepages of software
 - URLs for vendors
-- Commands to open homepages of vendors
+- Commands to open the homepages of vendors
 
 
 ## Related repositories

@@ -1735,3 +1735,7 @@ open nobel prizes in crystallography,<open:https://www.xtal.iqf.csic.es/Cristalo
 open qutemol,<open:https://qutemol.sourceforge.net/>
 citekey qutemol,\cite{Tarini2006AmbientOcclusionAndEdgeCueingForEnhancingRealTimeMolecularVisualization}
 open adxv,<open:https://www.scripps.edu/tainer/arvai/adxv.html/>
+open jmol,<open;https://jmol.sourceforge.net/>
+citekey jmol,\cite{Jmol2024}
+open jsmol,<open:https://jmol.sourceforge.net/>
+citekey jsmol,\cite{Jmol2024}

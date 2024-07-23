@@ -1718,7 +1718,7 @@ citekey for F early minus F late maps,\cite{Vonrhein2024AdvancedExploitationUnme
 citekey LSSR,\cite{Smart2012ExploitingStructureSimilarityRefinementAutomatedNCSandTargetStructureRestraintsInBuster}
 expand LSSR,Local Structural Similarity Restraints
 citekey for TNT,\cite{Tronrud1987AnEfficientGeneralPurposeLeastSquaresRefinementProgramForMacromolecularStructures}
-citekey for X-PLOR,\cite{}
+citekey for X-PLOR,\cite{ToBeDone}
 citekey for REFMAC,\cite{Murshudov2011Refmac5ForTheRefinementMacromolecularCrystalStructures}
 citekey for CNS,\cite{Brunger1998CrystallographyNMRSystemANewSoftwareSuiteForMacromolecularStructureDetermination}
 expand GMM,Gaussian Mixture Model
@@ -1731,3 +1731,7 @@ open Molecular Biotechnology,<open:http://www.springer.com/chemistry/biotechnolo
 open Molecular Cell,<open:https://www.sciencedirect.com/journal/molecular-cell>
 open Molecules,<open:https://www.mdpi.com/journal/molecules>
 expand JINEX,Just IN time Crystallization for Easy structure Determinatio
+open nobel prizes in crystallography,<open:https://www.xtal.iqf.csic.es/Cristalografia/parte_10_1-en.html>
+open qutemol,<open:https://qutemol.sourceforge.net/>
+citekey qutemol,\cite{Tarini2006AmbientOcclusionAndEdgeCueingForEnhancingRealTimeMolecularVisualization}
+open adxv,<open:https://www.scripps.edu/tainer/arvai/adxv.html/>

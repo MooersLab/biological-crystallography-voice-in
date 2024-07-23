@@ -1717,3 +1717,16 @@ citekey for autoproc,\cite{Vonrhein2011DataProcessingAndAnalysisWithTheAutoPROCT
 citekey for F early minus F late maps,\cite{Vonrhein2024AdvancedExploitationUnmergedReflectionDataDuringProcessingRefinementWithAutoPROCandBuster}
 citekey LSSR,\cite{Smart2012ExploitingStructureSimilarityRefinementAutomatedNCSandTargetStructureRestraintsInBuster}
 expand LSSR,Local Structural Similarity Restraints
+citekey for TNT,\cite{Tronrud1987AnEfficientGeneralPurposeLeastSquaresRefinementProgramForMacromolecularStructures}
+citekey for X-PLOR,\cite{}
+citekey for REFMAC,\cite{Murshudov2011Refmac5ForTheRefinementMacromolecularCrystalStructures}
+citekey for CNS,\cite{Brunger1998CrystallographyNMRSystemANewSoftwareSuiteForMacromolecularStructureDetermination}
+expand GMM,Gaussian Mixture Model
+open Mitochondrion ,<open:https://www.sciencedirect.com/journal/mitochondrion>   
+open Molecular and Cellular Biology,<open:http://mcb.asm.org/> 
+open Molecular and Biochemical Parasitolog,<open:http://www.sciencedirect.com/science/journal/01666851>
+open Molecular BioSystems,<open:http://www.rsc.org/publishing/journals/MB/Index.asp>
+open Molecular Biotechnology,<open:http://www.springerlink.com/content/120568/>
+open Molecular Biotechnology,<open:http://www.springer.com/chemistry/biotechnology/journal/12033>
+open Molecular Cell,<open:https://www.sciencedirect.com/journal/molecular-cell>
+open Molecules,<open:https://www.mdpi.com/journal/molecules>

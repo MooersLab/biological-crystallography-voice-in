@@ -45,8 +45,8 @@ electric graphics,molecular graphics
 electric placement,molecular replacement
 eln,ELN
 epitaxial twinning,WRONG!! Misused term. Rewrite.
-equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
-equation gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
+dsiplay equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
+display equation gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
 eval 15,Eval15
 expand 3D ED,three-dimensional electron diffraction
 expand 3DVA,3D variability analysis
@@ -1739,3 +1739,4 @@ open jmol,<open;https://jmol.sourceforge.net/>
 citekey jmol,\cite{Jmol2024}
 open jsmol,<open:https://jmol.sourceforge.net/>
 citekey jsmol,\cite{Jmol2024}
+display Sayre's equation,$$F^2_{\textbf{h}} \propto \sum_{\textbf{k}} F_{\textbf{h}} \cdot F_{\textbf{k}} \cdot F_{\textbf{h-k}} \cdot \rm{exp}( i(\varphi_{\textbf{-h}} + \varphi_{\textbf{k}}$$ 

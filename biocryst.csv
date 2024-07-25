@@ -1775,3 +1775,7 @@ citekey PDB REDO,\cite{Joosten2014ThePDBREDOServerForMacromolecularStructureMode
 open PDB redo,<open:https://pdb-redo.eu/>
 open yasara,<open:https://www.yasara.org/>
 open whatif,<open:https://swift.cmbi.umcn.nl/servers/html/index.html/>
+doi to bibtex,<open:https://www.doi2bib.org/>
+doi 2 bib,<open:https://www.doi2bib.org/>
+citekey molscript,\cite{Kraulis1991MOLSCRIPTAProgramToProduceBothDetailedAndSchematicPlotsOfProteinStructures}
+citekey alphafold and the future of structural biology,\cite{Read2023AlphaFoldAndTheFutureOfStructuralBiology}

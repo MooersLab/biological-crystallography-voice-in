@@ -1,11 +1,11 @@
-![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.2&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.3&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
 # biological-crystallography-voice-in
 
 ## Introduction
-This repo contains 1645 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repo contains 1700 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
 
@@ -127,11 +127,11 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                    | Date                 |
+|Version      | Changes                                                                                                                                   | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------:|
-| Version 0.3 |   Added update table, video, link to slides, and some commands.                                                           | 2024 July 9          |
-| Version 0.4 |   Added voice commands for centrosymmetric space groups.                                                                 | 2024 July 17         |
-| Version 0.4.1 |   Added 333 text replacements and expansions.                                                                                   | 2024 July 18         |
-| Version 0.4.2 |   1645 commands now. Added biocryst.bib file with BibTeX entries for citekey items.                          | 2024 July 24        |
-
+| Version 0.3 |   Added update table, video, link to slides, and some commands.                                                                           | 2024 July 9          |
+| Version 0.4 |   Added voice commands for centrosymmetric space groups.                                                                                  | 2024 July 17         |
+| Version 0.4.1 |   Added 333 text replacements and expansions.                                                                                           | 2024 July 18         |
+| Version 0.4.2 |   1645 commands now. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24        |
+| Version 0.4.3 |   1700 commands now. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24        |
   

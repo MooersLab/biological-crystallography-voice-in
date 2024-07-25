@@ -1786,3 +1786,13 @@ citekey sir 2019,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR
 citekey arp warp,\cite{Langer2008AutomatedMacromolecularModelBuildingXRayCrystallographyUsingArpVersion}
 citekey shelxe model building,\cite{Uson2024ModesAndModelBuildingInSHELXE}
 citekey shelxe 2024,\cite{Uson2024ModesAndModelBuildingInSHELXE}
+citekey XDS gui,\cite{Brehm2023XDSGUIAGraphicalUserInterfaceForXDSSHELXAndARCIMBOLDO}
+open XDS,<open:https://wiki.uni-konstanz.de/xds/index.php/Installation>
+citekey star aniso,\cite{Tickle2018Staraniso}
+citekey Pflugrath on fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
+citekey fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
+open raddose 3D,<open:https://raddo.se/>
+citekey pointless,\cite{Evans2006ScalingAndAssessmentOfDataQuality)
+citekey raddose 3D,\cite{Dickerson2024DosesForXrayAndElectronDiffractionNewFeaturesInRaddose3DIncludingIntensityDecayModels}
+citekey archimboldo,\cite{Rodriguez2012PracticalStructureSolutionWithARCIMBOLDO}
+open archimboldo,<open:http://chango.ibmb.csic.es/>

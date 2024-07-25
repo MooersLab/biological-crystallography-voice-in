@@ -1116,7 +1116,7 @@ check my metal,checkMyMetal
 check my sequence,checkMySequence
 chess,CHESS
 cinco tron radiation, synchotron radiation
-citekey for numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
 cns,CNS
 co-crystallization,co-crystallization
 computational cartography newsletter,Computational Crystallography Newsletter
@@ -1409,16 +1409,16 @@ expand ssrl sack,SSRL Scientific Advisory Committee
 expand ssrl uec,SSRL Users Executive Committee
 expand swaxs,small-wide angle X-ray scattering
 expand taam,Transferable Aspherical Atom Model
-citekey for short history of shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
-citekey for numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
-citekey for Sheldrick 2008,\cite{Sheldrick2008AShortHistoryOfSHELX}
-citekey for Harris 2020,\cite{Harris2020ArrayProgrammingWithNumPy}
-citekey for shelx c d e,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
-citekey for Sheldrick 2010,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
-citekey for h k l 2 map,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
-citekey for pape 2004,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
-citekey for pattersons as priors,\cite{Burla2024UpdatingDirectMethodsII}
-citekey for Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
+site short history of shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+site Sheldrick 2008,\cite{Sheldrick2008AShortHistoryOfSHELX}
+site Harris 2020,\cite{Harris2020ArrayProgrammingWithNumPy}
+site shelx c d e,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
+site Sheldrick 2010,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
+site h k l 2 map,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
+site pape 2004,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
+site pattersons as priors,\cite{Burla2024UpdatingDirectMethodsII}
+site Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
 url for sir 2019,\url{https://www.ba.ic.cnr.it/softwareic/sir2014/}
 open sir 2019,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
 open protein science,<open:https://onlinelibrary.wiley.com/journal/1469896x?tabActivePane=undefined>
@@ -1554,7 +1554,7 @@ open Journal of Nucleic Acids Investigation,<open:http://www.pagepress.org/journ
 open Journal of Open Source Software,<open:https://openresearchsoftware.metajnl.com>
 open Journal of Parallel and Distributed Computing,<open:https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing>
 open Journal of Physical Chemistry Section A,<open:http://pubs.acs.org/journals/jpcafh/index.html>
-Jopen ournal of Physical Chemsitry Section B,<open:http://pubs.acs.org/journal/jpcbfk/index.html>
+open Journal of Physical Chemsitry Section B,<open:http://pubs.acs.org/journal/jpcbfk/index.html>
 open Journal of Simulation,<open:https://www.tandfonline.com/journals/tjsm20>
 open JOSS,<open:https://openresearchsoftware.metajnl.com>
 open Journal of Statistical Software,<open:http://www.jstatsoft.org>
@@ -1590,45 +1590,45 @@ expand MWCO,molecular weight cutoff
 expand EDM,electron density modification
 expand EDM,electron density modification
 expand FT,Fourier transform
-citekey Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey for Wilson plots,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey for Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey for Wilson 1942 Determination of abolute from relative X-ray intensity data,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
-citekey for the intertrpretation of normalized structure factors,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
-citekey for Morris et al. 2004,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
-citekey for updating direct methods 1,\cite{Giacovazzo2019UpdatingDirectMethods}
-citekey for updating direct methods 2,\cite{Burla2024UpdatingDirectMethodsII}
-citekey for Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
-citekey Burla et al 2024,\cite{Burla2024UpdatingDirectMethodsII}
-citekey for Giacovazzo 2019,\cite{Giacovazzo2019UpdatingDirectMethods}
-citekey for Matthews 1968,\cite{Matthews1968SolventContentOfProteinCrystals}
-citekey for determining the solvent content of protein crystals,\cite{Matthews1968SolventContentOfProteinCrystals}
+site Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site Wilson plots,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site Wilson 1942 Determination of abolute from relative X-ray intensity data,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site the intertrpretation of normalized structure factors,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
+site Morris et al. 2004,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
+site updating direct methods 1,\cite{Giacovazzo2019UpdatingDirectMethods}
+site updating direct methods 2,\cite{Burla2024UpdatingDirectMethodsII}
+site Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
+site Burla et al 2024,\cite{Burla2024UpdatingDirectMethodsII}
+site Giacovazzo 2019,\cite{Giacovazzo2019UpdatingDirectMethods}
+site Matthews 1968,\cite{Matthews1968SolventContentOfProteinCrystals}
+site determining the solvent content of protein crystals,\cite{Matthews1968SolventContentOfProteinCrystals}
 list journals that allow PDF download by org ref,Nature <newline>Physical Revew<newline>Scientific Reports<newline>
 list journals that do not allow PDF download by org ref,- IUCr journals <newline> - <newlne>
-citekey for Phenix,\cite{Liebschner2019RecentDevelopmentsInPhenix}
-citekey for CCP4,\cite{Agirre2023TheCCP4Suite}
-citekey for XDS,\cite{Kabsch2010XDS}
-citekey for shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
-citekey for Coot,\cite{Emsley2010FeaturesAndDevelopmentOfCoot}
-citekey for ChimeraX,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
-citekey for shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
-citekey for Chimera,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
-citekey for refinig structures with shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
-citekey for latest paper on Mattprob,\cite{Weichenberger2014TenYearsProbabilisticEstimatesBiocrystalSolventContent}
-citekey for Molprobity,\cite{Chen2010MolProbityAllAtomStructureValidationForMacromolecularCrystallography}
+site Phenix,\cite{Liebschner2019RecentDevelopmentsInPhenix}
+site CCP4,\cite{Agirre2023TheCCP4Suite}
+site XDS,\cite{Kabsch2010XDS}
+site shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
+site Coot,\cite{Emsley2010FeaturesAndDevelopmentOfCoot}
+site ChimeraX,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+site shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
+site Chimera,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+site refinig structures with shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
+site latest paper on Mattprob,\cite{Weichenberger2014TenYearsProbabilisticEstimatesBiocrystalSolventContent}
+site Molprobity,\cite{Chen2010MolProbityAllAtomStructureValidationForMacromolecularCrystallography}
 expand TLSMD,TLS Motion Determination
 open TLSMD,<open:http://skuld.bmsc.washington.edu/~tlsmd/>
-citekey TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
-citekey TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
-citekey Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
+site TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
+site Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
 open Structural Dynamics,<open:https://pubs.aip.org/aca/sdy>
-citekey Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
-citekey Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
-citekey for Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
-citekey for Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
-citekey for Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
-citekey for TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
-citekey for TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
+site Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
+site Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
+site Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
+site TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
 open National High-Throughput Crystallization Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
 open HTX Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
 open HWI Crystallization Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
@@ -1641,86 +1641,86 @@ open space group tables,<open:http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm>
 open High Throughput Crystallization and Fragment Screening Facility,<open:https://www.embl.org/services-facilities/grenoble/high-throughput-crystallisation/>
 open ccp4 documentation,<open:https://www.ccp4.ac.uk/html/>
 open phenix webpage,<open:https://phenix-online.org>
-citekey hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
-citekey imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
-citekey isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
+site hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
+site isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
 open sir webpage,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
 open sir download site,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
-citekey for apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
-citekey apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
-citekey for isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
-citekey for hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
-citekey for imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
-citekey hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
-citekey for hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
-citekey hkl,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
-citekey for hkl,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
-citekey for olex2,\cite{Dolomanov2009OLEX2}
-citekey olex2,\cite{Dolomanov2009OLEX2}
-citekey nospherA2,\cite{Kleemiss2021AccurateCrystalStructuresFromNoSpherA2}
-citekey for nospherA2,\cite{Kleemiss2021AccurateCrystalStructuresFromNoSpherA2}
-citekey for alphafold2,\cite{Jumper2021HighlyAccurateProteinStructurePredictionWithAlphaFold}
-citekey alphafold2,\cite{Jumper2021HighlyAccurateProteinStructurePredictionWithAlphaFold}
-citekey alphafold3,\cite{Abramson2024AccurateStructurePredictionBiomolecularInteractionsWithAlphafold}
-citekey for alphafold3,\cite{Abramson2024AccurateStructurePredictionBiomolecularInteractionsWithAlphafold}
-citekey for colabfold,\cite{Mirdita2022ColabFoldMakingProteinFoldingAccessibleToAll}
-citekey colabfold,\cite{Mirdita2022ColabFoldMakingProteinFoldingAccessibleToAll}
-citekey rosettafold,\cite{Baek2021AccuratePredictionProteinStructuresInteractionsUsingThreeTrackNeuralNetwork}
-citekey for rosettafold,\cite{Baek2021AccuratePredictionProteinStructuresInteractionsUsingThreeTrackNeuralNetwork}
-citekey for rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
-citekey rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
-citekey rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
-citekey for rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
-citekey for gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
-citekey gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
+site apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
+site apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
+site isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
+site hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
+site hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
+site hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
+site hkl,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site hkl,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site olex2,\cite{Dolomanov2009OLEX2}
+site olex2,\cite{Dolomanov2009OLEX2}
+site nospherA2,\cite{Kleemiss2021AccurateCrystalStructuresFromNoSpherA2}
+site nospherA2,\cite{Kleemiss2021AccurateCrystalStructuresFromNoSpherA2}
+site alphafold2,\cite{Jumper2021HighlyAccurateProteinStructurePredictionWithAlphaFold}
+site alphafold2,\cite{Jumper2021HighlyAccurateProteinStructurePredictionWithAlphaFold}
+site alphafold3,\cite{Abramson2024AccurateStructurePredictionBiomolecularInteractionsWithAlphafold}
+site alphafold3,\cite{Abramson2024AccurateStructurePredictionBiomolecularInteractionsWithAlphafold}
+site colabfold,\cite{Mirdita2022ColabFoldMakingProteinFoldingAccessibleToAll}
+site colabfold,\cite{Mirdita2022ColabFoldMakingProteinFoldingAccessibleToAll}
+site rosettafold,\cite{Baek2021AccuratePredictionProteinStructuresInteractionsUsingThreeTrackNeuralNetwork}
+site rosettafold,\cite{Baek2021AccuratePredictionProteinStructuresInteractionsUsingThreeTrackNeuralNetwork}
+site rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
+site rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
+site rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
+site rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
+site gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
+site gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
 open gemmi,<open:https://gemmi.readthedocs.io/en/latest/>
 open gemmi read the docs,<open:https://gemmi.readthedocs.io/en/latest/>
 open gemmi github,<open:https://github.com/project-gemmi>
 open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
 open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
-citekey nakb,\cite{Lawson2024TheNucleicAcidKnowledgebaseANewPortalFor3DStructuralInformationAboutNucleicAcids}
-citekey dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
+site nakb,\cite{Lawson2024TheNucleicAcidKnowledgebaseANewPortalFor3DStructuralInformationAboutNucleicAcids}
+site dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
 expand dssr,Dissecting the Spatial Structure of RNA
-citekey for dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
+site  dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
 open EM Data Resource,<open:https://www.emdataresource.org/index.html>
-citekey cryoEM ligand validation,\cite{Lawson2024OutcomesEmdataresourceCryoEmLigandModelingChallenge}
-citekey xtra pol 8,\cite{DeZitter2022Xtrapol8EnablesAutomaticElucidationOfLowOccupancyIntermediateStatesInCrystallographicStudies}
+site cryoEM ligand validation,\cite{Lawson2024OutcomesEmdataresourceCryoEmLigandModelingChallenge}
+site xtra pol 8,\cite{DeZitter2022Xtrapol8EnablesAutomaticElucidationOfLowOccupancyIntermediateStatesInCrystallographicStudies}
 open github site for xtra pol 8,<open:https://github.com/ElkeDeZitter/Xtrapol8>
 expand ESFA,extrapolated structure factor amplitudes
 open IUCr calendar of meetings,<open:https://www.iucr.org/calendar/calendar-of-events>
-citekey for scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
-citekey scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
-citekey pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
-citekey for pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
-citekey for statsmodels,\cite{Seabold2010Statsmodels}
-citekey statsmodels,\cite{Seabold2010Statsmodels}
-citekey matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
-citekey for matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
-citekey for numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
-citekey numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
+site scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
+site scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
+site pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
+site pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
+site statsmodels,\cite{Seabold2010Statsmodels}
+site statsmodels,\cite{Seabold2010Statsmodels}
+site matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
+site matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
 open pymc,<open:https://www.pymc.io/welcome.html>
-citekey pymc,\cite{Salvatier2016ProbabilisticProgrammingInPythonUsingPyMC3}
-citekey arviz,\cite{Kumar2019ArviZAUnifiedLibraryForExploratoryAnalysisOfBayesianModelsInPython}
+site pymc,\cite{Salvatier2016ProbabilisticProgrammingInPythonUsingPyMC3}
+site arviz,\cite{Kumar2019ArviZAUnifiedLibraryForExploratoryAnalysisOfBayesianModelsInPython}
 open arviz,<open:https://www.arviz.org/en/latest/>
 open github pytensor,<open:https://github.com/pymc-devs/pytensor>
 open pytensor,<open:https://github.com/pymc-devs/pytensor>
-citekey numba,\cite{Lam2015NumbaALlvmBasedPythonJitCompiler}
+site numba,\cite{Lam2015NumbaALlvmBasedPythonJitCompiler}
 open github numba,<open:https://github.com/numba/numba>
 open numba read the docs,<open:https://numba.readthedocs.io/>
 open pytensor,<open:https://github.com/pymc-devs/pytensor>
-citekey PyTorch,\cite{Ansel2024Pytorch}
+site PyTorch,\cite{Ansel2024Pytorch}
 open PyTorch,<open:https://github.com/pytorch/pytorch>
 open read the docs for openpyxl,<open:https://openpyxl.readthedocs.io>
 open read the docs for xlsxwriter,<open:https://xlsxwriter.readthedocs.io/>
 open nobel prizes for 3D structures,<open:https://proteopedia.org/w/Nobel_Prizes_for_3D_Molecular_Structure>
-citekey for autoproc,\cite{Vonrhein2011DataProcessingAndAnalysisWithTheAutoPROCToolbox}
-citekey for F early minus F late maps,\cite{Vonrhein2024AdvancedExploitationUnmergedReflectionDataDuringProcessingRefinementWithAutoPROCandBuster}
-citekey LSSR,\cite{Smart2012ExploitingStructureSimilarityRefinementAutomatedNCSandTargetStructureRestraintsInBuster}
+site autoproc,\cite{Vonrhein2011DataProcessingAndAnalysisWithTheAutoPROCToolbox}
+site F early minus F late maps,\cite{Vonrhein2024AdvancedExploitationUnmergedReflectionDataDuringProcessingRefinementWithAutoPROCandBuster}
+site LSSR,\cite{Smart2012ExploitingStructureSimilarityRefinementAutomatedNCSandTargetStructureRestraintsInBuster}
 expand LSSR,Local Structural Similarity Restraints
-citekey for TNT,\cite{Tronrud1987AnEfficientGeneralPurposeLeastSquaresRefinementProgramForMacromolecularStructures}
-citekey for X-PLOR,\cite{ToBeDone}
-citekey for REFMAC,\cite{Murshudov2011Refmac5ForTheRefinementMacromolecularCrystalStructures}
-citekey for CNS,\cite{Brunger1998CrystallographyNMRSystemANewSoftwareSuiteForMacromolecularStructureDetermination}
+site TNT,\cite{Tronrud1987AnEfficientGeneralPurposeLeastSquaresRefinementProgramForMacromolecularStructures}
+site X-PLOR,\cite{ToBeDone}
+site REFMAC,\cite{Murshudov2011Refmac5ForTheRefinementMacromolecularCrystalStructures}
+site CNS,\cite{Brunger1998CrystallographyNMRSystemANewSoftwareSuiteForMacromolecularStructureDetermination}
 expand GMM,Gaussian Mixture Model
 open Mitochondrion ,<open:https://www.sciencedirect.com/journal/mitochondrion>   
 open Molecular and Cellular Biology,<open:http://mcb.asm.org/> 
@@ -1733,33 +1733,33 @@ open Molecules,<open:https://www.mdpi.com/journal/molecules>
 expand JINEX,Just IN time Crystallization for Easy structure Determinatio
 open nobel prizes in crystallography,<open:https://www.xtal.iqf.csic.es/Cristalografia/parte_10_1-en.html>
 open qutemol,<open:https://qutemol.sourceforge.net/>
-citekey qutemol,\cite{Tarini2006AmbientOcclusionAndEdgeCueingForEnhancingRealTimeMolecularVisualization}
+site qutemol,\cite{Tarini2006AmbientOcclusionAndEdgeCueingForEnhancingRealTimeMolecularVisualization}
 open adxv,<open:https://www.scripps.edu/tainer/arvai/adxv.html/>
 open jmol,<open;https://jmol.sourceforge.net/>
-citekey jmol,\cite{Jmol2024}
+site jmol,\cite{Jmol2024}
 open jsmol,<open:https://jmol.sourceforge.net/>
-citekey jsmol,\cite{Jmol2024}
+site jsmol,\cite{Jmol2024}
 display Sayre's equation,$$F^2_{\textbf{h}} \propto \sum_{\textbf{k}} F_{\textbf{h}} \cdot F_{\textbf{k}} \cdot F_{\textbf{h-k}} \cdot \rm{exp}( i(\varphi_{\textbf{-h}} + \varphi_{\textbf{k}}$$ 
 open divcon,<open:
-citekey MOLREP,\cite{Vagin2010MolecularReplacementWithMOLREP}
-citekey PRODRG,\cite{Schuttelkopf2004PRODRGAToolForHighThroughputCrystallographyOfProteinLigandComplexes}
-citekey wwPDB,\cite{Berman2007TheWorldwideProteinDataBankwwPDBEnsuringASingleUniformArchiveOfPDBData}
-citekey PyMOL,\cite{DeLanoScientific2002PyMOL}
-citekey UCSF Chimera,\cite{Pettersen2004UCSFChimera}
-citekey for UCSF Chimera,\cite{Pettersen2004UCSFChimera}
-citekey for Chimera,\cite{Pettersen2004UCSFChimera}
-citekey Chimera,\cite{Pettersen2004UCSFChimera}
-citekey Zwart 2008,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
-citekey pitfalls from psuedosymmetry,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
-citekey twinned structures with shelxl,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
-citekey Herbst Imer 1998,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
-citekey phasing annealing in shelx,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
-citekey Sheldrick 1990,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
-citekey intensity statistics with tNCS,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
-citekey Read 2013,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
+site MOLREP,\cite{Vagin2010MolecularReplacementWithMOLREP}
+site PRODRG,\cite{Schuttelkopf2004PRODRGAToolForHighThroughputCrystallographyOfProteinLigandComplexes}
+site wwPDB,\cite{Berman2007TheWorldwideProteinDataBankwwPDBEnsuringASingleUniformArchiveOfPDBData}
+site PyMOL,\cite{DeLanoScientific2002PyMOL}
+site UCSF Chimera,\cite{Pettersen2004UCSFChimera}
+site UCSF Chimera,\cite{Pettersen2004UCSFChimera}
+site Chimera,\cite{Pettersen2004UCSFChimera}
+site Chimera,\cite{Pettersen2004UCSFChimera}
+site Zwart 2008,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
+site pitfalls from psuedosymmetry,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
+site twinned structures with shelxl,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
+site Herbst Imer 1998,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
+site phasing annealing in shelx,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
+site Sheldrick 1990,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
+site intensity statistics with tNCS,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
+site Read 2013,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
 expand IAM,independent-atom model
 expand IAS,interatomic scatters
-citekey xmgr,\cite{ACE1998xmgr}
+site xmgr,\cite{ACE1998xmgr}
 open Xmgr,<open:https://plasma-gate.weizmann.ac.il/Grace/>
 open Grace,<open:https://plasma-gate.weizmann.ac.il/Grace/>
 expand WYSIWYG,What You See IS What You Get
@@ -1767,44 +1767,44 @@ open autoproc,<open:https://www.globalphasing.com/autoproc/>
 open sharp,<open:https://www.globalphasing.com/sharp/>
 open buster,<open:https://www.globalphasing.com/buster/>
 open star aniso vbserver,<open:https://staraniso.globalphasing.org/cgi-bin/staraniso.cgi>
-open  peep PDB web server,<open:https://staraniso.globalphasing.org/cgi-bin/PDBpeep.cgi>
-open  grade web server,<open:https://grade.globalphasing.org/cgi-bin/grade2_server.cgi>
+open peep PDB web server,<open:https://staraniso.globalphasing.org/cgi-bin/PDBpeep.cgi>
+open grade web server,<open:https://grade.globalphasing.org/cgi-bin/grade2_server.cgi>
 inline F early minus F late,$F_{early} - F_{late}$
 display F early minus F late,$$F_{early} - F_{late}$$
-citekey PDB REDO,\cite{Joosten2014ThePDBREDOServerForMacromolecularStructureModelOptimization}
+site PDB REDO,\cite{Joosten2014ThePDBREDOServerForMacromolecularStructureModelOptimization}
 open PDB redo,<open:https://pdb-redo.eu/>
 open yasara,<open:https://www.yasara.org/>
 open whatif,<open:https://swift.cmbi.umcn.nl/servers/html/index.html/>
 doi to bibtex,<open:https://www.doi2bib.org/>
 doi 2 bib,<open:https://www.doi2bib.org/>
-citekey molscript,\cite{Kraulis1991MOLSCRIPTAProgramToProduceBothDetailedAndSchematicPlotsOfProteinStructures}
-citekey alphafold and the future of structural biology,\cite{Read2023AlphaFoldAndTheFutureOfStructuralBiology}
+site molscript,\cite{Kraulis1991MOLSCRIPTAProgramToProduceBothDetailedAndSchematicPlotsOfProteinStructures}
+site alphafold and the future of structural biology,\cite{Read2023AlphaFoldAndTheFutureOfStructuralBiology}
 open molscript,<open:https://pekrau.github.io/MolScript/>
-citekey crystFEL,\cite{White2012CrystFELaSoftwareSuiteForSnapshotSerialCrystallography}
-citekey sir 2014,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
-citekey sir 2019,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
-citekey arp warp,\cite{Langer2008AutomatedMacromolecularModelBuildingXRayCrystallographyUsingArpVersion}
-citekey shelxe model building,\cite{Uson2024ModesAndModelBuildingInSHELXE}
-citekey shelxe 2024,\cite{Uson2024ModesAndModelBuildingInSHELXE}
-citekey XDS gui,\cite{Brehm2023XDSGUIAGraphicalUserInterfaceForXDSSHELXAndARCIMBOLDO}
+site crystFEL,\cite{White2012CrystFELaSoftwareSuiteForSnapshotSerialCrystallography}
+site sir 2014,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
+site sir 2019,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
+site arp warp,\cite{Langer2008AutomatedMacromolecularModelBuildingXRayCrystallographyUsingArpVersion}
+site shelxe model building,\cite{Uson2024ModesAndModelBuildingInSHELXE}
+site shelxe 2024,\cite{Uson2024ModesAndModelBuildingInSHELXE}
+site XDS gui,\cite{Brehm2023XDSGUIAGraphicalUserInterfaceForXDSSHELXAndARCIMBOLDO}
 open XDS,<open:https://wiki.uni-konstanz.de/xds/index.php/Installation>
-citekey star aniso,\cite{Tickle2018Staraniso}
-citekey Pflugrath on fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
-citekey fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
+site star aniso,\cite{Tickle2018Staraniso}
+site Pflugrath on fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
+site fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
 open raddose 3D,<open:https://raddo.se/>
-citekey pointless,\cite{Evans2006ScalingAndAssessmentOfDataQuality)
-citekey raddose 3D,\cite{Dickerson2024DosesForXrayAndElectronDiffractionNewFeaturesInRaddose3DIncludingIntensityDecayModels}
-citekey archimboldo,\cite{Rodriguez2012PracticalStructureSolutionWithARCIMBOLDO}
+site pointless,\cite{Evans2006ScalingAndAssessmentOfDataQuality)
+site raddose 3D,\cite{Dickerson2024DosesForXrayAndElectronDiffractionNewFeaturesInRaddose3DIncludingIntensityDecayModels}
+site archimboldo,\cite{Rodriguez2012PracticalStructureSolutionWithARCIMBOLDO}
 open archimboldo,<open:http://chango.ibmb.csic.es/>
 open phaser,<open:https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software>
-citekey phaser,\cite{McCoy2007PhaserCrystallographicSoftware}
-citekey French and Wilson 1978,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
-citekey treatment of negative intensity observations,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
+site phaser,\cite{McCoy2007PhaserCrystallographicSoftware}
+site French and Wilson 1978,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
+site treatment of negative intensity observations,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
 expand TPS,translational pseudosymmetry
-citekey superflip,\cite{Palatinus2007SuperflipAComputerProgramForTheSolutionOfCrystalStructuresByChargeFlippingInArbitraryDimensions}
+site superflip,\cite{Palatinus2007SuperflipAComputerProgramForTheSolutionOfCrystalStructuresByChargeFlippingInArbitraryDimensions}
 open superflip,<open:http://superflip.fzu.cz/>
 open charge flipping for proteins,<open:https://bioserv.cbs.cnrs.fr/crystal/SUPERFLIP/>
-citekey charge flipping for proteins,\cite{Dumas2008MacromolecularStructureSolutionByChargeFlipping}
-citekey acorn2,\cite{Dodson2009ACORN2NewDevelopmentsOfTheACORNConcept}
-citekey acorn review,\cite{Yao2006ACORNAReview}
+site charge flipping for proteins,\cite{Dumas2008MacromolecularStructureSolutionByChargeFlipping}
+site acorn2,\cite{Dodson2009ACORN2NewDevelopmentsOfTheACORNConcept}
+site acorn review,\cite{Yao2006ACORNAReview}
 open acorn,<open:https://www.ccp4.ac.uk/html/acorn.html>

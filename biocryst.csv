@@ -1779,3 +1779,10 @@ doi to bibtex,<open:https://www.doi2bib.org/>
 doi 2 bib,<open:https://www.doi2bib.org/>
 citekey molscript,\cite{Kraulis1991MOLSCRIPTAProgramToProduceBothDetailedAndSchematicPlotsOfProteinStructures}
 citekey alphafold and the future of structural biology,\cite{Read2023AlphaFoldAndTheFutureOfStructuralBiology}
+open molscript,<open:https://pekrau.github.io/MolScript/>
+citekey crystFEL,\cite{White2012CrystFELaSoftwareSuiteForSnapshotSerialCrystallography}
+citekey sir 2014,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
+citekey sir 2019,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
+citekey arp warp,\cite{Langer2008AutomatedMacromolecularModelBuildingXRayCrystallographyUsingArpVersion}
+citekey shelxe model building,\cite{Uson2024ModesAndModelBuildingInSHELXE}
+citekey shelxe 2024,\cite{Uson2024ModesAndModelBuildingInSHELXE}

@@ -1796,3 +1796,15 @@ citekey pointless,\cite{Evans2006ScalingAndAssessmentOfDataQuality)
 citekey raddose 3D,\cite{Dickerson2024DosesForXrayAndElectronDiffractionNewFeaturesInRaddose3DIncludingIntensityDecayModels}
 citekey archimboldo,\cite{Rodriguez2012PracticalStructureSolutionWithARCIMBOLDO}
 open archimboldo,<open:http://chango.ibmb.csic.es/>
+open phaser,<open:https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software>
+citekey phaser,\cite{McCoy2007PhaserCrystallographicSoftware}
+citekey French and Wilson 1978,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
+citekey treatment of negative intensity observations,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
+expand TPS,translational pseudosymmetry
+citekey superflip,\cite{Palatinus2007SuperflipAComputerProgramForTheSolutionOfCrystalStructuresByChargeFlippingInArbitraryDimensions}
+open superflip,<open:http://superflip.fzu.cz/>
+open charge flipping for proteins,<open:https://bioserv.cbs.cnrs.fr/crystal/SUPERFLIP/>
+citekey charge flipping for proteins,\cite{Dumas2008MacromolecularStructureSolutionByChargeFlipping}
+citekey acorn2,\cite{Dodson2009ACORN2NewDevelopmentsOfTheACORNConcept}
+citekey acorn review,\cite{Yao2006ACORNAReview}
+open acorn,<open:https://www.ccp4.ac.uk/html/acorn.html>

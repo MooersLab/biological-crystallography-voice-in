@@ -1740,3 +1740,38 @@ citekey jmol,\cite{Jmol2024}
 open jsmol,<open:https://jmol.sourceforge.net/>
 citekey jsmol,\cite{Jmol2024}
 display Sayre's equation,$$F^2_{\textbf{h}} \propto \sum_{\textbf{k}} F_{\textbf{h}} \cdot F_{\textbf{k}} \cdot F_{\textbf{h-k}} \cdot \rm{exp}( i(\varphi_{\textbf{-h}} + \varphi_{\textbf{k}}$$ 
+open divcon,<open:
+citekey MOLREP,\cite{Vagin2010MolecularReplacementWithMOLREP}
+citekey PRODRG,\cite{Schuttelkopf2004PRODRGAToolForHighThroughputCrystallographyOfProteinLigandComplexes}
+citekey wwPDB,\cite{Berman2007TheWorldwideProteinDataBankwwPDBEnsuringASingleUniformArchiveOfPDBData}
+citekey PyMOL,\cite{DeLanoScientific2002PyMOL}
+citekey UCSF Chimera,\cite{Pettersen2004UCSFChimera}
+citekey for UCSF Chimera,\cite{Pettersen2004UCSFChimera}
+citekey for Chimera,\cite{Pettersen2004UCSFChimera}
+citekey Chimera,\cite{Pettersen2004UCSFChimera}
+citekey Zwart 2008,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
+citekey pitfalls from psuedosymmetry,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
+citekey twinned structures with shelxl,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
+citekey Herbst Imer 1998,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
+citekey phasing annealing in shelx,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
+citekey Sheldrick 1990,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
+citekey intensity statistics with tNCS,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
+citekey Read 2013,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
+expand IAM,independent-atom model
+expand IAS,interatomic scatters
+citekey xmgr,\cite{ACE1998xmgr}
+open Xmgr,<open:https://plasma-gate.weizmann.ac.il/Grace/>
+open Grace,<open:https://plasma-gate.weizmann.ac.il/Grace/>
+expand WYSIWYG,What You See IS What You Get
+open autoproc,<open:https://www.globalphasing.com/autoproc/>
+open sharp,<open:https://www.globalphasing.com/sharp/>
+open buster,<open:https://www.globalphasing.com/buster/>
+open star aniso vbserver,<open:https://staraniso.globalphasing.org/cgi-bin/staraniso.cgi>
+open  peep PDB web server,<open:https://staraniso.globalphasing.org/cgi-bin/PDBpeep.cgi>
+open  grade web server,<open:https://grade.globalphasing.org/cgi-bin/grade2_server.cgi>
+inline F early minus F late,$F_{early} - F_{late}$
+display F early minus F late,$$F_{early} - F_{late}$$
+citekey PDB REDO,\cite{Joosten2014ThePDBREDOServerForMacromolecularStructureModelOptimization}
+open PDB redo,<open:https://pdb-redo.eu/>
+open yasara,<open:https://www.yasara.org/>
+open whatif,<open:https://swift.cmbi.umcn.nl/servers/html/index.html/>

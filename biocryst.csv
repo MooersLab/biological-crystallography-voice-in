@@ -1,0 +1,1830 @@
+20 by merohedry,twinning by merohedry
+20 in operation,twinning operation
+20 operation,twinning operation
+20th operator,twinning operator
+a star,$\mathbf{a}$
+actor Christ,Acta Cryst.
+alpha fold three,AlphaFold3
+alpha fold two,AlphaFold2
+Anita Patterson,a native Patterson
+Argand diagram,Argand diagram
+b star,$\mathbf{b}$
+be star,$\mathbf{b}$
+biochrist library,biocryst library
+bizarre systematic absences,non-space group absences 
+blue ice,Blu-Ice
+bravis lattice,Bravias lattice
+Britian plot,Britton plot 
+c star,$\mathbf{c}$
+C2,$C2$
+C222,$C222$ 
+C222,$C222_{1}$
+C2221,$C222_{1}$
+cc one-half,$CC_{1/2}$ 
+ccp4 cloud,CCP4 Cloud
+ccp4 study weekend,CCP4 Study Weekend
+check my metal,checkMyMetal
+check my sequence,checkMySequence
+christographer,crystallographer
+christography,crystallography
+cns,CNS
+colab fold,ColabFold
+create cctbx conda environment,conda create -n cctbx312 -c conda-forge cctbx-base python=3.12
+create cctbx conda kernel,conda activate cctbx312 && python -m ipykernel install --user --name cctbx312 --display-name 'cctbx 3.12'
+crims,CRIMS
+Crystal Graphics symmetry,crystallographic symmetry
+Crystal low graphic symmetry,crystallographic symmetry
+define a twin law,the set of all the twin operations that do the same mapping
+define epitaxy,the oriented crystal association of chemically heterogeneous phases
+define non-merohedral twinning,only certain zones of reciprocal lattice points overlap
+define twin operation,the operation mapping the orientations of two individuals of a twin and is a crystallographic operation about a direct lattice element
+define twinning,the oriented association of two or more individual domains in the same crystalline phase
+disarmography,crystallography
+display electron density equation,$$\rho (xyz) = (1/V) \sum_{h} \sum_{k} \sum_{l} |F (hkl)| \exp [- 2 \pi i (hx + ky + lz)\ + i \alpha (hkl)]$$
+electric graphics,molecular graphics
+electric placement,molecular replacement
+eln,ELN
+epitaxial twinning,WRONG!! Misused term. Rewrite.
+dsiplay equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
+display equation gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
+eval 15,Eval15
+expand 3D ED,three-dimensional electron diffraction
+expand 3DVA,3D variability analysis
+expand aca,ACA the Structural Science Society
+expand ADP,Atomic Displacement Paramters
+expand afca,African Crystallographic Association
+expand ALD,Associate Lab Director
+expand als,Advanced Light Source
+expand amf,Atomic Modulation Function
+expand aps,Advanced Photon Source
+expand aug-promol,point charges-augmented promolecule
+expand besac,Basic Energy Sciences Advisory Committee
+expand bnl,Brookhaven National Laboratory
+expand caBLAM,C-alpha Based Low-resolution Annotation Methods
+expand ccl,Chemical Component Library
+expand ccn,Computational Crystallography Newsletter
+expand ccp4,Collaborative Computational Project Number 4
+expand cctbx,Computational Crystallography Toolbox
+expand ceres,CryoEM re-refinement system
+expand charmm,Chemistry at Harvard Molecular Mechanics
+expand chess,Cornell High Energy Synchrotron Source
+expand cif,Crystallographic Information File 
+expand cmb,IUCr Commission on Biological Macromolecules
+expand cmm,checkMyMetal
+expand cns,Cold Neutron Source
+expand CNS,Crystallography and NMR System
+expand cns,Crystallography and NMR System
+expand coot,Crystallographic Object-Oriented Toolkit
+expand clpc,cross-linked protein crystal
+expand crims,Crystallization Information Management System 
+expand CRIMS,Crystallographic Information Management System
+expand cryo-em,cryo-electron microscopy
+expand csd,Cambridge Structural Database
+expand csgid,Center for Structural Genomics of Infectious Diseases
+expand csv,comma-separated values
+expand dddwg,IUCr Diffraction Data Deposition Working Group
+expand dft,Density Functional Theory
+expand digs,Demodulation of Intensities by Grouping and Scaling
+expand doi,Digital Object Identifier
+expand DPI,Diffraction Precision Index
+expand DSL,Diamond Light Source
+expand eca,European Crystallographic Association
+expand elBOW,electronic ligand Building
+expand elmam2,Epxerimental Library of Multipolar Atom Model 2
+expand elmo,Extremely Localized Molecular Oribitals
+expand eln,Electronic Lab Notebook
+expand EPMM,Exact Potential Multipole Moment
+expand epmm,Exact Potential Multipole Moment
+expand esrf,European Synchrotron Radiation Facility
+expand fair,Findable Accessible Interoperable Re-usable
+expand FEL,free-electron laser
+expand FFT,Fast Fourier Transform
+expand fiji,FIJI Is Just ImageJ
+expand fxs,fluctuation X-ray scattering
+expand gid,Generalized Invariom Database
+expand har,Hirshfeld Atom Refinement
+expand HETATM,hetero atom
+expand HF,Hartree-Fock
+expand htx,high-throughput crystallography
+expand I3C,"5-amino-2,4,6-triiodoisophthalic acid"
+expand iam,Independent Atom Model
+expand ias,Interatomic Scatterers
+expand ideal,Invariom Derived Electron AnaLysis
+expand IRRMC,Integrated Resource for Reproducibility in Macromolecular Crystallography
+expand irrmc,Integrated Resource for Reproducibility in Macromolecular Crystallography
+expand ispyb,Information System for Protein crystallography Beamlines
+expand iucr,International Union of Crystallography
+expand jac,Journal of Applied Crystallography
+expand jcsg,Joint Center for Structural Genomic
+expand jsr,Journal of Synchrotron Radiation
+expand KIE,kinetic isotopic effect
+expand lcls,Linac Coherent Light Source
+expand LCP,lipidic cubic phase
+expand LCP-rMMS,lipidic cubic phase Random Microseed Matrix-Screening
+expand lims,Laboratory Information Management System
+expand llg,log likelihood gain
+expand ltd,Lattice Translocation Deffects
+expand mad,Multi-wavelength Anomalous Diffraction
+expand matts,Multipolar Atom Types from Thoery and Statistical clustering databank
+expand mcsg,Midwest Center for Structural Genomics
+expand MEM,Maximum Entropy Method
+expand MICS,mix-and-inject serial crystallography
+expand mir,Multiple Isomorpous Replacement
+expand mmCIF,macro-molecular crystallographic information file
+expand MMS,Microseed Matrix-Screening
+expand mndo,Modified Neglect of Diatomic Overlap
+expand MolISSI,Molecular Sciences Software Institute
+expand mopac,Molecular Orbital PACkage
+expand mr,Molecular Replacement
+expand mx,macromolecular crystallography
+expand nakb,Nucleic Acid Knowledge Base
+expand nbsr,National Bureau of Standards Reactor
+expand nci,noncovalent interaction
+expand ncnr,NIST Center for Neutron Research
+expand ncs,noncrystallographic symmetry
+expand ndb,Nucleic Acid Database
+expand nist,National Institute of Standards and Technology
+expand NoSpherA2,Non-spherical Atoms in Olex2
+expand nsls2,National Synchtrotron Light Source II
+expand nysgrc,New York Structural Genomics Research Consortium
+expand od,Order-Disorder
+expand ONIOM,\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
+expand oup,Oxford University Press
+expand pae,Predicted Aligned Error
+expand PDB,Protein Data Bank
+expand pdb,Protein Data Bank
+expand PDBe,Protein Data Bank in Europe
+expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand pims,Protein Information Management System
+expand pli,protein-ligand interactions
+expand qmf,quantum mechanical flipping
+expand qmr,quantum mechanical refinement
+expand qtaim,Quantum Theory of Atoms in Molecules
+expand RCSB,Research Collaboratory in Structural Biology
+expand reel,Restraint Editor Essentially Ligands
+expand rMMS,Random Microseed Matrix-Screening
+expand our MMS,Random Microseed Matrix-Screening
+expand or MMS,Random Microseed Matrix-Screening 
+expand our nms,Random Microseed Matrix-Screening 
+expand our MMS,Random Microseed Matrix-Screening 
+expand our and then s,Random Microseed Matrix-Screening 
+expand our and then s,Random Microseed Matrix-Screening
+expand rncs, rotational noncrystallographic symmetry
+expand rod,Rotational Order-Disorder
+expand rope,Representation of Protein Entities.
+expand sack,Scientific Advisory Committee
+expand SAD,single wavelength anomalous dispersion
+expand sad,Single-wavelength Anomalous Diffraction
+expand sapt,Symmetry-Adapted Perturbation Theory
+expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
+expand sas,small-angle scattering
+expand saxs,small-angle X-ray scattering
+expand sbfa,Supramolecular Synthon Based Fragments Approach
+expand sbgrid,Structural Biology Grid Consortium
+expand scf,Self-Consistent Field
+expand sgc,Structural Genomics Consortium
+expand SHG,Second-harmonic generation
+expand slac,SLAC National Accelerator Center
+expand smiles,Simplified Molecular-Input Line-Entry System 
+expand smis,Scientific Management Information System
+expand soap,Simple Object Access Protocol
+expand sql,Structured Query Language
+expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
+expand ssrl sack,SSRL Scientific Advisory Committee
+expand ssrl uec,SSRL Users Executive Committee
+expand ssrl,Stanford Synchrotron Radiation Lightsource
+expand swaxs,small-wide angle X-ary scattering
+expand taam,Transferable Aspherical Atom Model
+expand tls,Translation Libration and Screw
+expand tncs,translational noncrystallographic symmetry
+expand tr-SFX,time-resolved XFEL serial crystallography
+expand tr-SSX,time-resolved synchrotron serial crystallography
+expand tr-XES,time-resolved X-ray emission spectroscopy
+expand TSC,tabulated scatter contribution
+expand udbd,University of Buffalo Databank
+expand vir,Database of real and virtual spherical-atom parameters
+expand waxs,Wide-Angle X-ray Scattering
+expand XES,X-ray emission spectroscopy
+expand xfel,X-ray Free Electron Laser
+expand xfels,X-ray Free Electron Lasers
+expand xml,Extensible Markup Language
+expand XRD,X-ray Diffraction
+expand xss,X-ray Solution Scattering
+inline for I over sigma,$I/{\sigma}$
+inline for sigmaA 2fo minus fc,$2mF_{o} - DF_{c}$
+inline for sigmaA fo minus fc,$mF_{o} - DF_{c}$
+inline for standard partial regression coefficient,$P_i=a_i \sigma\left(x_i\right) / \sigma(y)$
+inline for Stanley factor,$\left\langle I^2\right\rangle /\langle I\rangle^2$
+inline for Stanley ratio,$\langle F\rangle^2 /\left\langle F^2\right\rangle$
+inline for Wilson ratio,$\left\langle I^2\right\rangle /\langle I\rangle^2$
+F222,$F222$
+F4132,$F4_{1}32$
+F432,$F432$
+FLEV,Flatland Ligand Environment View
+flexer,FLEXR
+four one,$4_1$
+four sub one,$4_1$
+four sub three,$4_3$
+four sub two,$4_2$
+gemme,GEMMI
+gemmi,GEMMI
+H3,$H3$
+H32,$H32$
+hemihedral 20,hemihedral twinning
+hemihedral twin,twinning by hemihedry
+hemihedral twinning,twinning by hemihedry 
+hendrickson-lattman coefficients,Hendrickson-Lattman coefficients
+hkl 3000,HKL3000
+How are twin laws derived,by coset decomposition of the point group of the twin with respect to the intersection group of the individuals in their respective orientations. All of the operations that belong to the same coset are equivalent and form a twin law. 
+htx,HTX
+inline I over sick,$I/{\sigma}$
+I212121,$I2_{1}2_{1}2_{1}$ 
+I222,$I222$ 
+I4,$I4$
+I41,$I4_{1}$
+I4122,$I4_{1}22$
+I4132,$I4_{1}32$
+I422,$I422$
+I432,$I432$
+ice bear,IceBear
+in commensurately,incommensurately
+insert Bragg's equation,$$2 \mathrm{~d} \sin \theta=\mathrm{n} \lambda$$
+insert equation for atomic scattering factor vector,$$\mathbf{f}_j=f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
+insert equation for position vector,$$\mathbf{r}=\mathbf{a x}+\mathbf{b y}+\mathbf{c z}$$
+insert equation for the structure factor with contributions from one molecule,$$\mathbf{F}_1(hkl) = \sum_j f_j \exp(2\pi\ i\ (hx_j+ky_j+lz_j)$$
+insert equation for the structure factor,$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$
+insert python create jupyter kernel,python -m ipykernel install --user --name cctbx312july24 --display-name 'cctbx312july2024'
+insert space group number for C m,8
+insert space group number for C c,9
+insert space group number for C 2 over m,12
+insert space group number for P 2 over c,13
+insert space group number for P 2 1 over c,14
+insert space group number for C 2 over c,15
+insert space group number for P m m 2,25
+insert space group number for P m c 2 1,26
+insert space group number for P c c 2,27
+insert space group number for P m a 2,28
+insert space group number for P m a 2 1,29
+insert space group number for P n c 2,30
+insert space group number for P m n 2 1,31
+insert space group number for P b a 2,32
+insert space group number for P b a 2 1,33
+insert space group number for P n n 2,34
+insert space group number for C m m 2,35
+insert space group number for C m c 2 1,36
+insert space group number for C c c 2,37
+insert space group number for A m m 2,38
+insert space group number for A b m 2,39
+insert space group number for A m a 2,40
+insert space group number for A b a 2,41
+insert space group number for F m m 2,42
+insert space group number for F d d 2,43
+insert space group number for C2,5
+insert space group number for C222,21
+insert space group number for C2221,20
+insert space group number for F222,22
+insert space group number for F23,196
+insert space group number for F4132,210
+insert space group number for F432,209
+insert space group number for I 2 1 2 1 2 1,24
+insert space group number for I213,199
+insert space group number for I222,23
+insert space group number for I23,197
+insert space group number for I4,79
+insert space group number for I 4 1,80
+insert space group number for I 4 1 2 2,98
+insert space group number for I 4 1 3 2,214
+insert space group number for I 4 2 2,97
+insert space group number for I 4 3 2,211
+insert space group number for P bar 1,2
+insert space group number for P c,7
+insert space group number for P1,1
+insert space group number for P2,3
+insert space group number for P2 1,4
+insert space group number for P 2 over m,10
+insert space group number for P 21 over m,11
+insert space group number for P21212,18
+insert space group number for P212121,19
+insert space group number for P213,198
+insert space group number for P222,16
+insert space group number for P2221,17
+insert space group number for P23,195
+insert space group number for P3,143
+insert space group number for P31,144
+insert space group number for P3112,151
+insert space group number for P312,149
+insert space group number for P3121,152
+insert space group number for P32,145
+insert space group number for P321,150
+insert space group number for P3212,153
+insert space group number for P3221,154
+insert space group number for P4,75
+insert space group number for P41,76
+insert space group number for P41212,92
+insert space group number for P4122,91
+insert space group number for P4132,213
+insert space group number for P42,77
+insert space group number for P4212,90
+insert space group number for P422,89
+insert space group number for P42212,94
+insert space group number for P4222,93
+insert space group number for P4232,208
+insert space group number for P43,78
+insert space group number for P432,207
+insert space group number for P43212,96
+insert space group number for P4322,95
+insert space group number for P4332,212
+insert space group number for P6,168
+insert space group number for P61,169
+insert space group number for P6122,178
+insert space group number for P622,177
+insert space group number for P6222,180
+insert space group number for P63,171
+insert space group number for P63,173
+insert space group number for P6322,182
+insert space group number for P64,172
+insert space group number for P6422,181
+insert space group number for P65,170
+insert space group number for P6522,179
+insert space group number for Pm,6
+insert space group number for R3,146
+insert space group number for R32,155
+url for space group tables,\url{http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm}
+international tables for crystallography,International Tables for Crystallography
+international tables of crystallography,International Tables for Crystallography
+isolde,ISOLDE
+ispyb,ISPyB
+iucrdata,IUCrData
+iucrj,IUCrJ
+jana 2006,Jana2006
+latches translocation defects,Lattice-Translocation Defects
+lattice-translocation defects,Lattice-Translocation Defects
+lcls users' executive committee,LCL Users' Executive Committee
+lcls,LCLS
+lcls2,LCLS-II
+lclsx,LCLS-X
+Limited twinning,mimetic twinning
+lims,LIMS
+list the causes of twinning,(1) occurs during nucleation\n (2) post-growth nucleation and oriented attachment\n (3)a phase tranisiton\n (4) mechanical action\n
+Lolly symmetry,Laue symmetry
+Lowry Cemetery,Laue symmetry
+Magnetic 20,mimetic twinning
+Magnetic twin,mimetic twinning
+Memetic 20,mimetic twinning
+mero-hitriy,merohedry
+merohedral 20, merohedral twinning
+merohedral twin,twinning by merohedry 
+merohedral twinning,twinning by merohedry
+mighty chin,MiTeGen 
+mitigen,MiTeGen
+model craft,ModelCraft
+more hen,Moorhen
+mtz,MTZ
+mx,MX
+NCS operator,NCS operation 
+non-merohedral 20,non-merohedral twinning
+nucleic acid cartography,nucleic acid crystallography
+olex2,Olex2
+OLX too,Olex2
+open 10th International Charge Density Meeting,<open:https://icdm10.netlify.app/>
+open 750 words,<open:https://750words.com/>
+open alpha fold database,<open:https://alphafold.com/>
+open alpha fold protein structure database,<open:https://alphafold.com/>
+open alpha fold server,<open:https://alphafoldserver.com/about>
+open American PDB,<open:https://www.rcsb.org/>
+open Art Robbins,<open:https://www.artrobbins.com/>
+open atsas,<open:https://www.embl-hamburg.de/biosaxs/atsas-online/>
+open bioxtas,<open:https://bioxtas-raw.readthedocs.io/en/latest/>
+open ccp4 downloads page,<open:https://www.ccp4.ac.uk/download/#os=macos>
+open cctbx documentation,<open:https://cctbx.github.io/>
+open cctbx github site,<open:https://github.com/cctbx/cctbx_project>
+open cctbx miller array documentation,<open:https://cctbx.github.io/cctbx/cctbx.miller.html>
+open cctbx modules documentation,<open:https://cctbx.github.io/cctbx/cctbx.html>
+open cctbx,<open:https://cctbx.github.io/>
+open chimera,<open:https://www.rbvi.ucsf.edu/chimera/>
+open chimerax,<open:https://www.cgl.ucsf.edu/chimerax/>
+open COBRE in Structural Biology,<open:https://www.ou.edu/structuralbiology/>
+open colab fold,<open:https://github.com/sokrypton/ColabFold>
+open Computational Crystallography Toolbox documentation,<open:https://cctbx.github.io/>
+open Computational Crystallography Toolbox github site,<open:https://github.com/cctbx/cctbx_project>
+open Computational Crystallography Toolbox,<open:https://cctbx.github.io/>
+open coot,<open:https://pemsley.github.io/coot/>
+open crims,<open:https://alpx-services.com/#crims>
+open Electron Microscopy Data Bank,<open:https://www.ebi.ac.uk/emdb/>
+open EMD Data Resource,<open:https://emdataresource.org/>
+open EMDB,<open:https://www.ebi.ac.uk/emdb/>
+open European Protein Data Bank,<open:https://www.ebi.ac.uk/pdbe/>
+open gatan,<open:https://www.gatan.com/>
+open goals for 2024,<open:file:///Users/blaine/2024goals.html>
+open goals for July 2024,<open:file:///Users/blaine/july2024goals.html>
+open Hampton Research,<open:https://www.hamptonresearch.com/>
+open ICDM10,<open:https://icdm10.netlify.app/>
+open ice bear,<open:https://www.icebear.fi/>
+open index 3,<open:file:///Users/blaine/Documents/WebpagesBlaine/index3.html>
+open Integrated Resource for Reproducibility in Macromolecular Crystallography,<open:https://proteindiffraction.org/>
+open IRRMC,<open:http://www.proteindiffraction.org>
+open IRRMC,<open:https://proteindiffraction.org/>
+open IUCr 2026,<open:https://www.iucr2026.org/>
+open IUCr journals,<open:https//https://journals.iucr.org>
+open Jana2006,<open:http://jana.fzu.cz/>
+open Jana2020,<open:http://jana.fzu.cz/>
+open Japanese Protein Data Bank,<open:https://pdbj.org/>
+open LBSF,<open:https://research.ouhsc.edu/Core-Facilities/Laboratory-of-Biomolecular-Structure-and-Function>
+open mighty chin,<open:https://www.mitegen.com/>
+open mitigen,<open:https://www.mitegen.com/>
+open mo probity,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+open mol probity,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+open mole probity,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+open molprobity,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+open moorhen,<open:moorhen.org>
+open more probity,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+Open more property,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+open more property,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html>
+open my next beam time,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html#Jul292024>
+Open my property,<open:http://molprobity.manchester.ac.uk/help/validation_options/validation_options.html> 
+open NAKB,<open:https://www.nakb.org/>
+open Nucleic Acid Knowledge Base,<open:https://www.nakb.org/>
+open olex 2 options,<open:https://github.com/pcxod/olex2/blob/master/options.txt>
+open olex,<open:https://www.olexsys.org/olex2/>
+open olex2,<open:https://www.olexsys.org/olex2/>
+open olexsys,<open:https://www.olexsys.org/olex2/>
+open PDB depoisition,<open:https://deposit-1.wwpdb.org/>
+open PDB in Europe,<open:https://www.ebi.ac.uk/pdbe/>
+open PDB in Japan,<open:https://pdbj.org/>
+open PDB,<open:https://www.rcsb.org/>
+open PDBe,<open:https://www.ebi.ac.uk/pdbe/>
+open PDBj,<open:https://pdbj.org/>
+open phenix documentation,<open:https://phenix-online.org/documentation/>
+open phenix download,<open:https://phenix-online.org/phenix_request/index.cgi>
+open phenix downloads page,<open:https://phenix-online.org/phenix_request/index.cgi>
+open phenix homepage,<open:https://phenix-online.org>
+open phoenix download,<open:https://phenix-online.org/phenix_request/index.cgi>
+open phoenix downloads page,<open:https://phenix-online.org/phenix_request/index.cgi>
+open phoenix,<open:https://phenix-online.org>
+open Protein Data Bank in Europe,<open:https://www.ebi.ac.uk/pdbe/>
+open Protein Data Bank in Japan,<open:https://pdbj.org/>
+open Protein Data Bank,<open:https://www.rcsb.org/>
+open protein diffraction data bank,<open:https://proteindiffraction.org/>
+open protein diffraction dot org,<open:https://proteindiffraction.org/>
+open pymol download,<open:https://pymol.org/>
+open RCSB PDB,<open:https://www.rcsb.org/>
+open RCSB Protein Data Bank,<open:https://www.rcsb.org/>
+open right honey,<open;https://app.writehoney.com/write>
+open rock maker,<open:https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/>
+open RoPE,<open:rope.hginn.co.uk>
+open rosettafold2 colab notebook,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
+open rosettafold2 notebook,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
+open rosettafold2,<open:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/RoseTTAFold2.ipynb>
+open SASDBD,<open:https://www.sasbdb.org/>
+open shelx documentation,<open:https://shelx.uni-goettingen.de/wikis.php>
+open shelx downloads,<open:https://shelx.uni-goettingen.de/download.php>
+open shelx homepage,<open:https://shelx.uni-goettingen.de/>
+open shelx web page,<open:https://shelx.uni-goettingen.de/>
+open shelx,<open:https://shelx.uni-goettingen.de/>
+open sirware,<open:https://www.ba.ic.cnr.it/softwareic>
+open Small Angle Scattering Biological Data Bank,<open:https://www.sasbdb.org/>
+open SSRL beam line 4 2,<open:https://www-ssrl.slac.stanford.edu/smb-saxs/content/home>
+open SSRL beamline schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL bio sacks beamline,<open:https://www-ssrl.slac.stanford.edu/smb-saxs/content/home>
+open SSRL Biological Small Angle Scattering,<open:https://www-ssrl.slac.stanford.edu/smb-saxs/content/home>
+open SSRL LCLS Users Meeting,<open:https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d039d9be2/summary>
+open SSRL mx beamline schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL port schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL protein crystallography beamline schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL px beamline schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL px schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL SAC,<open:https://www-ssrl.slac.stanford.edu/content/about-ssrl/scientific-advisory-committee>
+open SSRL schedule,<open:https://www-ssrl.slac.stanford.edu/protein_schedule.html>
+open SSRL Scientific Advisory Committee,<open:https://www-ssrl.slac.stanford.edu/content/about-ssrl/scientific-advisory-committee>
+open SSRL Small Angle Scattering,<open:https://www-ssrl.slac.stanford.edu/smb-saxs/content/home>
+open SSRL UEC,<open:https://www-ssrl.slac.stanford.edu/ssrl/web/about/users-executive-committee#overview/>
+open SSRL User Executive Committee,<open:https://www-ssrl.slac.stanford.edu/ssrl/web/about/users-executive-committee#overview/>
+open SSRL User Portal,<open:https://userportal.slac.stanford.edu/userportal/>
+open SSRL Users Meeting,<open:https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d039d9be2/summary>
+open Stanford Guesthouse,<open:https://rde.stanford.edu/stanford-guest-house>
+open stoe,<open:https://www.stoe.com/>
+open tenth ICDM,<open:https://icdm10.netlify.app/> 
+open the refinement package CRYSTALS,<open:https://www.xtl.ox.ac.uk/crystals/documentation.html>
+open this year's goals,<open:file:///Users/blaine/2024goals.html>
+open ucla anisotropy server,<open:https://srv.mbi.ucla.edu/Anisoscale/>
+open ucla self-rotation function server,<open:https://services.mbi.ucla.edu/selfrot/>
+open ucla server for nist*Lattice,<open:https://services.mbi.ucla.edu/nist/>
+open ucla twinning server,<open:https://srv.mbi.ucla.edu/Twinning/>
+open User Meeting,<open:https://web.cvent.com/event/8c2bdf8d-08a1-41c5-b24e-390d039d9be2/summary>
+open worldwide PDB,<open:https://www.wwpdb.org/>
+open worldwide Protein Data Bank,<open: https://www.wwpdb.org/>
+open write honey,<open;https://app.writehoney.com/write>
+open wwPDB OneDep System,<open:https://deposit-1.wwpdb.org/>
+open wwPDB OneDep,<open:https://deposit-1.wwpdb.org/>
+open wwPDB,<open:https://www.wwpdb.org/>
+open zenodo,<open:https://zenodo.org/>
+order disorder,Order-Disorder
+P1,$P1$
+P2,$P2$
+P21,$P2_{1}$ 
+P21212,$P2_{1}2_{1}2$ 
+P212121,$P2_{1}2_{1}2_{1}$ 
+P222,$P222$
+P2221,$P222_{1}$ 
+P3,$P3$
+P31,$P3_{1}$
+P3112,$P3_{1}12$
+P312,$P312$
+P3121,$P3_{1}21$
+P32,$P3_{2}$
+P321,$P321$
+P3212,$P3_{2}12$
+P3221,$P3_{2}21$
+P4,$P4$
+P41,$P4_{1}$
+P41212,$P4_{1}2_{1}2$
+P4122,$P4_{1}22$
+P4132,$P4_{1}32$
+P42,$P4_{2}$
+P422,$P422$
+P422,$P42_{1}2_{1}$
+P42212,$P4_{2}2_{1}2$
+P4222,$P4_{2}22$
+P4232,$P4_{2}32$
+P43,$P4_{3}$
+P432,$P432$
+P43212,$P4_{3}2_{1}2$
+P4322,$P4_{3}22$
+P4332,$P4_{3}32$
+P6,$P6$
+P61,$P6_{1}$
+P6122,$P6_{1}22$
+P62,$P6_{2}$
+P6222,$P6_{2}22$
+P63,$P6_{3}$
+P6322,$P6_{3}22$
+P64,$P6_{4}$
+P6422,$P6_{4}22$
+P65,$P6_{5}$
+P6522,$P6_{5}22$
+parent cemetery,apparent symmetry
+partial 20,partial twinning
+Perfect 20,perfect twinning
+Phoenix Dot extraarch,phenix.xtriage
+Phoenix extraage,phenix.xtriage
+Phoenix,Phenix
+pLDDT,predicted local difference distance test
+point group 2,$2$
+point group 222,$222$
+point group 23,$23$
+point group 32, $32$
+point group 4,$4$
+point group 422,$422$
+point group 432,$432$
+point group 6,$6$
+point group 622,$622$
+privateer,Privateer
+pseudo-translational,pseudotranslational
+pseudomeroheral 20,pseudomeroheral twinnig
+R3,$R3$
+R32,$R32$
+raddose-3D,RADDOSE-3D
+ref Mac,Refmac5
+reticular 20,reticular twinning
+reticular metal hatred,reticular merohedry
+reticular metal hedry,reticular merohedry
+rock maker,ROCK MAKER
+rock maker,Rockmaker
+rotational order-disorder,Rotational Order-Disorder
+rough Mac,Refmac5
+se star,$\mathbf{c}$
+secretron radiation labs,synchrotron radiation labs
+section A,Acta Cryst. Section A
+section B,Acta Cryst. Section B
+section C,Acta Cryst. Section C
+section D,Acta Cryst. Section D
+section E,Acta Cryst. Section E
+section F,Acta Cryst. Section F
+see 2,$C2$
+see 2221,$C222_{1}$
+shell XL,SHELXL
+six sub five,$6_5$
+six sub four,$6_4$
+six sub one,$6_1$
+six sub three,$6_3$
+six sub two,$6_2$
+ssrl lcls users meeting,SSRL/LCLS Users Meeting
+ssrl scientific advisory committee,SSRL Scientific Advisory Committee
+ssrl users' executive committee,SSRL Users' Executive Committee
+super flip,SuperFlip
+tetartohedral twin,twinning by tetartohedry 
+tetartohedral twinning,twinning by tetartohedry 
+The Mythic 20,mimetic twinning
+The Mythic twinning,mimetic twinning
+three sub one,$3_1$
+three sub one,$3_2$
+tritohedral twin,tritohedry twinning
+tritohedral twinning,twinning by tritohedry twinning
+twin operator,twin operation 
+twinning operation,twin operation 
+twinning operator,twinning operation
+two sub one,$2_1$
+url for atsas,\url{https://www.embl-hamburg.de/biosaxs/atsas-online/}
+url for bioxtas,\url{https://bioxtas-raw.readthedocs.io/en/latest/}
+url for coot,\curl{https://pemsley.github.io/coot/}
+url for crims,\url{https://alpx-services.com/#crims}
+url for ice bear,\url{https://www.icebear.fi/}
+url for IRRMC,\url{http://www.proteindiffraction.org}
+url for Jana2006,\url{http://jana.fzu.cz/}
+url for Jana2020,\url{http://jana.fzu.cz/}
+url for moorhen,\url{moorhen.org}
+url for olex,\url{https://www.olexsys.org/olex2/}
+url for phenix,\url{https://phenix-online.org}
+url for rock maker,\url{https://formulatrix.com/protein-crystallization-systems/rock-maker-crystallization-software/}
+url for RoPE,\url{rope.hginn.co.uk}
+url for shelx,\url{https://shelx.uni-goettingen.de/}
+url for sirware,\url{https://www.ba.ic.cnr.it/softwareic}
+url for the refinement package CRYSTALS,\url{https://www.xtl.ox.ac.uk/crystals/documentation.html}
+url for ucla anisotropy server,\url{https://srv.mbi.ucla.edu/Anisoscale/}
+url for ucla self-rotation funciton server,\url{https://services.mbi.ucla.edu/selfrot/}
+url for ucla server for nist*Lattice,\url{https://services.mbi.ucla.edu/nist/}
+url for ucla twinning server,\url{https://srv.mbi.ucla.edu/Twinning/}
+url for zenodo,\url{https://zenodo.org/}
+value of Stanley factor for acentric data from perfect twin,1.5
+value of Stanley factor for acentric data from untwinned crystal,2
+value of Wilson ratio for acentric data from perfect twin,0.885
+value of Wilson ratio for acentric data from untwinned crystal,0.785
+vdW,van der Waals
+What is a common feature of merohedral and pseudomyhedral twinning,all of the reflections from the twin domains overlap
+Yana 2006,Jana2006
+zenodo,Zenodo
+read mtz file into a miller array,"<case:lower> from iotbx.reflection_file_reader import any_reflection_file <newline>hkl_file = any_reflection_file('${1:3hz7.mtz}')<newline>miller_arrays = hkl_file.as_miller_arrays(merge_equivalents=False)"
+print labels of miller array,"<case:lower> [print('Miller Array %s: %s' % (i, miller_array.info().labels)) for i, miller_array in list(enumerate(miller_arrays))[:2]]"
+print wavelength of each miller array,"<case:lower> [print('Miller Array %s: %s' % (i, miller_array.info().wavelength)) for i, miller_array in list(enumerate(miller_arrays))]"
+print source of each miller array,"<case:lower> print('Miller Array %s: %s' % (i, miller_array.info().source)) for i, miller_array in list(enumerate(miller_arrays))]"
+print number of datasets in miller array,<case:lower> len(miller_arrays)
+print symmetry of each miller array,"<case:lower> [print('Miller Array %s: %s' % (i, miller_array.info().crystal_symmetry_from_file)) for i, miller_array in list(enumerate(miller_arrays))]"
+print miller indices for a given miller array,<case:lower> [print(hkl) for hkl in miller_arrays[${1:0}].indices()]
+print the available methods for the Miller class.,<case:lower> dir(miller_arrays[${1:0}])
+print the resolution range in d star in a specified Miller array,<case:lower> miller_arrays[${1:0}].min_max_d_star_sq()
+print the resolution range in Angstroms for a Miller array,<case:lower> miller_arrays[${1:0}].d_max_min()
+print the I/sig overall for a given Miller array,<case:lower> miller_arrays[${1:0}].i_over_sig_i()
+print CC one-half sigma tau for a given Miller array,<case:lower> miller_arrays[${1:0}].cc_one_half_sigma_tau()
+print CC one-half for a given Miller array,<case:lower> miller_arrays[${1:0}].cc_one_half()
+print the Bijvoet ratios in a specified Miller array,<case:lower> [print(i) for i in miller_arrays[${1:0}].bijvoet_ratios()]
+Return the `measurability` of the anomalous signal in a specified Miller array,<case:lower> miller_arrays[${1:0}].measurability()
+Return the anomalous signal in a specified Miller array,<case:lower> miller_arrays[${1:0}].anomalous_signal()
+Show comprehensive summary for a specified Miller array,<case:lower> miller_arrays[${1:0}].show_comprehensive_summary()
+Show number of bijvoet pairs for a specified Miller array,<case:lower> miller_arrays[${1:0}].n_bijvoet_pairs()
+Show wilson ratio of miller array for a specified Miller array,<case:lower> miller_arrays[${1:0}].wilson_ratio()
+Unpack anomalous pairs for a specified Miller array,"<case:lower> Iobs = miller_arrays[${1:0}]
+i_plus, i_minus = <capitalize>I<default>obs.hemispheres_acentrics()
+ipd = i_plus.data()
+ip=list(ipd)
+imd = i_minus.data()
+im = list(imd)
+len(im)
+Iobs.show_summary()
+print(<capitalize>I<default>obs.info())
+print(<capitalize>I<default>obs.observation_type())"
+insert anomalous pair plot,"%matplotlib inline
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+import matplotlib.ticker as ticker
+from matplotlib.ticker import <capitalize>M<default>ultiple<capitalize>L<default>ocator 
+from matplotlib.ticker import <capitalize>F<default>unc<capitalize>F<default>ormatter
+from iotbx.reflection_file_reader import any_reflection_file
+# >>> change the mtz file name
+hkl_file = any_reflection_file('3hz7.mtz')
+miller_arrays = hkl_file.as_miller_arrays(merge_equivalents=<capitalize>F<default>alse)
+Iobs = miller_arrays[1]
+i_plus, i_minus = <capitalize>I<default>obs.hemispheres_acentrics()
+ipd = i_plus.data()
+ip=list(ipd)
+imd = i_minus.data()
+im = list(imd)
+len(im)
+
+print('Number of anomalous pairs: ', miller_arrays[0].n_bijvoet_pairs())
+
+comma_fmt = FuncFormatter(lambda x, p: format(int(x), ','))
+
+mpl.rcParams['savefig.dpi'] = 600
+mpl.rcParams['figure.dpi'] = 600
+
+# Set to width of a one column on a two-column page.
+# May want to adjust settings for a slide.
+fig, ax = plt.subplots(figsize=[3.25, 3.25])
+ax.scatter(ip,im,c='k',alpha=0.3,s=5.5)
+ax.set_xlabel(r'I(+)',fontsize=12)
+ax.set_ylabel(r'I(-)',fontsize=12)
+ax.xaxis.set_major_locator(MultipleLocator(50000.))
+ax.yaxis.set_major_locator(MultipleLocator(50000.))
+ax.get_xaxis().set_major_formatter(comma_fmt)
+ax.get_yaxis().set_major_formatter(comma_fmt)
+
+plt.xticks(fontsize=12)
+plt.yticks(fontsize=12)
+ax.grid(<capitalize>F<default>alse)
+
+# >>> change name of the figure file
+plt.savefig('3hz7IpIm.pdf',bbox_inches='tight')"
+print five rows of Iobs,list(Iobs[${1:100:105}])
+extract the intensities for a Miller array and print ten rows,"Iobs = miller_arrays[${1:0}]
+iobsdata = Iobs.data()
+list(iobsdata[${1:100:110}])"
+print all of the intensities for a given Miller array,<case:lower> [print(hkl) for hkl in miller_arrays[1].data()]
+write miller array as a mtz file.,"# Convert the miller array into a mtz_dataset and write out as a mtz file.
+mtz_dataset = Iobs.as_mtz_dataset(column_root_label='${1:I}')
+mtz_dataset.mtz_object().write('${2:3hz7intensities}.mtz')"
+read mtz file and print column labels,"<case:lower> mtz_filename2 = '${1:3hz7intensities}.mtz'
+mtz_file2 = mtz.object(mtz_filename2)
+mtz_file2.column_labels()"
+convert arrays to dictionaries,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='${1:3nd4}.mtz')
+# Only works with mtz.object. 
+# Does not work if mtz is read in with iotbx.file_reader.
+miller_arrays_dict = mtz_obj.as_miller_arrays_dict()"
+Print the keys() of a miller dictionary.,miller_arrays_dict.keys()
+Print the column labels of Miller dictionary.,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='${1:/Users/blaine/3nd4.mtz}')
+# Only works with mtz.object. Does not work if mtz is read in with iotbx.file_reader.
+miller_arrays_dict = mtz_obj.as_miller_arrays_dict()
+[print(f'Column label: {key[2]}')  for key in miller_arrays_dict.keys()]"
+generate the indices of given unit cell ,"from cctbx import miller
+import cctbx
+from cctbx import crystal
+ms = miller.build_set(
+    crystal_symmetry=crystal.symmetry(
+        space_group_symbol='${1:Fd-3m}',
+        unit_cell=(${2:5.4307,5.4307,5.4307,90.00,90.0,90.00})),
+    anomalous_flag=${3:True},
+    d_min=${4:0.4})
+[print(hkl) for hkl in ms.indices()]"
+generate reflections,"<case:lower> from cctbx import miller
+import cctbx
+from cctbx import crystal
+
+ms = miller.build_set(
+    crystal_symmetry=crystal.symmetry(
+        space_group_symbol='${1:Fd-3m}',
+        unit_cell=(${2:5.4307,5.4307,5.4307,90.00,90.0,90.00})),
+    anomalous_flag=${3:True},
+    d_min=${4:0.4})
+
+msu = ms.map_to_asu()
+[print(hkl2) for hkl2 in msu.indices()]"
+print summary of mtz file after reading into miller array,"<case:lower> from iotbx.reflection_file_reader import any_reflection_file
+hkl_in = any_reflection_file(file_name='${1:3nd4}.mtz')
+miller_arrays = hkl_in.as_miller_arrays()
+f_obs = miller_arrays[0]
+f_obs.show_summary()"
+print summary of mtz file after reading a mtz object,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='/Users/blaine/${1:3nd4}.mtz')
+mtz_obj.show_summary()"
+read mtz file into a Miller array,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='${1:3nd4}.mtz')
+miller_arrays = mtz_obj.as_miller_arrays()"
+read mtz file into a Miller array and truncate and print summary,"<case:lower> from iotbx import mtz
+mtz_obj = mtz.object(file_name='3nd4.mtz')
+miller_arrays = mtz_obj.as_miller_arrays()
+miller_array_truncated = miller_arrays[0].resolution_filter(d_min=2, d_max=5)
+print(miller_array_truncated)
+miller_array_truncated.show_summary()"
+insert space group number for P 1 bar,2
+open phenix tutorials,<open:https://phenix-online.org/workshops_tutorials>
+open phenix workshops,<open:https://phenix-online.org/workshops_tutorials>
+open cctbx docs,<open:https://cci.lbl.gov/docs/cctbx/>
+expand ND,neutron diffraction
+insert space group number for F d d 2,43
+insert space group number for I m m 2,44
+insert space group number for I b a 2,45
+insert space group number for I m a 2,46
+insert space group number for P m m m,47
+insert space group number for P n n n,48
+insert space group number for P c c m,49
+insert space group number for P b a n,50
+insert space group number for P m m a,51
+insert space group number for P n n a,52
+insert space group number for P m n a,53
+insert space group number for P c c a,54
+insert space group number for P b a m,55
+insert space group number for P c c n,56
+insert space group number for P c b m,57
+insert space group number for P n n m,58
+insert space group number for P m m n,59
+insert space group number for P b c n,60
+insert space group number for P b c a,61
+insert space group number for P n m a,62
+insert space group number for C m c m,63
+insert space group number for C m c a,64
+insert space group number for C m m m,65
+insert space group number for C c c m,66
+insert space group number for C m m a,67
+insert space group number for C c c a,68
+insert space group number for F m m m,69
+insert space group number for F d d d,70
+insert space group number for I m m m,71
+insert space group number for I b a m,72
+insert space group number for I b c a,73
+insert space group number for I m m a,74
+insert space group number for P bar 4,81
+insert space group number for I bar 4,82
+insert space group number for P 4 over m,83
+insert space group number for P 4 sub 2 over m,84
+insert space group number for P 4 over n,85
+insert space group number for P 4 sub 2 over n,86
+insert space group number for I 4 over m,87
+insert space group number for I 4 sub 1 over a,88
+insert space group number for P 4 m m,99
+insert space group number for P 4 b m,100
+insert space group number for P 4 sub 2 c m,101
+insert space group number for P 4 sub 2 n m,102
+insert space group number for P 4 c c,103
+insert space group number for P 4 n c,104
+insert space group number for P 4 sub 2 m c,105
+insert space group number for P 4 sub 2 b c,106
+insert space group number for I 4 m m,107
+insert space group number for I 4 c m,108
+insert space group number for I 4 sub 1 m d,109
+insert space group number for I 4 sub 1 c d,110
+insert space group number for P 4 bar 2 m,111
+insert space group number for P 4 bar 2 c,112
+insert space group number for P 4 bar 2 sub 1 m,113
+insert space group number for P 4 bar 2 sub 1 c,114
+insert space group number for P 4 bar 2 m 2,115
+insert space group number for P 4 bar 2 c 2,116
+insert space group number for P 4 bar 2 b 2,117
+insert space group number for P 4 bar 2 n 2,118
+insert space group number for I 4 bar m 2,119
+insert space group number for I 4 bar c 2,120
+insert space group number for I 4 bar 2 m,121
+insert space group number for I 4 bar 2 d,122
+insert space group number for P 4 over m m m,123
+insert space group number for P 4 over m c c,124
+insert space group number for P 4 over n b m,125
+insert space group number for P 4 over n n c,126
+insert space group number for P 4 over m b m,127
+insert space group number for P 4 over m n c,128
+insert space group number for P 4 over n m m,129
+insert space group number for P 4 over n c c,130
+insert space group number for P 4 over m m c,131
+insert space group number for P 4 sub 2 over m m c,132
+insert space group number for P 4 sub 2 over n b c,133
+insert space group number for P 4 sub 2 over n n m,134
+insert space group number for P 4 sub 2 over m b c,135
+insert space group number for P 4 sub 2 over m n m,136
+insert space group number for P 4 sub 2 over n m c,137
+insert space group number for P 4 sub 2 over n c m,138
+insert space group number for I 4 over m m m,139
+insert space group number for I 4 over m c m,140
+insert space group number for I 4 sub 1 over a m d,141
+insert space group number for I 4 sub 1 over a c d,142
+insert space group number for P 3 bar,147
+insert space group number for R 3 bar,148
+insert space group number for P 3 m 1,156
+insert space group number for P 3 1 m,157
+insert space group number for P 3 c 1,158
+insert space group number for P 3 1 c,159
+insert space group number for R 3 m,160
+insert space group number for R 3 c,161
+insert space group number for P 3 bar 1 m,162
+insert space group number for P 3 bar 1 c,163
+insert space group number for P 3 bar m 1,164
+insert space group number for P 3 bar c 1,165
+insert space group number for R 3 bar m,166
+insert space group number for R 3 bar c,167
+insert space group number for P 6 bar,174
+insert space group number for P 6 bar over m,175
+insert space group number for P 6 sub 3 over m,176
+insert space group number for P 6 m m,183
+insert space group number for P 6 c c,184
+insert space group number for P 6 sub 3 c m,185
+insert space group number for P 6 sub 3 m c,186
+insert space group number for P 6 bar m 2,187
+insert space group number for P 6 bar c 2,188
+insert space group number for P 6 bar 2 m,189
+insert space group number for P 6 bar 2 c,190
+insert space group number for P 6 over m m m,191
+insert space group number for P 6 over m c c,192
+insert space group number for P 6 sub 3 over m c m,193
+insert space group number for P 6 sub 3 over m m c,194
+insert space group number for P m 3 bar,200
+insert space group number for P n 3 bar,201
+insert space group number for F m 3 bar,202
+insert space group number for F d 3 bar,203
+insert space group number for I m 3 bar,204
+insert space group number for P a 3 bar,205
+insert space group number for I a 3 bar,206
+insert space group number for P 4 bar 3 m,215
+insert space group number for F 4 bar 3 m,216
+insert space group number for I 4 bar 3 m,217
+insert space group number for P 4 bar 3 n,218
+insert space group number for F 4 bar 3 c,219
+insert space group number for I 4 bar 3 d,220
+insert space group number for P m 3 bar m,221
+insert space group number for P n 3 bar n,222
+insert space group number for P m 3 bar n,223
+insert space group number for P n 3 bar m,224
+insert space group number for F m 3 bar m,225
+insert space group number for F m 3 bar c,226
+insert space group number for F d 3 bar m,227
+insert space group number for F d 3 bar c,228
+insert space group number for I m 3 bar m,229
+insert space group number for I a 3 bar d,230
+I a 3 bar d,$I a \overline{3} d$
+I m 3 bar m,$I m \overline{3} m$
+F d 3 bar c,$F d \overline{3} c$
+F d 3 bar m,$F d \overline{3} m$
+F m 3 bar c,$F m \overline{3} c$
+F m 3 bar m,$F m \overline{3} m$
+P n 3 bar m,$P n \overline{3} m$
+P m 3 bar n,$P m \overline{3} n$
+P n 3 bar n,$P n \overline{3} n$
+P m 3 bar m,$P m \overline{3} m$
+I 4 bar 3 d,$I 4 \overline{3} d$
+F 4 bar 3 c,$F \overline{4} 3 c$
+P 4 bar 3 n,$P \overline{4} 3 n$
+F 4 bar 3 m,$F \overline{4} 3 m$
+I a 3 bar,$I a \overline{3}$
+P a 3 bar,$P a \overline{3}$
+I m 3 bar,$I m \overline{3}$
+F d 3 bar,$F d \overline{3}$
+F m 3 bar,$F m \overline{3}$
+P n 3 bar,$P n \overline{3}$
+P m 3 bar,$P m \overline{3}$
+P 6 sub 3 over m m c,$P6_{3} /mmc$
+P 6 sub 3 over m c m,$P6_{3} /mcm$
+P 6 over m c c,$P6_{3} /mcc$
+P 6 over m m m,$P6 /mmm$
+P 6 bar 2 c,$P\overline{6}2c$
+P 6 bar 2 m,$P\overline{6}2m$
+P 6 bar c 2,$P\overline{6}c2$
+P 6 bar m 2,$P\overline{6}m2$
+P 6 sub 3 m c,$P6_{3}mc$
+P 6 sub 3 c m,$P6_{3}cm$
+P 6 c c,$P6cc$
+P 6 m m,$P6mm$
+P 6 sub 3 over m,$P6_{3}/m$
+F d d 2,$Fdd2$
+I m m 2,$Imm2$
+I b a 2,$Iba2$
+I m a 2,$Ima2$
+P m m m,$Pmmm$
+P n n n,$Pnnn$
+P c c m,$Pccm$
+P b a n,$Pban$
+P m m a,$Pmma$
+P n n a,$Pnna$
+P m n a,$Pmna$
+P c c a,$Pcca$
+P b a m,$Pbam$
+P c c n,$Pccn$
+P c b m,$Pcbm$
+P n n m,$Pnnm$
+P m m n,$Pmmn$
+P b c n,$Pbcn$
+P b c a,$Pbca$
+P n m a,$Pnma$
+C m c m,$Cmcm$
+C m c a,$Cmca$
+C m m m,$Cmmm$
+C c c m,$Cccm$
+C m m a,$Cmma$
+C c c a,$Ccca$
+F m m m,$Fmmm$
+F d d d,$Fddd$
+I m m m,$Immm$
+I b a m,$Ibam$
+I b c a,$Ibca$
+I m m a,$Imma$
+P bar 4,$P\overline{4}$
+I bar 4,$I\overline{4}$
+P 4 over m,$P4/m$
+P 4 sub 2 over m,$P4_{2}/m$
+P 4 over n,$P4/n$
+P 4 sub 2 over n,$P4_{2}/n$
+I 4 over m,$I4/m$
+I 4 sub 1 over a,$I4_{1}/a$
+P 4 m m,$P4mm$
+P 4 b m,$P4bm$
+P 4 sub 2 c m,$P4_{2}cm$
+P 4 sub 2 n m,$P4_{2}nm$
+P 4 c c,$P4cc$
+P 4 n c,$P4nc$
+P 4 sub 2 m c,$P4_{2}mc$
+P 4 sub 2 b c,$P4_{2}bc$
+I 4 m m,$I4mm$
+I 4 c m,$I4cm$
+I 4 sub 1 m d,$I4_{1}md$
+I 4 sub 1 c d,$I4_{1}cd$
+P 4 bar 2 m,$P\overline{4}2m$
+P 4 bar 2 c,$P\overline{4}2c$
+P 4 bar 2 sub 1 m,$P\overline{4}2_{1}m$
+P 4 bar 2 sub 1 c,$P\overline{4}2_{1}c$
+P 4 bar 2 m 2,$P\overline{4}2m2$
+P 4 bar 2 c 2,$P\overline{4}2c2$
+P 4 bar 2 b 2,$P\overline{4}2b2$
+P 4 bar 2 n 2,$P\overline{4}2n2$
+I 4 bar m 2,$I\overline{4}m2$
+I 4 bar c 2,$I\overline{4}c2$
+I 4 bar 2 m,$I\overline{4}2m$
+I 4 bar 2 d,$I\overline{4}2d$
+P 4 over m m m,$P4/mmm$
+P 4 over m c c,$P4/mcc$
+P 4 over n b m,$P4/nbm$
+P 4 over n n c,$P4/nnc$
+P 4 over m b m,$P4/mbm$
+P 4 over m n c,$P4/mnc$
+P 4 over n m m,$P4/nmm$
+P 4 over n c c,$P4/ccc$
+P 4 over m m c,$P4/mmc$
+P 4 sub 2 over m m c,$P4_{2}/mmc$
+P 4 sub 2 over n b c,$P4_{2}/nbc$
+P 4 sub 2 over n n m,$P4_{2}/nnm$
+P 4 sub 2 over m b c,$P4_{2}/mbc$
+P 4 sub 2 over m n m,$P4_{2}/mnm$
+P 4 sub 2 over n m c,$P4_{2}/nmc$
+P 4 sub 2 over n c m,$P4_{2}/ncm$
+I 4 over m m m,$I4/mmm$
+I 4 over m c m,$I4/mcm$
+I 4 sub 1 over a m d,$I4_{1}/amd$
+I 4 sub 1 over a c d,$I4_{1}/acd$
+P 3 bar 1 m,$P\overline{3}1m$
+R 3 bar,$R\overline{3}$
+P 3 m 1,$P3m1$
+P 3 1 m,$P31m$
+P 3 c 1,$P3c1$
+P 3 1 c,$P31c$
+R 3 m,$R3m$
+R 3 c,$R3c$
+P 3 bar 1 m,$P\overline{3}1m$
+P 3 bar 1 c,$P\overline{3}1c$
+P 3 bar m 1,$P\overline{3}m1$
+P 3 bar c 1,$P\overline{3}c1$
+R 3 bar m,$R\overline{3}m$
+R 3 bar c,$R\overline{3}c$
+P 6 bar,$P\overline{6}$
+P 6 bar over m,$P\overline{6}/m$
+expand SONIC,second-order nonlinear optical imaging of chiral crystals
+expand MCMS,Mirco-Cross-Seeding Matrix Screening
+expand MSMS,Micro-Self-Seeding Matrix Screening
+Meta stable,metastable
+better stable,metastable
+meta sable,metastable
+let that stable,metastable
+CD,seeding
+micro seating,microseeding
+macro seating,macroseeding
+cross seating,cross-seeding
+Iterative CD,iterative seeding
+Iterative seating,iterative seeding
+tectured placements,text replacements
+meta staple zone,metastable zone
+metal staple,metastable
+my proceeding,microseeding
+micro seating,microseeding
+face diagram,phase diagram
+display relation between normalized intensity and the Wilson B,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right)$$
+display relation between natural log of normalized intensity and the Wilson B,$$Y=\left[\left\langle I_{\mathrm{obs}}(h k l)\right\rangle / \sum_j f_j^2\right]=k \exp \left(-2 B \sin ^2 \theta / \lambda^2\right)$$
+display equation for relative Wilson plot for two crystals A and B,$$\ln \left(\frac{Y_B}{Y_A}\right)=\ln \left(\frac{k_B}{k_A}\right)-2\left(B_B-B_A\right)\left(\frac{\sin ^2 \theta}{\lambda^2}\right)$$
+Wilson bee factor,Wilson B-factor
+inline Iowa cig,$I/{\sigma}$
+20 by hemahedron,twinning by hemihedry
+20 fraction,twinning fraction
+20 law,twining law
+20th operator,twinning operator
+aca,ACA
+actor chris,Acta Cryst.
+actor chris section d,Acta Cryst. Section D
+actor chris section f,Acta Cryst. Section F
+actor christ,Acta Cryst.
+alpha fold three,AlphaFold3
+alpha fold two,AlphaFold2
+als,ALS
+amber,AMBER
+aps,APS
+are factors,$R$-factors
+are free,$R_{free}$
+are free,$R_{free}$
+biological sex,biological SAXS
+biological small angle scattering database,SASDB
+bizarre systematic absences,non-space group absences 
+blue eyes,Blu-Ice
+blue ice,Blu-Ice
+bnl,BNL
+britian plot,Britton plot 
+cctbx,cctbx
+cd,seeding
+charm plus plus,charm++
+check my metal,checkMyMetal
+check my sequence,checkMySequence
+chess,CHESS
+cinco tron radiation, synchotron radiation
+site numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+cns,CNS
+co-crystallization,co-crystallization
+computational cartography newsletter,Computational Crystallography Newsletter
+computational crystallography newsletter,Computational Crystallography Newsletter
+computational crystalography newsletter,\emph{Computational Crystallography Newsletter}
+computing in science and engineering,Computing in Science and Engineering
+computing in science and engineering journal,\emph{Computing in Science and Engineering} journal
+create cctbx conda environment,conda create -n cctbx312 -c conda-forge cctbx-base python=3.12
+create cctbx conda kernel,conda activate cctbx312 && python -m ipykernel install --user --name cctbx312 --display-name 'cctbx 3.12'
+crile em,cryoEM
+crime em,cryoEM
+crims,CRIMS
+cross seating,cross-seeding
+crowley amd,cryoEM
+crowley in grades,cryoEM grids
+cryo em index key, \index{cryoEM}
+crystal 20,crystal twinning
+crystal graphic,crystallographic
+crystal graphics symmetry,crystallographic symmetry
+crystal low graphic symmetry,crystallographic symmetry
+crystalography,crystallography
+crystography,crystallography
+cue refine,qrefine
+cue refined,qrefine
+define a twin law,the set of all the twin operations that do the same mapping
+define epitaxy,the oriented crystal association of chemically heterogeneous phases
+define non-merohedral twinning,only certain zones of reciprocal lattice points overlap
+define twin operation,the operation mapping the orientations of two individuals of a twin and is a crystallographic operation about a direct lattice element
+define twinning,the oriented association of two or more individual domains in the same crystalline phase
+disarmography,crystallography
+double expand sac,SSRL Scientific Advisory Committee
+double expand ssrl sac,SSRL Scientific Advisory Committee
+double expand ssrl uec,Stanford Synchtron Radiation Lightsource Users Executive Committee
+edit command,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+edit commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+edit voice in command,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+edit voice in commands,<open:chrome-extension://pjnefijmagpdjfhhkpljicbbpicelgko/settings.html#voice-commands>
+electric graphics,molecular graphics
+electric placement,molecular replacement
+epitaxial twinning,WRONG!! Misused term. Rewrite.
+display equation for quantum refinment in phenix,$$\mathrm{E}_{\text {ONIOM }}^{Q M / M M}=\mathrm{E}_{\text {QMlayer }}^{Q M}+\mathrm{E}_{\text {all }}^{M M}-\mathrm{E}_{\text {QMlayer }}^{M M}$$
+display equation for gradient driven quantum refinment in phenix,$$\left(\nabla \mathbf{x}_i\right)_{\text {total }}=\mathrm{K} * \Omega_{\text {xray }} *\left(\nabla \mathbf{x}_i\right)_{\text {xray }}+\Omega_{\text {geom }} * \boldsymbol{\varpi}_i *\left(\nabla \mathbf{x}_i\right)_{\text {ONIOM }}$$
+eval 15,Eval15
+expand 3d ed,three-dimensional electron diffraction
+expand 3dva,3D variability analysis
+expand aca,ACA the Structural Science Society
+expand adm,Alternating Directions Method
+expand adp,Atomic Displacement Paramters
+expand advi,Automatic Differentiation Variational Inference
+expand ae,autoencoder
+expand aes,adaptive exploratory sampling
+expand afca,African Crystallographic Association
+expand afe,advanced front-end
+expand agi,Artificial General Intelligence
+expand ahs,adaptive hybrid sampling
+expand aic,Watanabe-Akaile Information Criterion
+expand air,acoustic impulse response
+expand ais,adaptive importance sampling
+expand ajax,Asynchronous JavaScript and XML
+expand ald,Associate Lab Director
+expand alm,Augmented Lagrange Multiplier
+expand als,Advanced Light Source
+expand amci,Amortized Monte Carlo Integration
+expand amf,Atomic Modulation Function
+expand anova,Analysis of Variance
+expand ansi,American National Standard Institute
+expand aps,Advanced Photon Source
+expand arma,Autoregressive Moving Average
+expand armax,Autoregressive Moving Average with eXogenous input
+expand biocat,Biophysics Collaborative Access Team
+expand biosas,biological small angle scattering
+expand bsc,Biomolecular Structure Core
+expand bsl-1,Biosafety Level 1
+expand bsl-2,Biosafety Level 2
+expand cablam,C-alpha Based Low-resolution Annotation Methods
+expand ccl,Chemical Component Library
+expand ccn,Computational Crystallography Newsletter
+expand ccp4,Collaborative Computational Project Number 4
+expand ccp4i,CCP4 Graphical User Interface
+expand ccp4mg,CCP4 Molecular Graphics
+expand ccr,Center for Cancer Research at NCI
+expand cctbx,Computational Crystallography Toolbox
+expand cd,circular dichroism
+expand charm,Chemistry at Harvard Molecular Mechanics
+expand charmm,Chemistry at Harvard Molecular Mechanics
+expand chess,Cornell High Energy Synchrotron Source
+expand cif,Crystallographic Information File 
+expand cmb,IUCr Commission on Biological Macromolecules
+expand cmllr,Constrained Maximum Likelihood Linear Regression
+expand cmm,checkMyMetal
+expand cns,Crystallography and NMR System
+expand coot,Crystallographic Object-Oriented Toolkit
+expand covid-19,coronavirus disease 2019
+expand crims,Crystallographic Information Management System
+expand cryo-em,cryo-electron microscopy
+expand csd,Cambridge Structural Database
+expand csgid,Center for Structural Genomics of Infectious Diseases
+expand dddwg,IUCr Diffraction Data Deposition Working Group
+expand dft,Density Functional Theory
+expand dhasd,Delaunay hybrid adaptive sequential desig
+expand dsd,Definitive Screening Design
+expand dsl,Diamond Light Source
+expand dsw,Data Science Workshop
+expand dt,Delaunay triangulation
+expand dtt,dithiothreitol
+expand elbow,electronic ligand Building
+expand ellgi,estimated Log-likelihood Gain on the Intensities
+expand elmam2,Epxerimental Library of Multipolar Atom Model 2
+expand elmo,Extremely Localized Molecular Oribitals
+expand eln,Electronic Lab Notebook
+expand eom,Ensemble Optimization Method
+expand ephi,electronic Protected Health Information
+expand epmm,Exact Potential Multipole Moment
+expand epr,Electron Paramagnetic Resonance
+expand eros,Ensemble Refinement of SAXS
+expand esrf,European Synchrotron Radiation Facility
+expand fel,free-electron laser
+expand fft,Fast Fourier Transform
+expand fnl,Frederick National Laboratory
+expand ga,Genetic Algorithm
+expand gpr,Gaussian Process Regression
+expand gpt,Generative Pretrained Transformer
+expand gpt-3,Generative Pre-trained Transformer-3
+expand gpt-4,Generative Pre-trained Transformer-4
+expand gpu,Graphics Processing Unit
+expand gpus,Graphics Processing Units
+expand gui,graphical user interface
+expand hdf,Hierarchical Data Format
+expand hepes,4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid
+expand hetatm,hetero atom
+expand hf,Hartree-Fock
+expand hfir,High Flux Isotope Reactor
+expand hm,harmonic mean
+expand hm-svms,hidden Markov support vector machines
+expand hmc,Hamiltonian Monte Carlo or Hybrid MC
+expand hmm,Hidden Markov Model
+expand hpd,Highest Posterior Density
+expand hpdi,Highest Posterior Density Interval
+expand hplc,High-pressure liquid chromatography
+expand iam,Independent Atom Model
+expand ias,Interatomic Scatterers
+expand ideal,Invariom Derived Electron AnaLysis
+expand INBRE,IDeA Networks of Biomedical Research Excellence
+expand irrmc,Integrated Resource for Reproducibility in Macromolecular Crystallography
+expand ispyb,Information System for Protein crystallography Beamlines
+expand iucr,International Union of Crystallography
+expand j a c,\emph{Journal of Applied Crystallography}
+expand jcsg,Joint Center for Structural Genomic
+expand jmlr,Journal of Machine Learning Research
+expand jsr,Journal of Synchrotron Radiation
+expand kde,kernal density estimation
+expand lalls,low-angle laser light scattering
+expand lcls,Linac Coherent Light Source
+expand lims,Laboratory Information Management System
+expand ls,light scattering
+expand malls,multi-angle laser light scattering
+expand mals,multi-angle light scattering
+expand mcmc,Markov Chain Monte Carlo
+expand md,Molecular Dynamics
+expand md simulations,molecular dynamics simulations
+expand me,maximum entropy
+expand mem,Maximum Entropy Method
+expand mes,Minimal Ensemble Search
+expand mes buffer,2-(N-morpholino)ethanesulfonic acid
+expand mir,Multiple Isomorpous Replacement
+expand mira,Maximizing Investigators’ Research Award
+expand moo,Multiobjective Optimization
+expand mopac,Molecular Orbital PACkage
+expand mops,3-(N-morpholino)propanesulfonic acid
+expand mx,macromolecular crystallography
+expand nakb,Nucleic Acid Knowledge Base
+expand nbsr,National Bureau of Standards Reactor
+expand ncats,National Center for Advancing Translational Sciences
+expand ncbi,National Center for Biotechnology Information
+expand nccih,National Center for Complementary and Integrative Health
+expand nci,noncovalent interaction
+expand ncnr,NIST Center for Neutron Research
+expand ndb,Nucleic Acid Database
+expand nei,National Eye Institute
+expand nei,National Eye Institute
+expand nfpa,National Fire Protection Association
+expand nhgri,National Human Genome Research Institute
+expand nia,National Institute on Aging
+expand niaaa,National Institute on Alcohol Abuse and Alcoholism
+expand niaid,National Institute of Allergy and Infectious Diseases
+expand niams,National Institute of Arthritis and Musculoskeletal and Skin Diseases
+expand nibib,National Institute of Biomedical Imaging and Bioengineering
+expand nida,National Institute on Drug Abuse
+expand nidcd,National Institute on Deafness and Other Communication Disorders
+expand nidcr,National Institute of Dental and Craniofacial Research
+expand niddk,National Institute of Diabetes and Digestive and Kidney Diseases
+expand niehs,National Institute of Environmental Health Sciences 
+expand nigms,National Institute of General Medical Sciences
+expand nimble,Numerical Inference Models Bayesian Likelihood Estimation
+expand nimh,National Institute of Mental Health
+expand nimhd,National Institute on Minority Health and Health Disparities
+expand ninds,National Institute of Neurological Disorders and Stroke
+expand ninr,National Institute of Nursing Research
+expand nist,National Institute of Standards and Technology
+expand nll,Negative log likelihood
+expand nlm,National Library of Medicine
+expand nls,Nonlinear Schrödinger Equation
+expand nmc,Normalized Modulation Coefficient
+expand nmf,Nonnegative Matrix Factorization
+expand nmr,Nuclear Magnetic Resonance
+expand nn,neural networks
+expand nn-rs,neural network response surfaces
+expand nofo,Notice of Funding Opportunity
+expand np,nondeterministic polynomial time
+expand nsls2,National Synchtrotron Light Source II
+expand nysgrc,New York Structural Genomics Research Consortium
+expand oniom,\underline{O}ur own \underline{N}-layered \underline{I}ntegrated molecular \underline{O}rbital and molecular \underline{M}echanics 
+expand ora,Office of Research Administration 
+expand osha,Occupational Safety and Health Administration
+expand oup,Oxford University Press
+expand pdb,Protein Data Bank
+expand pdb id,Protein Data Bank identifier
+expand pdbe,Protein Data Bank in Europe
+expand pddf,Pairwise Distance Distribution Function
+expand pep,Protein Expression and Purification
+expand phenix,Python-based Hierarchical ENvironment for Integrated Xtallography
+expand pims,Protein Information Management System
+expand pinns,Physics Informed Neural Networks
+expand pipes,"piperazine-N,N′-bis(2-ethanesulfonic acid"
+expand pli,protein-ligand interactions
+expand ppl,Probabilistic Programming Languages
+expand pso,particle swarm optimization
+expand pst,Patterson Superposition Techniques
+expand qtaim,Quantum Theory of Atoms in Molecules
+expand ralls,right-angle laser light scattering
+expand rbf,radial basis functions
+expand relu,rectified linear unit
+expand remd,Replica Exchange Molecular Dynamics
+expand reml,residual maximum likelihood
+expand repl,Read–Eval–Print Loop
+expand rhs,Right Hand Side (of an equation)
+expand ri,refractive index
+expand ribd,randomized incomplete block design
+expand rncs,rotational noncrystallographic symmetry
+expand rnn,recurrent neural network
+expand rnnlm,Recurrent neural network language model
+expand rope,Representation of Protein Entities
+expand sack,Scientific Advisory Committee
+expand sad,single wavelength anomalous dispersion
+expand sans,Small Angle Neutron Scattering
+expand sapt,Symmetry-Adapted Perturbation Theory
+expand sars-cov-2, severe acute respiratory syndrome coronavirus 2
+expand sas,small-angle scattering
+expand sasbdb,Small Angle Scattering Biological Data Bank
+expand saxs,small-angle X-ray scattering
+expand scf,Self-Consistent Field
+expand scm,Source Code Management
+expand sdk,Software Development Kit
+expand se,Standard Error
+expand sec-mals,size-exclusion chromatography multi-angle light scattering
+expand sec-saxs,Size-exclusion chromatography Small Angle X-ray Scattering
+expand seo,Search Engine Optimisation
+expand sfx,Serial Femtosecond Crystallography
+expand sg-mcmc,Stochastic gradient Markov chain Monte Carlo
+expand sgc,Structural Genomics Consortium
+expand sgd,Stochastic Gradient Descent
+expand shg,Second-harmonic generation
+expand siam,Soceity for Industrial and Applied Mathematics
+expand sibyls,Structurally Integrated biology for Life Sciences
+expand sindy,Sparse Identification of Nonlinear Dynamics
+expand slac,SLAC National Accelerator Center
+expand sloc,Source Lines of Code
+expand sls,Swiss Light Source
+expand slurm,Simple Linux Utility for Resource Management
+expand smfret,single molecule Fluoresence Resonance Energy Transfer
+expand smiles,Simplified Molecular-Input Line-Entry System 
+expand smis,Scientific Management Information System
+expand sms,Sparse Matrix Sampling
+expand smwaxs,Small Angle/Medium Angle/Wide Angle X-ray Scattering Combined
+expand snn,spiking neural network
+expand snr,Signal-to-Noise Ratio
+expand sns,Swiss Neutron Source
+expand soap,Simple Object Access Protocol
+expand sobsa,sequencing optimization based on simulated annealing
+expand som,Self-Organizing Map
+expand sop,Standard Operating Procedures
+expand sql,Structured Query Language
+expand sqlxml,SQL Server XML
+expand ssgcid,Seattle Structural Genomics Center for Infectious Disease
+expand ssm,State Space Model
+expand ssns,Swiss Spallation Neutron Source
+expand ssr,Sum of Squares Around the Regression Model
+expand ssrl,Stanford Synchrotron Radiation Lightsource
+expand ssrl sack,SSRL Scientific Advisory Committee
+expand ssrl uec,SSRL Users Executive Committee
+expand swaxs,small-wide angle X-ray scattering
+expand taam,Transferable Aspherical Atom Model
+site short history of shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumPy}
+site Sheldrick 2008,\cite{Sheldrick2008AShortHistoryOfSHELX}
+site Harris 2020,\cite{Harris2020ArrayProgrammingWithNumPy}
+site shelx c d e,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
+site Sheldrick 2010,\cite{Sheldrick2010ExperimentalPhasingWithSHELXCDECombiningChainTracingWithDensityModification}
+site h k l 2 map,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
+site pape 2004,\cite{Pape2004HKL2MAPAGraphicalUserInterfaceForMacromolecularPhasingWithSHELXPrograms}
+site pattersons as priors,\cite{Burla2024UpdatingDirectMethodsII}
+site Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
+url for sir 2019,\url{https://www.ba.ic.cnr.it/softwareic/sir2014/}
+open sir 2019,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
+open protein science,<open:https://onlinelibrary.wiley.com/journal/1469896x?tabActivePane=undefined>
+open structure,<open:https://www.cell.com/structure/home>
+open acta cryst section a,<open:https://journals.iucr.org/a/index.html>
+open acta cryst section b,<open:https://journals.iucr.org/b/index.html>
+open acta cryst section c,<open:https://journals.iucr.org/c/index.html>
+open acta cryst section d,<open:https://journals.iucr.org/d/index.html>
+open acta cryst section f,<open:https://journals.iucr.org/f/index.html>
+open acta cryst section e,<open:https://journals.iucr.org/e/index.html>
+open jac,<open:https://journals.iucr.org/j/index.html>
+open journal of applied crystallography,<open:https://journals.iucr.org/j/index.html>
+open journal of synchrotron radiation,<open:https://journals.iucr.org/s/index.html>
+open j s r,<open:https://journals.iucr.org/s/index.html>
+open IUCr J,<open:https://journals.iucr.org/m/index.html>
+open IUCr Data,<open:https://journals.iucr.org/x/index.html>
+open jstor,<open:https://journals.iucr.org/x/index.html>
+open google scholar,<open:https://scholar.google.com/>
+open biorxiv,<open:https://www.biorxiv.org>
+open bio archive,<open:https://www.biorxiv.org>
+open arxiv,<open:https://arxiv.org/find>
+open archive,<open:https://arxiv.org/find>
+open archive to bibtex,<open:http://www.martin-thoma.de/arxiv.php>
+open chem archive,<open:https://chemrxiv.org/engage/chemrxiv/public-dashboard>
+open chemrxiv,<open:https://chemrxiv.org/engage/chemrxiv/public-dashboard>
+open preprints ,<open:https://www.preprints.org/>
+open pubmed,<open:https://pubmed.ncbi.nlm.nih.gov/>
+open algorithms for molecular biology,<open:https://almob.biomedcentral.com/>
+open Angewandte Chemie International Edition,<open:https://onlinelibrary.wiley.com/journal/15213773>
+open analytical biochemistry,<open:https://www.sciencedirect.com/journal/analytical-biochemistry>
+open annual review of biochemistry,<open:https://www.annualreviews.org/content/journals/biochem/browse?page=previous-issues>
+open annual review of biophysics,<open:https://www.annualreviews.org/content/journals/biophys/browse?page=previous-issues>
+open archives of biochemistry and biophysics,<open:https://www.sciencedirect.com/journal/archives-of-biochemistry-and-biophysics>
+open Artificial Intelligence in Medicine,<open:https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine>
+open big data,<open:https://www.liebertpub.com/big/>
+open biochemical journal,<open:https://portlandpress.com/biochemj>
+open Biochemical Society Transactions,<open:https://portlandpress.com/biochemsoctrans>
+open biochemie,<open:https://www.sciencedirect.com/journal/biochimie>
+open biochemical society transactions,<open:https://portlandpress.com/biochemsoctrans>
+open Biochemical and Biophysical Research Communications,<open:https://www.sciencedirect.com/journal/biochemical-and-biophysical-research-communications>
+open biochemistry,<open:https://pubs.acs.org/loi/bichaw>
+open bioinformatics,<open:https://www.sciencedirect.com/book/9781558608290/bioinformatics>
+open biomolecular engineering,<open:https://www.sciencedirect.com/journal/biomolecular-engineering>
+open biomolecules,<open:https://www.mdpi.com/journal/biomolecules>
+open bioorganic chemistry,<open:https://www.sciencedirect.com/journal/bioorganic-chemistry>
+open biophysical chemistry,<open:https://www.sciencedirect.com/journal/biophysical-chemistry>
+open biophysical journal,<open:https://www.cell.com/biophysj/archive>
+open biopolymers,<open:https://onlinelibrary.wiley.com/journal/10970282>
+open biotechniques,<open:http://www.biotechniques.com/default.asp?page=current>
+open BioMed Central,<open:http://www.biomedcentral.com/>
+open BMC Bioinformatics,<open:http://www.biomedcentral.com/bmcbioinformatics/>
+open BMC Biophysics ,<open:http://www.biomedcentral.com/>
+open BMC Chemical Biology,<open:http://www.biomedcentral.com/bmcchembiol/>
+open BMC Infectious Diseases,<open:http://www.biomedcentral.com/bmcinfectdis/BMC>
+open BMC Structural Biology,<open:http://www.pubmedcentral.nih.gov/tocrender.fcgi?iid=126947/>
+open Briefings in Bioinformatics,<open:http://bib.oxfordjournals.org.ezproxy.lib.ou.edu/content/by/year>
+open Cell,<open:http://www.sciencedirect.com/science/journal/00928674>
+open Cellular and Molecular Life Sciences,<open:http://www.springerlink.com/content/101193>
+open ChemBioChem,<open:http://www3.interscience.wiley.com/journal/72510898/home>
+open Chemical Biology,<open:http://pubs.acs.org/journal/acbcct>
+open Chemical Physics Letters ,<open:http://www.sciencedirect.com/science/journal/00092614>
+open analytical biochemistry,<open:https://www.sciencedirect.com/journal/analytical-biochemistry>
+open annual review of biochemistry,<open:https://www.annualreviews.org/content/journals/biochem/browse?page=previous-issues>
+open Chemical Reviews,<open:http://pubs.acs.org/journals/chreay/index.html>
+open Chemical Society Reviews,<open:http://www.rsc.org/Publishing/journals/index.asp>
+open Chemistry and Biology,<open:http://www.sciencedirect.com/science/journal/10745521>
+open ChemMedChem,<open:http://www3.interscience.wiley.com/journal/110485305/home>
+open Computational Crystallography Newsletter,<open:http://www.phenix-online.org/newsletter/>
+open Computational Statistics and Data Analysis,<open:http://www.sciencedirect.com.ezproxy.lib.ou.edu/science/journal/01679473>
+open Computer Physics Communications,<open:http://www.journals.elsevier.com/computer-physics-communications>
+open Computer Methods and Programs in Biomedicine,<open:http://www.sciencedirect.com/science/journal/01692607>
+open Computing in Science and Engineering,<open:https://www.computer.org/csdl/magazine/cs>
+open Crystal Growth and Design,<open:http://pubs.acs.org/journal/cgdefu>
+open Crystal Engineering,<open:http://www.sciencedirect.com/science/journal/14630184>
+open Crystallography Reports,<open:https://link.springer.com/journal/11445>
+open Crystallography Reviews,<open:http://www.tandf.co.uk/journals/titles/0889311x.html>
+open Crystals,<open:http://www.mdpi.com/journal/crystals>
+open Current Biology,<open:http://www.sciencedirect.com/science/journal/09609822>
+open Current Computer-Aided Drug Design,<open:http://www.bentham.org/ccadd/>
+open Current Research in Structural Biology,<open:https://www.sciencedirect.com/journal/current-research-in-structural-biology/issues>
+open Computer Graphics Forum,<open:https://onlinelibrary.wiley.com/journal/14678659>
+open BBRC,<open:https://www.sciencedirect.com/journal/biochemical-and-biophysical-research-communications>
+open CMLS,<open:http://www.springerlink.com/content/101193>
+open Current Opinion in Biotechnology,<open:http://www.sciencedirect.com/science/journal/09581669>
+open Current Opinion in Cell Biology,<open:http://www.sciencedirect.com/science/journal/09550674>
+open Current Opinion in Chemical Biology,<open:http://www.sciencedirect.com/science/journal/13675931>
+open Current Opinion in Genetics and Development,<open:http://www.sciencedirect.com/science/journal/0959437X>
+open Current Opinion in Immunology,<open:http://www.sciencedirect.com/science/journal/09527915>
+open Current Opinion in Microbiology,<open:http://www.sciencedirect.com/science/journal/13695274>
+open Current Opinion in Pharmacology,<open:http://www.sciencedirect.com/science/journal/14714892>
+open Current Opinion in Structural Biology,<open:http://www.sciencedirect.com/science/journal/0959440X>
+open Dalton Transactions,<open:http://pubs.rsc.org/en/Content/ArticleLanding>
+open electrophoresis,<open:http://www3.interscience.wiley.com/journal/10008330/home>
+open elife,<open:http://elifesciences.org/>
+open EMBO Journal,<open:http://www.pubmedcentral.nih.gov/tocrender.fcgi?action=archive&journal=78>
+open EMBO Reports,<open:http://www.pubmedcentral.nih.gov/tocrender.fcgi?action=archive&journal=118>
+open Emerging Infectious Diseases,<open:http://www.cdc.gov/ncidod/EID/index.htm>
+open Empirical Software Engineering,<open:https://www.springer.com/journal/10664>
+open Epigenetics and Chromatin,<open:http://www.epigeneticsandchromatin.com>
+open European Journal of Medicinal Chemistry,<open:http://www.sciencedirect.com/science/journal/02235234>
+open FEBS Letters,<open:http://www.sciencedirect.com/science/journal/00145793>
+open Folding and Design,<open:http://www.sciencedirect.com/science/journal/13590278>
+open Gene,<open:http://www.sciencedirect.com/science/journal/03781119>
+open Genetic Analysis: Biomolecular Engineering,<open:http://www.sciencedirect.com/science/journal/10503862>
+open Genomics,<open:http://www.sciencedirect.com/science/journal/08887543>
+open International Journal of Molecular Sciences,<open:http://www.hsc.wvu.edu/sop/compchem/mdpi/ijms/>
+open International Journal of Uncertainty Quantification,<open:https://www.begellhouse.com/journals/uncertainty-quantification.html>
+open Journal of Biochemical and Biophysical Methods,<open:http://www.sciencedirect.com/science/journal/0165022X>
+open Journal of Biochemistry,<open:http://jb.bcasj.or.jp/>
+open Journal of Biological Chemistry,<open:http://www.jbc.org/contents-by-date.0.shtml>
+open Journal of Biological Inorganic Chemistry,<open:http://www.springerlink.com/content/100422>
+open Journal of Biomolecular Structure and Dynamics ,<open:http://www.tandfonline.com/toc/tbsd20/current>
+open Journal of Biomolecular NMR,<open:http://springerlink.com/content/102922/>
+open Journal of Cellular Biochemistry,<open:http://www3.interscience.wiley.com/journal/117933916/tocgroup>
+open Journal of Chemical Education,<open:http://pubs.acs.org.ezproxy.lib.ou.edu/journal/jceda8>
+open Journal of Chemical Informatoin and Modeling,<open:https://pubs.acs.org/journal/jcisd8>
+open Journal of Chemical Physics,<open:http://web.ebscohost.com.ezproxy.lib.ou.edu/ehost/detail?sid=0b21d86d-faa1-4d7c-800c-f202c0a80f5f%40sessionmgr14&vid=1&hid=19&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=aph&jid=33J>
+open Journal of Chemical Theory and Computation,<open:http://pubs.acs.org.ezproxy.lib.ou.edu/journal/jctcce>
+open Journal of Chromatography A,<open:http://www.sciencedirect.com/science/journal/00219673>
+open Journal of Chromatography B,<open:http://www.sciencedirect.com/science/journal/15700232>
+open Journal of Chemical Physics,<open:http://ehis.ebscohost.com.ezproxy.lib.ou.edu/eds/results?vid=6&hid=22&sid=80e0f4f9-dcd6-4019-ac8a-c1d488304d1a%40sessionmgr4&bquery=(JN+%22Journal+of+Chemical+Physics%22+AND+DT+20061121)&bdata=JnR5cGU9MCZzaXRlPWVkcy1saXZl>
+open Journal of Chemical Theory and Computation,<open:http://pubs.acs.org/journal/jctcce>
+open Journal of Chemical Science,<open:http://www.springerlink.com/content/0974-3626/>
+open Journal of Computational Chemistry,<open:http://www3.interscience.wiley.com/journal/33822/home>
+open Journal of Computer-Aided Molecular Design,<open:http://www.wkap.nl/journalhome.htm/0920-654X>
+open Journal of Global Infectious Diseases,<open:http://www.ncbi.nlm.nih.gov/pmc/journals/1193/>
+open Journal of Molecular Biology,<open:https://www-sciencedirect-com.webproxy2.ouhsc.edu/journal/journal-of-molecular-biology>
+open Journal of Molecular Graphics and Modelling,<open:https://www.sciencedirect.com/journal/journal-of-molecular-graphics-and-modelling>
+open Journal of Molecular Modeling,<open:http://springerlink.com/content/100529/>
+open Journal of Molecular Recognition,<open:http://www3.interscience.wiley.com/journal/13149/home>
+open Journal of Nucleic Acids,<open:http://www.sage-hindawi.com/journals/jna/>
+open Journal of Nucleic Acids Investigation,<open:http://www.pagepress.org/journals/index.php/jnai>
+open Journal of Open Source Software,<open:https://openresearchsoftware.metajnl.com>
+open Journal of Parallel and Distributed Computing,<open:https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing>
+open Journal of Physical Chemistry Section A,<open:http://pubs.acs.org/journals/jpcafh/index.html>
+open Journal of Physical Chemsitry Section B,<open:http://pubs.acs.org/journal/jpcbfk/index.html>
+open Journal of Simulation,<open:https://www.tandfonline.com/journals/tjsm20>
+open JOSS,<open:https://openresearchsoftware.metajnl.com>
+open Journal of Statistical Software,<open:http://www.jstatsoft.org>
+open Journal of Structural Biology: X,<open:https://www.sciencedirect.com/journal/journal-of-structural-biology-x>
+open JSBX,<open:https://www.sciencedirect.com/journal/journal-of-structural-biology-x>
+open Journal of Structural Biology,<open:https://www.sciencedirect.com/journal/journal-of-structural-biology>
+open JSB,<open:https://www.sciencedirect.com/journal/journal-of-structural-biology>
+open Current Research in Structural Biology,<open:https://www.sciencedirect.com/journal/current-research-in-structural-biology>
+open CRSB,<open:https://www.sciencedirect.com/journal/current-research-in-structural-biology>
+open COSB,<open:https://www.sciencedirect.com/journal/current-opinion-in-structural-biology>
+open Current Opinion in Structural Biology,<open:https://www.sciencedirect.com/journal/current-opinion-in-structural-biology>
+open Journal of Structural and Functional Genomics      ,<open:http://www.springerlink.com/content/1345-711x/>
+open Journal of the America Chemical Society            ,<open:http://pubs.acs.org/journals/jacsat/index.html>
+open JACS                                               ,<open:http://pubs.acs.org/journals/jacsat/index.htm>
+open Journal of Thermal Analysis and Calorimetry        ,<open:https://link.springer.com/journal/10973>
+open JTAC                                               ,<open:https://link.springer.com/journal/1097>
+open Journal of the Royal Society of Statistics Series B,<open:https://academic.oup.com/jrsssb>
+open jrsssb                                             ,<open:https://academic.oup.com/jrsssb>
+open series B statistical methodology                   ,<open:open:https://academic.oup.com/jrsssb>
+open Journal of Theoretical Biology                     ,<open:https://www.sciencedirect.com/journal/journal-of-theoretical-biology>
+open Journal of Virology                                ,<open:https://journals.asm.org/journal/jvi>
+open Kinetoplastid Biology and Disease,<open:https://kinetoplastids.biomedcentral.com/>
+open parasites and vectors,<open:https://parasitesandvectors.biomedcentral.com/>
+open Linux Journal,<open:https://www.linuxjournal.com/>
+open Journal of Medicinal Chemistry,<open:http://pubs.acs.org/journal/jmcmar>
+open Methods,<open:https://www.sciencedirect.com/journal/methods>
+open Methods in Enzymology,<open:https://www.sciencedirect.com/bookseries/methods-in-enzymology>
+expand SMF,symmetry minimum function
+expand ASU,asymmtric unit
+expand PST,Patterson superposition techniques
+expand VST,vector superposition techniques
+expand MWCO,molecular weight cutoff
+expand EDM,electron density modification
+expand EDM,electron density modification
+expand FT,Fourier transform
+site Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site Wilson plots,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site Wilson 1942,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site Wilson 1942 Determination of abolute from relative X-ray intensity data,\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}
+site the intertrpretation of normalized structure factors,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
+site Morris et al. 2004,\cite{Morris2004OnTheInterpretationAndUseEsquaredProfiles}
+site updating direct methods 1,\cite{Giacovazzo2019UpdatingDirectMethods}
+site updating direct methods 2,\cite{Burla2024UpdatingDirectMethodsII}
+site Burla 2024,\cite{Burla2024UpdatingDirectMethodsII}
+site Burla et al 2024,\cite{Burla2024UpdatingDirectMethodsII}
+site Giacovazzo 2019,\cite{Giacovazzo2019UpdatingDirectMethods}
+site Matthews 1968,\cite{Matthews1968SolventContentOfProteinCrystals}
+site determining the solvent content of protein crystals,\cite{Matthews1968SolventContentOfProteinCrystals}
+list journals that allow PDF download by org ref,Nature <newline>Physical Revew<newline>Scientific Reports<newline>
+list journals that do not allow PDF download by org ref,- IUCr journals <newline> - <newlne>
+site Phenix,\cite{Liebschner2019RecentDevelopmentsInPhenix}
+site CCP4,\cite{Agirre2023TheCCP4Suite}
+site XDS,\cite{Kabsch2010XDS}
+site shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
+site Coot,\cite{Emsley2010FeaturesAndDevelopmentOfCoot}
+site ChimeraX,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+site shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
+site Chimera,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+site refinig structures with shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
+site latest paper on Mattprob,\cite{Weichenberger2014TenYearsProbabilisticEstimatesBiocrystalSolventContent}
+site Molprobity,\cite{Chen2010MolProbityAllAtomStructureValidationForMacromolecularCrystallography}
+expand TLSMD,TLS Motion Determination
+open TLSMD,<open:http://skuld.bmsc.washington.edu/~tlsmd/>
+site TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
+site TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
+site Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+open Structural Dynamics,<open:https://pubs.aip.org/aca/sdy>
+site Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
+site Jaynes 1957,\cite{Jaynes1957InformationTheoryStatisticalMechanics}
+site Brunger 1992,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site Rfree,\cite{Brunger1992FreeRValueANovelStatisticalQuantityForAssessingTheAccuracyOfCrystalStructures}
+site TLSMD server,\cite{Painter2006ServerGenerationMultiGroupTlsModels}
+site TLSMD theory paper,\cite{Painter2006TLSMDWebServerForTheGenerationOfMultiGroupTLSModel}
+open National High-Throughput Crystallization Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
+open HTX Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
+open HWI Crystallization Center,<open:https://hwi.buffalo.edu/high-throughput-crystallization-center/>
+expand HWI,Hauptman-Woodward Medical Research Institute
+open HWI,<open:https://hwi.buffalo.edu/>
+open BCC,<open:https://research.csiro.au/crystal/>
+open Biomolecular Crystallisation and Characterisation,<open:https://research.csiro.au/crystal/>
+expand BCC,Biomolecular Crystallisation and Characterisation
+open space group tables,<open:http://img.chem.ucl.ac.uk/sgp/LARGE/sgp.htm>
+open High Throughput Crystallization and Fragment Screening Facility,<open:https://www.embl.org/services-facilities/grenoble/high-throughput-crystallisation/>
+open ccp4 documentation,<open:https://www.ccp4.ac.uk/html/>
+open phenix webpage,<open:https://phenix-online.org>
+site hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
+site isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
+open sir webpage,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
+open sir download site,<open:https://www.ba.ic.cnr.it/softwareic/sir2014/>
+site apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
+site apbs,\cite{Jurrus2018ImprovementsToTheAPBSBiomolecularSolvationSoftwareSuite}
+site isolde,\cite{Croll2018IsoldeAPhyiscallyRealisticEnvironmentForModelBuildingIntoLowReoslutionElectronDensityMaps}
+site hkl2000,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site imosflm,\cite{Battye2011IMOSFLMANewGraphicalInterfaceForDiffractionImageProcessingWithMOSFLM}
+site hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
+site hkl3000,\cite{Minor2006HKL3000TheIntegrationOfDataReductionAndStructureSolutionFromDiffractionImagesToAnInitialModelInMinutes}
+site hkl,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site hkl,\cite{Otwinowski1997ProcessingOfXrayDiffractionDataCollectedInOscillationMod}
+site olex2,\cite{Dolomanov2009OLEX2}
+site olex2,\cite{Dolomanov2009OLEX2}
+site nospherA2,\cite{Kleemiss2021AccurateCrystalStructuresFromNoSpherA2}
+site nospherA2,\cite{Kleemiss2021AccurateCrystalStructuresFromNoSpherA2}
+site alphafold2,\cite{Jumper2021HighlyAccurateProteinStructurePredictionWithAlphaFold}
+site alphafold2,\cite{Jumper2021HighlyAccurateProteinStructurePredictionWithAlphaFold}
+site alphafold3,\cite{Abramson2024AccurateStructurePredictionBiomolecularInteractionsWithAlphafold}
+site alphafold3,\cite{Abramson2024AccurateStructurePredictionBiomolecularInteractionsWithAlphafold}
+site colabfold,\cite{Mirdita2022ColabFoldMakingProteinFoldingAccessibleToAll}
+site colabfold,\cite{Mirdita2022ColabFoldMakingProteinFoldingAccessibleToAll}
+site rosettafold,\cite{Baek2021AccuratePredictionProteinStructuresInteractionsUsingThreeTrackNeuralNetwork}
+site rosettafold,\cite{Baek2021AccuratePredictionProteinStructuresInteractionsUsingThreeTrackNeuralNetwork}
+site rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
+site rosettafold na,\cite{Baek2023AccuratePredictionProteinNucleicAcidComplexesUsingRosettafoldna}
+site rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
+site rosettafold all-atom,\cite{Krishna2024GeneralizedBiomolecularModelingAndDesignWithRoseTTAFoldAllAtom}
+site gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
+site gemmi,\cite{Wojdyr2022GEMMIALibraryForStructuralBiology}
+open gemmi,<open:https://gemmi.readthedocs.io/en/latest/>
+open gemmi read the docs,<open:https://gemmi.readthedocs.io/en/latest/>
+open gemmi github,<open:https://github.com/project-gemmi>
+open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
+open nosphera2,<open:https://www.olexsys.org/olex2/docs/nosphera2/>
+site nakb,\cite{Lawson2024TheNucleicAcidKnowledgebaseANewPortalFor3DStructuralInformationAboutNucleicAcids}
+site dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
+expand dssr,Dissecting the Spatial Structure of RNA
+site  dssr,\cite{Lu2015DSSRAnIntegratedSoftwareToolForDissectingTheSpatialStruturesOfRNA}
+open EM Data Resource,<open:https://www.emdataresource.org/index.html>
+site cryoEM ligand validation,\cite{Lawson2024OutcomesEmdataresourceCryoEmLigandModelingChallenge}
+site xtra pol 8,\cite{DeZitter2022Xtrapol8EnablesAutomaticElucidationOfLowOccupancyIntermediateStatesInCrystallographicStudies}
+open github site for xtra pol 8,<open:https://github.com/ElkeDeZitter/Xtrapol8>
+expand ESFA,extrapolated structure factor amplitudes
+open IUCr calendar of meetings,<open:https://www.iucr.org/calendar/calendar-of-events>
+site scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
+site scipy,\cite{Virtanen2020SciPy10FundamentalAlgorithmsForScientificComputingInPython}
+site pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
+site pandas,\cite{Mckinney2010DataStructuresStatisticalComputingPython}
+site statsmodels,\cite{Seabold2010Statsmodels}
+site statsmodels,\cite{Seabold2010Statsmodels}
+site matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
+site matplotlib,\cite{Hunter2007MatplotlibA2DGraphicsEnvironment}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
+site numpy,\cite{Harris2020ArrayProgrammingWithNumpy}
+open pymc,<open:https://www.pymc.io/welcome.html>
+site pymc,\cite{Salvatier2016ProbabilisticProgrammingInPythonUsingPyMC3}
+site arviz,\cite{Kumar2019ArviZAUnifiedLibraryForExploratoryAnalysisOfBayesianModelsInPython}
+open arviz,<open:https://www.arviz.org/en/latest/>
+open github pytensor,<open:https://github.com/pymc-devs/pytensor>
+open pytensor,<open:https://github.com/pymc-devs/pytensor>
+site numba,\cite{Lam2015NumbaALlvmBasedPythonJitCompiler}
+open github numba,<open:https://github.com/numba/numba>
+open numba read the docs,<open:https://numba.readthedocs.io/>
+open pytensor,<open:https://github.com/pymc-devs/pytensor>
+site PyTorch,\cite{Ansel2024Pytorch}
+open PyTorch,<open:https://github.com/pytorch/pytorch>
+open read the docs for openpyxl,<open:https://openpyxl.readthedocs.io>
+open read the docs for xlsxwriter,<open:https://xlsxwriter.readthedocs.io/>
+open nobel prizes for 3D structures,<open:https://proteopedia.org/w/Nobel_Prizes_for_3D_Molecular_Structure>
+site autoproc,\cite{Vonrhein2011DataProcessingAndAnalysisWithTheAutoPROCToolbox}
+site F early minus F late maps,\cite{Vonrhein2024AdvancedExploitationUnmergedReflectionDataDuringProcessingRefinementWithAutoPROCandBuster}
+site LSSR,\cite{Smart2012ExploitingStructureSimilarityRefinementAutomatedNCSandTargetStructureRestraintsInBuster}
+expand LSSR,Local Structural Similarity Restraints
+site TNT,\cite{Tronrud1987AnEfficientGeneralPurposeLeastSquaresRefinementProgramForMacromolecularStructures}
+site X-PLOR,\cite{ToBeDone}
+site REFMAC,\cite{Murshudov2011Refmac5ForTheRefinementMacromolecularCrystalStructures}
+site CNS,\cite{Brunger1998CrystallographyNMRSystemANewSoftwareSuiteForMacromolecularStructureDetermination}
+expand GMM,Gaussian Mixture Model
+open Mitochondrion ,<open:https://www.sciencedirect.com/journal/mitochondrion>   
+open Molecular and Cellular Biology,<open:http://mcb.asm.org/> 
+open Molecular and Biochemical Parasitolog,<open:http://www.sciencedirect.com/science/journal/01666851>
+open Molecular BioSystems,<open:http://www.rsc.org/publishing/journals/MB/Index.asp>
+open Molecular Biotechnology,<open:http://www.springerlink.com/content/120568/>
+open Molecular Biotechnology,<open:http://www.springer.com/chemistry/biotechnology/journal/12033>
+open Molecular Cell,<open:https://www.sciencedirect.com/journal/molecular-cell>
+open Molecules,<open:https://www.mdpi.com/journal/molecules>
+expand JINEX,Just IN time Crystallization for Easy structure Determinatio
+open nobel prizes in crystallography,<open:https://www.xtal.iqf.csic.es/Cristalografia/parte_10_1-en.html>
+open qutemol,<open:https://qutemol.sourceforge.net/>
+site qutemol,\cite{Tarini2006AmbientOcclusionAndEdgeCueingForEnhancingRealTimeMolecularVisualization}
+open adxv,<open:https://www.scripps.edu/tainer/arvai/adxv.html/>
+open jmol,<open;https://jmol.sourceforge.net/>
+site jmol,\cite{Jmol2024}
+open jsmol,<open:https://jmol.sourceforge.net/>
+site jsmol,\cite{Jmol2024}
+display Sayre's equation,$$F^2_{\textbf{h}} \propto \sum_{\textbf{k}} F_{\textbf{h}} \cdot F_{\textbf{k}} \cdot F_{\textbf{h-k}} \cdot \rm{exp}( i(\varphi_{\textbf{-h}} + \varphi_{\textbf{k}}$$ 
+open divcon,<open:
+site mol rep,\cite{Vagin2010MolecularReplacementWithMOLREP}
+site PRODRG,\cite{Schuttelkopf2004PRODRGAToolForHighThroughputCrystallographyOfProteinLigandComplexes}
+site wwPDB,\cite{Berman2007TheWorldwideProteinDataBankwwPDBEnsuringASingleUniformArchiveOfPDBData}
+site PyMOL,\cite{DeLanoScientific2002PyMOL}
+site UCSF Chimera,\cite{Pettersen2004UCSFChimera}
+site UCSF Chimera,\cite{Pettersen2004UCSFChimera}
+site Chimera,\cite{Pettersen2004UCSFChimera}
+site Chimera,\cite{Pettersen2004UCSFChimera}
+site Zwart 2008,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
+site pitfalls from psuedosymmetry,\cite{Zwart2008SurprisesAndPitfallsArisingFromPseudosymmetry}
+site twinned structures with shelxl,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
+site Herbst Imer 1998,\cite{Herbst-Irmer1998RefinementTwinnedStructuresWith}
+site phasing annealing in shelx,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
+site Sheldrick 1990,\cite{Sheldrick1990PhaseAnnealingInShelx-90DirectMethodsForLargerStructures}
+site intensity statistics with tNCS,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
+site Read 2013,\cite{Read2013IntensityStatisticsPresenceTranslationalNoncrystallograpSymmetry}
+expand IAM,independent-atom model
+expand IAS,interatomic scatters
+site xmgr,\cite{ACE1998xmgr}
+open Xmgr,<open:https://plasma-gate.weizmann.ac.il/Grace/>
+open Grace,<open:https://plasma-gate.weizmann.ac.il/Grace/>
+expand WYSIWYG,What You See IS What You Get
+open autoproc,<open:https://www.globalphasing.com/autoproc/>
+open sharp,<open:https://www.globalphasing.com/sharp/>
+open buster,<open:https://www.globalphasing.com/buster/>
+open star aniso vbserver,<open:https://staraniso.globalphasing.org/cgi-bin/staraniso.cgi>
+open peep PDB web server,<open:https://staraniso.globalphasing.org/cgi-bin/PDBpeep.cgi>
+open grade web server,<open:https://grade.globalphasing.org/cgi-bin/grade2_server.cgi>
+inline F early minus F late,$F_{early} - F_{late}$
+display F early minus F late,$$F_{early} - F_{late}$$
+site PDB REDO,\cite{Joosten2014ThePDBREDOServerForMacromolecularStructureModelOptimization}
+open PDB redo,<open:https://pdb-redo.eu/>
+open yasara,<open:https://www.yasara.org/>
+open whatif,<open:https://swift.cmbi.umcn.nl/servers/html/index.html/>
+doi to bibtex,<open:https://www.doi2bib.org/>
+doi 2 bib,<open:https://www.doi2bib.org/>
+site molscript,\cite{Kraulis1991MOLSCRIPTAProgramToProduceBothDetailedAndSchematicPlotsOfProteinStructures}
+site alpha fold and the future of structural biology,\cite{Read2023AlphaFoldAndTheFutureOfStructuralBiology}
+open molscript,<open:https://pekrau.github.io/MolScript/>
+site crystFEL,\cite{White2012CrystFELaSoftwareSuiteForSnapshotSerialCrystallography}
+site sir 2014,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
+site sir 2019,\cite{Burla2015CrystalStructureDeterminationAndRefinementViaSIR2014}
+site arp warp,\cite{Langer2008AutomatedMacromolecularModelBuildingXRayCrystallographyUsingArpVersion}
+site shelxe model building,\cite{Uson2024ModesAndModelBuildingInSHELXE}
+site shelxe 2024,\cite{Uson2024ModesAndModelBuildingInSHELXE}
+site XDS gui,\cite{Brehm2023XDSGUIAGraphicalUserInterfaceForXDSSHELXAndARCIMBOLDO}
+open XDS,<open:https://wiki.uni-konstanz.de/xds/index.php/Installation>
+site star aniso,\cite{Tickle2018Staraniso}
+site Pflugrath on fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
+site fine slicing,\cite{Pflugrath1999TheFinerThingsInXRayDiffractionDataCollection}
+open raddose 3D,<open:https://raddo.se/>
+site pointless,\cite{Evans2006ScalingAndAssessmentOfDataQuality)
+site rad dose 3D,\cite{Dickerson2024DosesForXrayAndElectronDiffractionNewFeaturesInRaddose3DIncludingIntensityDecayModels}
+site archimboldo,\cite{Rodriguez2012PracticalStructureSolutionWithARCIMBOLDO}
+open archimboldo,<open:http://chango.ibmb.csic.es/>
+open phaser,<open:https://www.phaser.cimr.cam.ac.uk/index.php/Phaser_Crystallographic_Software>
+site phaser,\cite{McCoy2007PhaserCrystallographicSoftware}
+site french and wilson 1978,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
+site treatment of negative intensity observations,\cite{French1978OnTheTreatmentOfNegativeIntensityObservations}
+expand TPS,translational pseudosymmetry
+site superflip,\cite{Palatinus2007SuperflipAComputerProgramForTheSolutionOfCrystalStructuresByChargeFlippingInArbitraryDimensions}
+open superflip,<open:http://superflip.fzu.cz/>
+open charge flipping for proteins,<open:https://bioserv.cbs.cnrs.fr/crystal/SUPERFLIP/>
+site charge flipping for proteins,\cite{Dumas2008MacromolecularStructureSolutionByChargeFlipping}
+site acorn 2,\cite{Dodson2009ACORN2NewDevelopmentsOfTheACORNConcept}
+site acorn review,\cite{Yao2006ACORNAReview}
+open acorn,<open:https://www.ccp4.ac.uk/html/acorn.html>
+site mol script,\cite{Kraulis1991MOLSCRIPTAProgramToProduceBothDetailedAndSchematicPlotsOfProteinStructures}
+site ratos 3d,\cite{Dickerson2024DosesForXrayAndElectronDiffractionNewFeaturesInRaddose3DIncludingIntensityDecayModels}
+site primal,\cite{DeLanoScientific2002PyMOL}
+open nature,<open:https://www.nature.com/nature/volumes>
+open nature chemical biology,<open:https://www.nature.com/nchembio/>
+open nature methods,<open:www.nature.com/nmeth/>
+open nature protocols,<open:https://www.nature.com/nprot/volumes>
+open nature structural and molecular biology,<open:https://www.nature.com/nsmb/volumes>
+open new journal of chemistry,<open:https://pubs.rsc.org/en/Journals/JournalIssues/NJ#!recentarticles&adv>
+open nucleic acids research,<open:https://academic.oup.com/nar/issue>
+open parasitology,<open:https://www.cambridge.org/core/journals/parasitology/volume/6FE8AD82E298AB5396FD3128C345DE8F#>
+open i o p science,<open:https://iopscience.iop.org/>
+open physical chemistry chemical physics,<open:https://pubs.rsc.org/en/Journals/JournalIssues/CP#!recentarticles&adv>
+open PLOS computational biology,<open:https://journals.plos.org/ploscompbiol/>
+open PLOS neglected tropical diseases,<open:https://journals.plos.org/plosntds/>
+open PLOS biology,<open:https://journals.plos.org/plosbiology/>
+open PLOS pathogens,<open:https://journals.plos.org/plospathogens/>
+open PNAS,<open:https://www.pnas.org/toc/pnas/current>
+open progress in biophysics and molecular biology,<open:https://www.sciencedirect.com/journal/progress-in-biophysics-and-molecular-biology>
+open protein engineering design and selection,<open:https://academic.oup.com/peds>

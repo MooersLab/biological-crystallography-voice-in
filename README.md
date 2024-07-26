@@ -5,40 +5,41 @@
 # biological-crystallography-voice-in
 
 ## Introduction
-This repo contains 1700 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repository contains >1700 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
 
 The snippets of math equations in LaTeX are recognized and rendered correctly by most Markdown typesetting languages, including GitHub Markdown.
-These math equations are also rendered in org-mode in Emac, Markdown cells in Jupyter, and R Markdown notebooks.
+These math equations are also rendered in org-mode in Emacs, Markdown cells in Jupyter, and R Markdown notebooks.
 Of course, they work in documents on Overleaf, the online LaTeX editor for academics, and in other TeX and LaTeX editors.
 
-The citekey command prefix is for inserting citekeys for commonly cited references.
+The cite command prefix is for inserting citekeys for commonly cited references.
+(The word `cite` is interpreted as `site`, so we use `site` in the command.)
 The corresponding BibTeX file is *biocryst.bib*.
-If you are not using LaTeX, you will have to edit the *biocryst.csv* file to change the `\cite{}`  to whatever format is requried by your markup system.
+If you are not using LaTeX, you will have to edit the *biocryst.csv* file to change the `\cite{}` to whatever format is requried by your bibliography management system.
 I write one sentence per line so long cite keys at the end of sentence are no problem.
 This writing style greatly eases the shuffling of sentence order during rewriting, and it facilitates version control during collaborative writing.
 
 In my opinion, the wrapping of sentences is not necessary in source documents for reading comprehension.
-I suspect that line wrapping acutally hinders reading. 
-It was probably imposed on us by publisheres hundreds of years ago to save paper.
+I suspect that line wrapping acutally hinders reading.
+It was probably imposed on us by publishers hundreds of years ago to save paper.
 I leave it to education researchers to run the appropriate controlled experiments.
 
 
 https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
 
 ## Examples of voice triggers and their results
-  
+
 | Voice trigger | Result|
-| :------ | :----|
+|:--------------|:--------|
 |expand jac | Journal of Applied Crystallography|
 |open Journal of Applied Crystallography| opens journal's homepage|
 |expand hepes|4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid|
 |expand iucr | International Union of Crystallography|
 |display sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
 |display Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
-|citekey Wilson 1942 |\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}|
-|display equation for the structure factor|$$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$|
+|cite Wilson 1942 |\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}|
+|display equation for the structure factor| $$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$ |
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
 
@@ -111,7 +112,7 @@ I use the verb "list" to list sets of items.
 ### Test the commands
 Like other forms of computer code, test the Voice In commands to ensure you get the intended effect.
 The speed with which you vocalize a command has a significant impact.
-You may have to verbalize the command quickly to avoid inserting just the first word rather than the entire command.
+You may have to verbalize the command quickly to avoid inserting just the first word rather than the intended text replacement.
 
 ## Contributions are welcome
 This project can benefit all biological crystallographers.
@@ -127,11 +128,10 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 
 ## Update history
 
-|Version      | Changes                                                                                                                                   | Date                 |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------:|
-| Version 0.3 |   Added update table, video, link to slides, and some commands.                                                                           | 2024 July 9          |
-| Version 0.4 |   Added voice commands for centrosymmetric space groups.                                                                                  | 2024 July 17         |
-| Version 0.4.1 |   Added 333 text replacements and expansions.                                                                                           | 2024 July 18         |
-| Version 0.4.2 |   1645 commands now. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24        |
-| Version 0.4.3 |   1700 commands now. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24        |
-  
+|Version        | Changes                                                                                                                                   | Date                 |
+|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------:|
+| Version 0.3   | Added update table, video, link to slides, and some commands.                                                                             | 2024 July 9          |
+| Version 0.4   | Added voice commands for centrosymmetric space groups.                                                                                    | 2024 July 17         |
+| Version 0.4.1 | Added 333 text replacements and expansions.                                                                                               | 2024 July 18         |
+| Version 0.4.2 | Reached 1645 commands. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24         |
+| Version 0.4.3 | Reached 1700 commands.                                                                                                                    | 2024 July 25         |

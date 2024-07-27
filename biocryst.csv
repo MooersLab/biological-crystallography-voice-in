@@ -1829,3 +1829,15 @@ open PNAS,<open:https://www.pnas.org/toc/pnas/current>
 open progress in biophysics and molecular biology,<open:https://www.sciencedirect.com/journal/progress-in-biophysics-and-molecular-biology>
 open protein engineering design and selection,<open:https://academic.oup.com/peds>
 singatron radiation lab,synchrotron radiation lab
+open section d,<open:https://journals.iucr.org/d/index.html>
+open section a,<open:https://journals.iucr.org/a/index.html>
+open section f,<open:https://journals.iucr.org/f/index.html>
+open i u c r data,<open:https://journals.iucr.org/x/index.html>
+open synchrotron radiation,<open:https://journals.iucr.org/s/index.html>
+open section b,<open:https://journals.iucr.org/b/index.html>
+open section c,<open:https://journals.iucr.org/c/index.html>
+open section e,<open:https://journals.iucr.org/e/index.html>
+actor chris section B,Acta Cryst. Section B
+actor chris section C,Acta Cryst. Section C
+actor chris section E,Acta Cryst. Section E
+actor chris section A,Acta Cryst. Section A

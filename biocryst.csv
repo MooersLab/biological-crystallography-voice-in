@@ -1854,3 +1854,14 @@ open virology,<open:https://www.sciencedirect.com/journal/virology>
 open journal of virology,<open:https://journals.asm.org/journal/jvi>
 open t i b s,<open:https://www.bioxbio.com/journal/TRENDS-BIOCHEM-SCI>
 open trends in biomedical science,<open:https://www.bioxbio.com/journal/TRENDS-BIOCHEM-SCI>
+expand panDDA,Pan-Dataset Density Analysis
+site histidine protonation by q m refinement,\cite{Moriarty2024ProtonationHistidineRingsUsingQuantumMechanicalMethods}
+site histidine ring protonation by q m refinement,\cite{Moriarty2024ProtonationHistidineRingsUsingQuantumMechanicalMethods}
+site histidine protonation via q m refinement,\cite{Moriarty2024ProtonationHistidineRingsUsingQuantumMechanicalMethods}
+expand CSD,Cambridge Structural Database
+expand qmr,quantum mechanical restraints
+expand qi,quantum interface in Phenix
+expand qmf,quantum mechanical flipping
+expand dft,density functional theory
+expand mole probity,MolProbity
+expand mole probity,MolProbity

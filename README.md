@@ -1,4 +1,4 @@
-![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.3&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.4&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
@@ -114,6 +114,33 @@ Like other forms of computer code, test the Voice In commands to ensure you get 
 The speed with which you vocalize a command has a significant impact.
 You may have to verbalize the command quickly to avoid inserting just the first word rather than the intended text replacement.
 
+## Counts of commands by category
+
+| Voice trigger category| Count |
+|:--------------|:--------|
+| URL | 22 |
+| acronymExpansion | 188 |
+| cctbx | 35 |
+| citekey | 170 |
+| displayEquation | 5 |
+| expandAcronym | 3 |
+| inlineEquation | 1 |
+| intensityStatistics | 17 |
+| jupyter | 3 |
+| list | 3 |
+| math | 30 |
+| openJournal | 207 |
+| openSoftwareDocumentation | 3 |
+| openSoftwareHomepage | 33 |
+| openWebService | 9 |
+| openWebpage | 148 |
+| openWikipediaPage | 4 |
+| software | 6 |
+| spaceGroup | 439 |
+| symmetryElement | 7 |
+| textReplacement | 454 |
+
+
 ## Contributions are welcome
 This project can benefit all biological crystallographers.
 It should be a community project.
@@ -135,3 +162,4 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 | Version 0.4.1 | Added 333 text replacements and expansions.                                                                                               | 2024 July 18         |
 | Version 0.4.2 | Reached 1645 commands. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24         |
 | Version 0.4.3 | Reached 1700 commands.                                                                                                                    | 2024 July 25         |
+| Version 0.4.4 | Added table of counts by category to README.md file                                                                                                                   | 2024 August 1         |

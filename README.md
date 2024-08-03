@@ -5,7 +5,7 @@
 # biological-crystallography-voice-in
 
 ## Introduction
-This repository contains >1700 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repository contains >1800 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
 
@@ -162,4 +162,4 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 | Version 0.4.1 | Added 333 text replacements and expansions.                                                                                               | 2024 July 18         |
 | Version 0.4.2 | Reached 1645 commands. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24         |
 | Version 0.4.3 | Reached 1700 commands.                                                                                                                    | 2024 July 25         |
-| Version 0.4.4 | Added table of counts by category to README.md file                                                                                                                   | 2024 August 1         |
+| Version 0.4.4 | Added table of counts by category to README.md file                                                                                       | 2024 August 1        |

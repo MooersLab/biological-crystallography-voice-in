@@ -1,4 +1,4 @@
-![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.4&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.5&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
@@ -13,17 +13,14 @@ The snippets of math equations in LaTeX are recognized and rendered correctly by
 These math equations are also rendered in org-mode in Emacs, Markdown cells in Jupyter, and R Markdown notebooks.
 Of course, they work in documents on Overleaf, the online LaTeX editor for academics, and in other TeX and LaTeX editors.
 
-The cite command prefix is for inserting citekeys for commonly cited references.
+The site command prefix is for inserting cite keys for commonly cited references.
 (The word `cite` is interpreted as `site`, so we use `site` in the command.)
 The corresponding BibTeX file is *biocryst.bib*.
-If you are not using LaTeX, you will have to edit the *biocryst.csv* file to change the `\cite{}` to whatever format is requried by your bibliography management system.
-I write one sentence per line so long cite keys at the end of sentence are no problem.
+If you are not using LaTeX, you will have to edit the *biocryst.csv* file to change the `\cite{}` to whatever format is required by your bibliography management system.
+I write one sentence per line, so long cite keys at the end of a sentence are no problem.
 This writing style greatly eases the shuffling of sentence order during rewriting, and it facilitates version control during collaborative writing.
 
-In my opinion, the wrapping of sentences is not necessary in source documents for reading comprehension.
-I suspect that line wrapping acutally hinders reading.
-It was probably imposed on us by publishers hundreds of years ago to save paper.
-I leave it to education researchers to run the appropriate controlled experiments.
+
 
 
 https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203/c9e71fd7-e3f5-4f58-9b3d-c9dc3f87ab1e
@@ -42,8 +39,6 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 |display equation for the structure factor| $$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$ |
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
-
-
 
 You may have to reload this page to get the equations rendered by **Mathjax**.
 Likewise, when opening the biocryst.csv file in GitHub, you may have to reload the view to get the rendering by **Mathjax**.
@@ -119,27 +114,28 @@ You may have to verbalize the command quickly to avoid inserting just the first 
 | Voice trigger category| Count |
 |:--------------|:--------|
 | URL | 22 |
-| acronymExpansion | 188 |
+| acronymExpansion | 189 |
 | cctbx | 35 |
-| citekey | 170 |
-| displayEquation | 5 |
+| citekey | 193 |
+| conda | 2 |
+| displayEquation | 15 |
 | expandAcronym | 3 |
-| inlineEquation | 1 |
+| inlineEquation | 8 |
 | intensityStatistics | 17 |
-| jupyter | 3 |
+| jupyter | 1 |
+| jupyterKernel | 1 |
 | list | 3 |
-| math | 30 |
 | openJournal | 207 |
 | openSoftwareDocumentation | 3 |
-| openSoftwareHomepage | 33 |
+| openSoftwareHomepage | 34 |
 | openWebService | 9 |
 | openWebpage | 148 |
 | openWikipediaPage | 4 |
 | software | 6 |
-| spaceGroup | 439 |
+| spaceGroup | 444 |
+| symbol | 8 |
 | symmetryElement | 7 |
 | textReplacement | 454 |
-
 
 ## Contributions are welcome
 This project can benefit all biological crystallographers.
@@ -163,3 +159,4 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 | Version 0.4.2 | Reached 1645 commands. Added biocryst.bib file with BibTeX entries for citekey items.                                                     | 2024 July 24         |
 | Version 0.4.3 | Reached 1700 commands.                                                                                                                    | 2024 July 25         |
 | Version 0.4.4 | Added table of counts by category to README.md file                                                                                       | 2024 August 1        |
+| Version 0.4.5 | Added table of counts by category to README.md file                                                                                       | 2024 August 3        |

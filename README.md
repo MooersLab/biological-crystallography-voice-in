@@ -116,7 +116,7 @@ You may have to verbalize the command quickly to avoid inserting just the first 
 | URL | 22 |
 | acronymExpansion | 189 |
 | cctbx | 35 |
-| citekey | 193 |
+| citekey | 197 |
 | conda | 2 |
 | displayEquation | 15 |
 | expandAcronym | 3 |
@@ -132,10 +132,10 @@ You may have to verbalize the command quickly to avoid inserting just the first 
 | openWebpage | 148 |
 | openWikipediaPage | 4 |
 | software | 6 |
-| spaceGroup | 444 |
+| spaceGroup | 510 |
 | symbol | 8 |
 | symmetryElement | 7 |
-| textReplacement | 454 |
+| textReplacement | 473 |
 
 ## Contributions are welcome
 This project can benefit all biological crystallographers.

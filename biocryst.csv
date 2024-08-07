@@ -18,7 +18,7 @@ Britian plot,Britton plot
 c star,$\mathbf{c}$
 C2,$C2$
 C222,$C222$ 
-C222,$C222_{1}$
+C222 sub 1,$C222_{1}$
 C2221,$C222_{1}$
 cc one-half,$CC_{1/2}$ 
 ccp4 cloud,CCP4 Cloud
@@ -30,7 +30,7 @@ christography,crystallography
 cns,CNS
 colab fold,ColabFold
 create cctbx conda environment,conda create -n cctbx312 -c conda-forge cctbx-base python=3.12
-create cctbx conda kernel,conda activate cctbx312 && python -m ipykernel install --user --name cctbx312 --display-name 'cctbx 3.12'
+create cctbx jupyter kernel,conda activate cctbx312 && python -m ipykernel install --user --name cctbx312 --display-name 'cctbx 3.12'
 crims,CRIMS
 Crystal Graphics symmetry,crystallographic symmetry
 Crystal low graphic symmetry,crystallographic symmetry
@@ -335,11 +335,11 @@ insert space group number for P43212,96
 insert space group number for P4322,95
 insert space group number for P4332,212
 insert space group number for P6,168
-insert space group number for P61,169
+insert space group number for P 6 1,169
 insert space group number for P6122,178
 insert space group number for P622,177
 insert space group number for P6222,180
-insert space group number for P63,171
+insert space group number for P 6 2,171
 insert space group number for P63,173
 insert space group number for P6322,182
 insert space group number for P64,172
@@ -572,7 +572,7 @@ pLDDT,predicted local difference distance test
 point group 2,$2$
 point group 222,$222$
 point group 23,$23$
-point group 32, $32$
+point group 32,$32$
 point group 4,$4$
 point group 422,$422$
 point group 432,$432$
@@ -1884,3 +1884,118 @@ site giacovazzo 1998,\cite{Giacovazzo1998DirectPhasingInCrystallographyFundament
 site woolfson 1995,\cite{Woolfson1995PhysicalAndNonPhysicalMethodsOfSolvingCrystalStructures}
 site physical and non-physical methods of solving crystal structures,\cite{Woolfson1995PhysicalAndNonPhysicalMethodsOfSolvingCrystalStructures}
 site direct phasing in crystallography,\cite{Giacovazzo1998DirectPhasingInCrystallographyFundamentalsAndApplications}
+create pymol conda environment,conda install conda-forge::pymol-open-source python=3.12
+site ice in biomolecular cryocrystallography,\cite{Moreau2021IceBiomolecularCryocrystallography}
+site detecting ice in macromolecular diffraction data,\cite{Nolte2022DetectingIceArtefactsProcessedMacromolecularDiffractionDataWithMachineLearning}
+expand r i d l,Radiation-Induced Density Loss
+site r i d l,\cite{}
+site cool data quantity and quality,\cite{Garman1999CoolDataQuantityANDQuality}
+site cool data quantity and quality,\cite{Garman1999CoolDataQuantityANDQuality}
+site crycooling and radiation damage,\cite{Garman2006CryocoolingAndRadiationDamageInMacromolecularCrystallography}
+site crycooling and radiation damage,\cite{Garman2006CryocoolingAndRadiationDamageInMacromolecularCrystallography}
+site required glycerol concentrations,\cite{Garman1996GlycerolConcentrationsRequiredForCryoprotectionOf50TypicalProteinCrystallizationSolutions}
+site reproducible unit cell parameters,\cite{Farley2014ImprovedReproducibilityOfUnitCellParametersInMacromolecularCryocrystallographyByLimitingDehydrationDuringCrystalMounting}
+site phasing with halides,\cite{Dauter2007PhaseDeterminationUsingHalideIons}
+site organic salts as cryo agents,\cite{Bujacz2010CryoprotectionPropertiesOfSaltsOfOrganicAcidsACaseStudyForATetragonalCrystalOfHEWLysozyme}
+site cryo artifacts affect ligand binding predictions,\cite{Bradford2021TemperatureArtifactsInProteinStructuresBiasLigandBindingPredictions}
+site rational methods of cryoprotection,\cite{Alcorn2010ProgressInRationalMethodsOfCryoprotectionInMacromolecularCrystallography}
+site rational methods of cryoprotection,\cite{Alcorn2010ProgressInRationalMethodsOfCryoprotectionInMacromolecularCrystallography}
+site review room temperature crystallography,\cite{Fischer2021MacromolecularRoomTemperatureCrystallography}
+site specific radiation damage at room temperature,\cite{Gotthard2019SpecificRadiationDamageIsALesserConcernAtRoomTemperature}
+site evidence that D70 varies with wavelength,\cite{Liebschner2015RadiationDecayOfThaumatinCrystalsAtThreeXRayEnergies}
+expand D70,the absorbed radiation dose at which the average diffraction intensity declines  to 70% of the initial value
+site cryosalt for suppression of ice formation,\cite{Rubinson2000CryosaltsSuppressionOfIceFormationInMacromolecularCrystallography}
+site cryoprotecting crystals grwown from high salt,\cite{Hlaing2023StrategyToSelectAppropriateCryoprotectantXRayStudyColiGapdhCrystals}
+site estimating cryo-agent concentration,\cite{Shah2011FlashCoolingProteinCrystalsEstimateOfCryoprotectantConcentrationUsingThermalProperities}
+site AUSPEX,\cite{Thorn2017AUSPEXaGraphicalToolForXrayDiffractionAnalysis}
+expand SRs,synchrotrons
+open AUSPEX,<open:https://github.com/thorn-lab/AUSPEX>
+site Garman limit,\cite{Owen2006ExperimentalDeterminationRadiationDoseLimitCryocooledProteinCrystals}
+tetartohedral twin,twinning by tetartohedry
+tetartohedral twinning,twinning by tetartohedry
+the mythic 20,mimetic twinning
+tritohedral twin,twinning by tritohedry
+tritohedral twinning,twinning by tritohedry twinning
+twin operator,twin operation
+twinning operation,twin operation 
+twinning operator,twinning operation
+two sub one,$2_1$
+value of stanley factor for acentric data from ordinary crysta,2.0
+value of stanley factor for acentric data from perfect twin,1.5
+value of stanley factor for acentric data from untwinned crystal,2.0
+value of wilson ratio for acentric data from perfect twin,0.885
+value of wilson ratio for acentric data from untwinned crystal,0.785
+expand vdw,van der Waals
+expand vdw,van der Waals
+site weak hydrogen bond book,\cite{Desiraju2001TheWeakHydrogenBondInStructuralChemistryAndBiology}
+wilson bee factor,Wilson B-factor
+xds gui,\epmh{XDSGUI}
+super flip,SuperFlip
+small angle scattering database,SASDB
+for your,Fourier
+P3 sub 1 2 1,$P3_{1}21$
+F 4 sub 1 3 2,$F4_{1}32$
+I 2 sub 1 2 sub 1 2 sub 1,$I2_{1}2_{1}2_{1}$ 
+I 4 sub 1,$I4_{1}$
+I 4 sub 1 2 2,$I4_{1}22$
+I 4 sub 1 3 2,$I4_{1}32$
+I 4 sub  1 2 2,$I4_{1}22$
+I 4 sub 1 3 2,$I4_{1}32$
+P 2 sub 1,$P2_{1}$ 
+P 2 sub 1 2 sub 1 2,$P2_{1}2_{1}2$ 
+P 2 sub 1 2 sub 1 2 sub 1,$P2_{1}2_{1}2_{1}$ 
+P 2 2 2 sub 1,$P222_{1}$ 
+P 3 sub 1,$P3_{1}$
+P 3 sub 1 1 2,$P3_{1}12$
+P 3 sub 1 2 1,$P3_{1}21$
+P 4 sub 1,$P4_{1}$
+P 4 sub 1 2 sub 1 2,$P4_{1}2_{1}2$
+P4 sub 1 2 2,$P4_{1}22$
+P4 sub 1 3 2,$P4_{1}32$
+P 4 2 sub 1 2 sub 1,$P42_{1}2_{1}$
+P 4 2 2 sub 1 2,$P4_{2}2_{1}2$
+P 4 sub 3 2 sub 1 2,$P4_{3}2_{1}2$
+P 6 sub 1,$P6_{1}$
+P 6 sub 1 2 2,$P6_{1}22$
+insert space group number for C 2 2 2 sub 1,20
+insert space group number for I 2 sub 1 2 sub 1 2 sub 1,24
+insert space group number for F 4 sub 1 3 2,210
+insert space group number for I 4 sub 1,80
+insert space group number for I 4 sub 1 2 2,98
+insert space group number for I 4 sub 1 3 2,214
+insert space group number for P 2 sub 1 over m,11
+insert space group number for P 2  sub 1,4
+insert space group number for P 2 sub 1 2 sub 1 2,18
+insert space group number for P 2 sub 1 2 sub 1 2 sub 1,19
+insert space group number for P 3 sub 1,144
+insert space group number for P 3 sub 1 1 2,151
+insert space group number for P 3 sub 1 2 sub1,152
+insert space group number for P 3 sub 2 1 2,153
+insert space group number for P 3 sub 2 2 1,154
+insert space group number for P 3 sub 2 1 2,153
+insert space group number for P 3 sub 2 2 1,154
+insert space group number for P 4 sub 1,76
+insert space group number for P 4 sub 1 2 sub 1 2,92
+insert space group number for P 4 sub 1 2 2,91
+insert space group number for P 4 sub 1 3 2,213
+insert space group number for P 4 sub 2,77
+insert space group number for P 4 sub 2 1 2,90
+insert space group number for P 4 2 2 sub 1 2,94
+insert space group number for P 4 sub 2 2 2,93
+insert space group number for P 4 sub 2 3 2,208
+insert space group number for P 4 sub 3,78
+insert space group number for P 4 sub 2 2 2,93
+insert space group number for P 4 sub 2 3 2 ,208
+insert space group number for P 4 sub 3,78
+insert space group number for P 4 sub 3 2,207
+insert space group number for P 4 sub 3 2 1 2,96
+insert space group number for P 4 sub  3 2 2,95
+insert space group number for P 4 sub 3 3 2,212
+insert space group number for P 6 sub 2 2 2,180
+insert space group number for P 6 sub 2,171
+insert space group number for P 6 sub 3,173
+insert space group number for P 6 sub 3 2 2,182
+insert space group number for P 6 sub 4,172
+insert space group number for P 6 sub 4 2 2,181
+insert space group number for P 6 sub 5,170
+insert space group number for P 6 sub 1,169

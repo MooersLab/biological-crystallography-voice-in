@@ -1,11 +1,11 @@
-![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.5&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=biological-crystallography-voice-in&message=0.4.6&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
 # biological-crystallography-voice-in
 
 ## Introduction
-This repository contains >1800 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repository contains >1900 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
 
@@ -160,3 +160,4 @@ Make a pull request, post an issue, or send me an e-mail with additions in CSV f
 | Version 0.4.3 | Reached 1700 commands.                                                                                                                    | 2024 July 25         |
 | Version 0.4.4 | Added table of counts by category to README.md file                                                                                       | 2024 August 1        |
 | Version 0.4.5 | Added table of counts by category to README.md file                                                                                       | 2024 August 3        |
+| Version 0.4.6 | Added Space Group voice commands witn the word "sub" included                                                                                     | 2024 August 7       |

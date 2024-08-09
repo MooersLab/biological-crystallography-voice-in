@@ -1999,3 +1999,5 @@ insert space group number for P 6 sub 4,172
 insert space group number for P 6 sub 4 2 2,181
 insert space group number for P 6 sub 5,170
 insert space group number for P 6 sub 1,169
+site protein fusion for crystallization,\cite{Smyth2003CrystalStructuresFusionProteinsWithLargeTags}
+site smith 2003,\cite{Smyth2003CrystalStructuresFusionProteinsWithLargeTags}

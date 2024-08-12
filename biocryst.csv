@@ -2001,3 +2001,4 @@ insert space group number for P 6 sub 5,170
 insert space group number for P 6 sub 1,169
 site protein fusion for crystallization,\cite{Smyth2003CrystalStructuresFusionProteinsWithLargeTags}
 site smith 2003,\cite{Smyth2003CrystalStructuresFusionProteinsWithLargeTags}
+protocol to install open source pymol,<case:lower>conda update -n base -c conda-forge conda<newline>conda create -n opensourcepymol312 python=3.12 -y<newline>activate opensourcepymol312<newline>conda update -n base -c conda-forge conda -y

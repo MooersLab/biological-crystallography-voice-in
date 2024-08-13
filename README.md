@@ -114,12 +114,11 @@ You may have to verbalize the command quickly to avoid inserting just the first 
 | Voice trigger category| Count |
 |:--------------|:--------|
 | URL | 22 |
-| acronymExpansion | 189 |
+| acronymExpansion | 192 |
 | cctbx | 35 |
 | citekey | 197 |
 | conda | 2 |
 | displayEquation | 15 |
-| expandAcronym | 3 |
 | inlineEquation | 8 |
 | intensityStatistics | 17 |
 | jupyter | 1 |

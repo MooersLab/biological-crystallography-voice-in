@@ -2006,3 +2006,93 @@ expand CDD,computational drug discovery
 expand FMO,fragment-molecular orbitals
 expand MD-HPC,HPC-adapted molecular dynamic simulation
 expand NPL,natural language processing
+insert space group 90,$P 4 4_{1} 2$
+insert space group 1,$P 1$
+insert space group 2,$P \overline{1}$
+insert space group 3,$P 2$
+insert space group 4,$P 2_{1}$
+insert space group 5,$C 2$
+insert space group 6,$P m$
+insert space group 7,$P c$
+insert space group 8,$C m$
+insert space group 9,$C c$
+insert space group 10,$P 2/m$
+insert space group 11,$P 2_{1} / m$
+insert space group 12,$C 2 / m$
+insert space group 13,$P 2 / c$
+insert space group 14,$P 2_{1} / m$
+insert space group 15,$C 2 / c$
+insert space group 16,$P 2 2 2$
+insert space group 17,$P 2 2 2_{1}$
+insert space group 18,$P 2_{1} 2_{1} 2$
+insert space group 19,$P 2_{1} 2_{1} 2_{1}$
+insert space group 20,$C 2 2 2_{1}$
+insert space group 21,$C 2 2 2$
+insert space group 22,$F 2 2 2$
+insert space group 23,$I 2 2 2$
+insert space group 24,$I 2_{1} 2_{1} 2_{1}$
+insert space group 25,$P m m 2$
+insert space group 26,$P m c 2_{1}$
+insert space group 27,$P c c 2$
+insert space group 28,$P m a 2$
+insert space group 29,$P c a 2_{1}$
+insert space group 30,$P n c 2$
+insert space group 31,$P m n 2_{1}$
+insert space group 32,$P b a 2$
+insert space group 33,$P b a 2_{1}$
+insert space group 34,$P n n 2$
+insert space group 35,$C m m 2$
+insert space group 36,$C m c 2_{1}$
+insert space group 37,$C c c 2$
+insert space group 38,$A m m 2$
+insert space group 39,$A b m 2$
+insert space group 40,$A m a 2$
+insert space group 41,$A b a 2$
+insert space group 42,$F m m 2$
+insert space group 43,$F d d 2$
+insert space group 44,$I m m 2$
+insert space group 45,$I b a 2$
+insert space group 46,$I m a 2$
+insert space group 47,$P m m m$
+insert space group 48,$P n n n$
+insert space group 49,$P c c m$
+insert space group 50,$P b a n$
+insert space group 51,$P m m a$
+insert space group 52,$P n n a$
+insert space group 53,$P m n a$
+insert space group 54,$P c c a$
+insert space group 55,$P b a m$
+insert space group 56,$P c c n$
+insert space group 57,$P b c m$
+insert space group 58,$P n n m$
+insert space group 59,$P m m n$
+insert space group 60,$P b c n$
+insert space group 61,$P b c a$
+insert space group 62,$P n m a$
+insert space group 63,$C m c m$
+insert space group 64,$C m c a$
+insert space group 65,$C m m m$
+insert space group 66,$C c c m$
+insert space group 67,$C m m a$
+insert space group 68,$C c c a$
+insert space group 69,$F m m m$
+insert space group 70,$F d d d$
+insert space group 71,$I m m m$
+insert space group 72,$I b a m$
+insert space group 73,$I b c a$
+insert space group 74,$I m m a$
+insert space group 75,$P4$
+insert space group 76,$P4_{1}$
+insert space group 77,$P4_{2}$
+insert space group 78,$P4_{3}$
+insert space group 79,$I4$
+insert space group 80,$I4_{1}$
+insert space group 81,$P \overbar{4}$
+insert space group 82,$I \overbar{4}$
+insert space group 83,$P 4 / m$
+insert space group 84,$P 4_{2} / m$
+insert space group 85,$P4 / n$
+insert space group 86,$P  4_{2} / n$
+insert space group 87,$I 4 / m$
+insert space group 88,$I 4_{1} / a$
+insert space group 89,$P 4 2 2$

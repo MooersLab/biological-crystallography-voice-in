@@ -584,7 +584,7 @@ pseudomeroheral 20,pseudomeroheral twinnig
 R3,$R3$
 R32,$R32$
 raddose-3D,RADDOSE-3D
-ref Mac,Refmac5
+ref Mac 5,Refmac5
 reticular 20,reticular twinning
 reticular metal hatred,reticular merohedry
 reticular metal hedry,reticular merohedry
@@ -1735,12 +1735,12 @@ open nobel prizes in crystallography,<open:https://www.xtal.iqf.csic.es/Cristalo
 open qutemol,<open:https://qutemol.sourceforge.net/>
 site qutemol,\cite{Tarini2006AmbientOcclusionAndEdgeCueingForEnhancingRealTimeMolecularVisualization}
 open adxv,<open:https://www.scripps.edu/tainer/arvai/adxv.html/>
-open jmol,<open;https://jmol.sourceforge.net/>
+open jmol,<open:https://jmol.sourceforge.net/>
 site jmol,\cite{Jmol2024}
 open jsmol,<open:https://jmol.sourceforge.net/>
 site jsmol,\cite{Jmol2024}
 display Sayre's equation,$$F^2_{\textbf{h}} \propto \sum_{\textbf{k}} F_{\textbf{h}} \cdot F_{\textbf{k}} \cdot F_{\textbf{h-k}} \cdot \rm{exp}( i(\varphi_{\textbf{-h}} + \varphi_{\textbf{k}}$$ 
-open divcon,<open:
+open divcon,<open:https://www.quantumbioinc.com/solutions/structural-biology/divcon-plugin/>
 site mol rep,\cite{Vagin2010MolecularReplacementWithMOLREP}
 site PRODRG,\cite{Schuttelkopf2004PRODRGAToolForHighThroughputCrystallographyOfProteinLigandComplexes}
 site wwPDB,\cite{Berman2007TheWorldwideProteinDataBankwwPDBEnsuringASingleUniformArchiveOfPDBData}
@@ -2237,3 +2237,4 @@ insert space group 227,$F d \overbar{3} m$
 insert space group 228,$F d \overbar{3} c$
 insert space group 229,$I m \overbar{3} m$
 insert space group 230,$I a \overbar{3} d$
+open auto proc,<open:https://www.globalphasing.com/autoproc/>

@@ -2096,3 +2096,144 @@ insert space group 86,$P  4_{2} / n$
 insert space group 87,$I 4 / m$
 insert space group 88,$I 4_{1} / a$
 insert space group 89,$P 4 2 2$
+insert space group 90,$P 4 2_{1} 2$
+insert space group 91,$P 4_{1}  2 2$
+insert space group 92,$P 4_{1}  2_{1}  2$
+insert space group 93,$P 4_{2}  2 2$
+insert space group 94,$P 4_{2} 2_{1} 2$
+insert space group 95,$P 4_{3} 2 2$
+insert space group 96,$P 4_{2} 2_{1} 2$
+insert space group 97,$I 4 2 2$
+insert space group 98,$I 4_{1} 2 2$
+insert space group 99,$P 4 m m$
+insert space group 100,$P 4 b m$
+insert space group 101,$P 4_{2} c m$
+insert space group 102,$P 4_{2} n m$
+insert space group 103,$P 4 c c$
+insert space group 104,$P 4 n c$
+insert space group 105,$P 4_{2} m c$
+insert space group 106,$P 4_{2} b c$
+insert space group 107,$P 4 b m$
+insert space group 108,$P 4 b m$
+insert space group 109,$P 4 b m$
+insert space group 110,$I 4_{1} c d$
+insert space group 111,$P \overbar{4} 2 m$
+insert space group 112,$P \overbar{4} 2 c$
+insert space group 113,$P \overbar{4} 2_{1} m$
+insert space group 114,$P \overbar{4} 2_{1} c$
+insert space group 115,$P \overbar{4} m 2$
+insert space group 116,$P \overbar{4} c 2$
+insert space group 117,$P \overbar{4} b 2$
+insert space group 118,$P \overbar{4} n 2$
+insert space group 119,$I \overbar{4} m 2$
+insert space group 120,$I \overbar{4} c 2$
+insert space group 121,$I \overbar{4} 2 m$
+insert space group 122,$I \overbar{4} 2 d$
+insert space group 123,$P 4 / m m m$
+insert space group 124,$P 4 / m c c$
+insert space group 125,$P 4 / n b m$
+insert space group 126,$P 4 / n n c$
+insert space group 127,$P 4 / m b m$
+insert space group 128,$P 4 / m n c$
+insert space group 129,$P 4 / n m m$
+insert space group 130,$P 4 / n c c$
+insert space group 131,$P 4_{2} / m m c$
+insert space group 132,$P 4_{2} / m c m$
+insert space group 133,$P 4_{2} / n b c$
+insert space group 134,$P 4_{2} / n n m$
+insert space group 135,$P 4_{2} / m b c$
+insert space group 136,$P 4_{2} / m n m$
+insert space group 137,$P 4_{2} / n m c$
+insert space group 138,$P 4_{2} / n c m$
+insert space group 139,$I 4 / m m m$
+insert space group 140,$I 4 / m c m$
+insert space group 141,$I 4_{1} / a m d$
+insert space group 142,$I 4_{1} / a c d$
+insert space group 143,$P 3$
+insert space group 144,$P 3_{1}$
+insert space group 145,$P 3_{2}$
+insert space group 146,$R 3$
+insert space group 147,$P \overbar{3}$
+insert space group 148,$R \overbar{3}$
+insert space group 149,$P 3 1 2$
+insert space group 150,$P 3 2 1$
+insert space group 151,$P 3_{1}  1 2$
+insert space group 152,$P 3_{1}  2 1$
+insert space group 153,$P 3_{2}  1 2$
+insert space group 154,$P 3_{2}  2 1$
+insert space group 155,$R 3 2$
+insert space group 156,$P 3 m 1$
+insert space group 157,$P 3 1 m$
+insert space group 158,$P 3 c 1$
+insert space group 159,$P 3 1 c$
+insert space group 160,$R 3 m$
+insert space group 161,$R 3 c$
+insert space group 162,$P \overbar{3} 1 m$
+insert space group 163,$P \overbar{3} 1 c$
+insert space group 164,$P \overbar{3} m 1$
+insert space group 165,$P \overbar{3} c 1$
+insert space group 166,$R \overbar{3} m$
+insert space group 167,$R \overbar{3} c$
+insert space group 168,$P 6$
+insert space group 169,$P 6_{1}$
+insert space group 170,$P 6_{5}$
+insert space group 171,$P 6_{2}$
+insert space group 172,$P 6_{4}$
+insert space group 173,$P 6_{3}$
+insert space group 174,$P \overbar{6}$
+insert space group 175,$P 6 / m$
+insert space group 176,$P 6_{3} / m$
+insert space group 177,$P 6 2 2$
+insert space group 178,$P 6_{1} 2 2$
+insert space group 179,$P 6_{5} 2 2$
+insert space group 180,$P 6_{2} 2 2$
+insert space group 181,$P 6_{4} 2 2$
+insert space group 182,$P 6_{3} 2 2$
+insert space group 183,$P 6 m m$
+insert space group 184,$P 6 c c$
+insert space group 185,$P 6_{3} c m$
+insert space group 186,$P 6_{3} m c$
+insert space group 187,$P \overbar{6} m 2$
+insert space group 188,$P \overbar{6} c 2$
+insert space group 189,$P \overbar{6} 2 m$
+insert space group 190,$P \overbar{6} 2 c$
+insert space group 191,$P 6 / m m m$
+insert space group 192,$P 6 / m c c$
+insert space group 193,$P 6_{3} / m c m$
+insert space group 194,$P 6_{3} / m m c$
+insert space group 195,$P 2 3$
+insert space group 196,$F 2 3$
+insert space group 197,$I 2 3$
+insert space group 198,$P 2_{1} 3$
+insert space group 199,$I 2_{1} 3$
+insert space group 200,$P m -3$
+insert space group 201,$P n -3$
+insert space group 202,$F m -3$
+insert space group 203,$F d -3$
+insert space group 204,$I m -3$
+insert space group 205,$P a -3$
+insert space group 206,$I a -3$
+insert space group 207,$P 4 3 2$
+insert space group 208,$P 4_{2} 3 2$
+insert space group 209,$F 4 3 2$
+insert space group 210,$F 4_{1} 3 2$
+insert space group 211,$I 4 3 2$
+insert space group 212,$P 4_{3} 3 2$
+insert space group 213,$P 4_{1} 3 2$
+insert space group 214,$I 4_{1} 3 2$
+insert space group 215,$P \overbar{4} 3 m$
+insert space group 216,$F \overbar{4} 3 m$
+insert space group 217,$I \overbar{4} 3 m$
+insert space group 218,$P \overbar{4} 3 n$
+insert space group 219,$F \overbar{4} 3 c$
+insert space group 220,$I \overbar{4} 3 d$
+insert space group 221,$P m \overbar{3} m$
+insert space group 222,$P n \overbar{3} n$
+insert space group 223,$P m \overbar{3} n$
+insert space group 224,$P n \overbar{3} m$
+insert space group 225,$F m \overbar{3} m$
+insert space group 226,$F m \overbar{3} c$
+insert space group 227,$F d \overbar{3} m$
+insert space group 228,$F d \overbar{3} c$
+insert space group 229,$I m \overbar{3} m$
+insert space group 230,$I a \overbar{3} d$

@@ -5,7 +5,7 @@
 # biological-crystallography-voice-in
 
 ## Introduction
-This repository contains 2000 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
+This repository contains 2141 voice commands about biological crystallography for the automated speech recognition software Voice In Plus.
 Voice In Plus is a plugin for Google Chrome and Microsoft Edge.
 The commands include navigating the browser by voice to vital websites.
 

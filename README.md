@@ -127,12 +127,12 @@ You may have to verbalize the command quickly to avoid inserting just the first 
 | list | 3 |
 | openJournal | 207 |
 | openSoftwareDocumentation | 3 |
-| openSoftwareHomepage | 34 |
+| openSoftwareHomepage | 35 |
 | openWebService | 9 |
 | openWebpage | 148 |
 | openWikipediaPage | 4 |
 | software | 6 |
-| spaceGroup | 600 |
+| spaceGroup | 741 |
 | symbol | 8 |
 | symmetryElement | 7 |
 | textReplacement | 473 |

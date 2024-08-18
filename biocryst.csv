@@ -1612,7 +1612,7 @@ site shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
 site Coot,\cite{Emsley2010FeaturesAndDevelopmentOfCoot}
 site ChimeraX,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
 site shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
-site Chimera,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
+reference for chimera,"Pettersen,E.F., Goddard,T.D., Huang,C.C., Couch,G.S., Greenblatt,D.M., Meng,E.C. and Ferrin,T.E. (2004) UCSF Chimera–a visualization system for exploratory research and analysis. J Comput Chem, 25, 1605–12."
 site refinig structures with shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
 site latest paper on Mattprob,\cite{Weichenberger2014TenYearsProbabilisticEstimatesBiocrystalSolventContent}
 site Molprobity,\cite{Chen2010MolProbityAllAtomStructureValidationForMacromolecularCrystallography}

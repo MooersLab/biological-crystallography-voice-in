@@ -1612,7 +1612,7 @@ site shelx,\cite{Sheldrick2008AShortHistoryOfSHELX}
 site Coot,\cite{Emsley2010FeaturesAndDevelopmentOfCoot}
 site ChimeraX,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
 site shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
-reference for chimera,"Pettersen,E.F., Goddard,T.D., Huang,C.C., Couch,G.S., Greenblatt,D.M., Meng,E.C. and Ferrin,T.E. (2004) UCSF Chimera–a visualization system for exploratory research and analysis. J Comput Chem, 25, 1605–12."
+site Chimera,\cite{Meng2023UCSFChimeraXToolsForStructureBuildingAndAnalysis}
 site refinig structures with shelxl,\cite{Sheldrick2015CrystalStructureRefinementWithSHELXL}
 site latest paper on Mattprob,\cite{Weichenberger2014TenYearsProbabilisticEstimatesBiocrystalSolventContent}
 site Molprobity,\cite{Chen2010MolProbityAllAtomStructureValidationForMacromolecularCrystallography}
@@ -2238,3 +2238,15 @@ insert space group 228,$F d \overbar{3} c$
 insert space group 229,$I m \overbar{3} m$
 insert space group 230,$I a \overbar{3} d$
 open auto proc,<open:https://www.globalphasing.com/autoproc/>
+reference for mole rep,"Vagin, A. and Teplyakov, A. (2010) Molecular replacement with MOLREP. Acta Crystallographica Section D: Biological Crystallographica, 66, 22–25.
+reference for molprobity,"Chen,V.B., Arendall,W.B., Headd,J.J., Keedy,D.A., Immormino,R.M., Kapral,G.J., Murray,L.W., Richardson,J.S. and Richardson,D.C. (2010) MolProbity: all-atom structure validation for macromolecular crystallography. Acta Crystallographica Section D: Biological Crystallography, 66, 12–21."
+reference for ccp4,"Agirre, J., Atanasova, M., Bagdonas, H., Ballard, C., Baslé, A., Beilsten-Edmands, J., Borges, R., Brown, D., Burgos-Mármol, J., Berrisford, J., et al. (2023) The CCP4 suite: integrative software for macromolecular crystallography. Acta Crystallographica Section D: Structural Biology, 79, 449–461."
+reference for coot,"Emsley, P., Lohkamp, B., Scott, W.G. and Cowtan, K. (2010) Features and development of Coot. Acta Crystallographica Section D: Biological Crystallography, 66, 486–501."
+reference for ligplot,"Laskowski, R.A. and Swindells, M.B. (2011) LigPlot+: multiple ligand–protein interaction diagrams for drug discovery. Journal of Chemical Information and Modeling, 51, 2778–2786."
+reference for refmac,"Murshudov, G.N., Skubák, P., Lebedev,A.A., Pannu,N.S., Steiner,R.A., Nicholls,R.A., Winn,M.D., Long,F. and Vagin,A.A. (2011) <i>refmac</i>5 for the Refinement of Macromolecular Crystal Structures. Acta Crystallographica Section D Biological Crystallography, 67, 355–367."
+reference for chimera,"Pettersen,E.F., Goddard,T.D., Huang,C.C., Couch,G.S., Greenblatt,D.M., Meng,E.C. and Ferrin,T.E. (2004) UCSF Chimera–a visualization system for exploratory research and analysis. J Comput Chem, 25, 1605–12."
+reference for prodrg,"Schuttelkopf,A.W. and van Aalten,D.M. (2004) PRODRG: a tool for high-throughput crystallography of protein-ligand complexes. Acta Crystallogr D Biol Crystallogr, 60, 1355–63."
+reference for pymol,"Schrödinger, LLC. and Delano, W. (2023) The PyMOL Molecular Graphics System, Version 2.5.7."
+reference for wwPDB,"wwPDB Consortium (2019) Protein Data Bank: the single global archive for 3D macromolecular structure data. Nucleic Acids Res 47: D520-D528 doi: https://doi.org/10.1093/nar/gky949"
+reference for HKL 2000,"Otwinowski, Z. and W. Minor, W. (1997)  "Processing of X-ray Diffraction Data Collected in Oscillation Mode," Methods in Enzymology, Volume 276: Macromolecular Crystallography, part A, p.307‑326, 1997, C. W. Carter, Jr. & R. M. Sweet, Eds., Academic Press (New York)",
+,

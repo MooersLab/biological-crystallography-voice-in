@@ -2238,7 +2238,7 @@ insert space group 228,$F d \overline{3} c$
 insert space group 229,$I m \overline{3} m$
 insert space group 230,$I a \overline{3} d$
 open auto proc,<open:https://www.globalphasing.com/autoproc/>
-reference for mole rep,"Vagin, A. and Teplyakov, A. (2010) Molecular replacement with MOLREP. Acta Crystallographica Section D: Biological Crystallographica, 66, 22–25.
+reference for mole rep,"Vagin, A. and Teplyakov, A. (2010) Molecular replacement with MOLREP. Acta Crystallographica Section D: Biological Crystallographica, 66, 22–25."
 reference for molprobity,"Chen,V.B., Arendall,W.B., Headd,J.J., Keedy,D.A., Immormino,R.M., Kapral,G.J., Murray,L.W., Richardson,J.S. and Richardson,D.C. (2010) MolProbity: all-atom structure validation for macromolecular crystallography. Acta Crystallographica Section D: Biological Crystallography, 66, 12–21."
 reference for ccp4,"Agirre, J., Atanasova, M., Bagdonas, H., Ballard, C., Baslé, A., Beilsten-Edmands, J., Borges, R., Brown, D., Burgos-Mármol, J., Berrisford, J., et al. (2023) The CCP4 suite: integrative software for macromolecular crystallography. Acta Crystallographica Section D: Structural Biology, 79, 449–461."
 reference for coot,"Emsley, P., Lohkamp, B., Scott, W.G. and Cowtan, K. (2010) Features and development of Coot. Acta Crystallographica Section D: Biological Crystallography, 66, 486–501."

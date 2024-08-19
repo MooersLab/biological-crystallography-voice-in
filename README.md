@@ -36,6 +36,7 @@ https://github.com/MooersLab/biological-crystallography-voice-in/assets/15176203
 |display sigmaA 2fo minus fc| $$2mF_{o} - DF_{c}$$ |
 |display Wilson ratio | $$\left\langle I^2\right\rangle /\langle I\rangle^2$$ |
 |cite Wilson 1942 |\cite{Wilson1942DeterminationAbsoluteFromRelativeXRayIntensityData}|
+|reference for MolRep |"Vagin, A. and Teplyakov, A. (2010) Molecular replacement with MOLREP. Acta Crystallographica Section D: Biological Crystallographica, 66, 22–25."|
 |display equation for the structure factor| $$\mathbf{F}(\mathbf{S})=\sum_{j=1}^n f_j \exp \left[2 \pi i \mathbf{r}_j \cdot \mathbf{S}\right]$$ |
 |P212121  | $$P2_{1}2_{1}2_{1}$$  |
 |insert space group number for P212121 | 19|
@@ -131,6 +132,7 @@ You may have to verbalize the command quickly to avoid inserting just the first 
 | openWebService | 9 |
 | openWebpage | 148 |
 | openWikipediaPage | 4 |
+| reference | 11|
 | software | 6 |
 | spaceGroup | 741 |
 | symbol | 8 |

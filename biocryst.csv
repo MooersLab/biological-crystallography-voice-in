@@ -2249,3 +2249,13 @@ reference for prodrg,"Schuttelkopf,A.W. and van Aalten,D.M. (2004) PRODRG: a too
 reference for pymol,"Schrödinger, LLC. and Delano, W. (2023) The PyMOL Molecular Graphics System, Version 2.5.7."
 reference for wwPDB,"wwPDB Consortium (2019) Protein Data Bank: the single global archive for 3D macromolecular structure data. Nucleic Acids Res 47: D520-D528 doi: https://doi.org/10.1093/nar/gky949"
 reference for HKL 2000,"Otwinowski, Z. and W. Minor, W. (1997)  'Processing of X-ray Diffraction Data Collected in Oscillation Mode,' Methods in Enzymology, Volume 276: Macromolecular Crystallography, part A, p.307‑326, 1997, C. W. Carter, Jr. & R. M. Sweet, Eds., Academic Press (New York)"
+shell XD,SHELXD
+shell XE,SHELXE
+shell XL,SHELXL
+x-ray,X-ray
+sif file, cif file
+expand cif,crystallographic information file
+sir 2024,Sir2024
+sir 2019,Sir2019
+sir 2024,Sir2024
+over a period of time,over time

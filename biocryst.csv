@@ -565,9 +565,9 @@ P6522,$P6_{5}22$
 parent cemetery,apparent symmetry
 partial 20,partial twinning
 Perfect 20,perfect twinning
-Phoenix Dot extraarch,phenix.xtriage
-Phoenix extraage,phenix.xtriage
-Phoenix,Phenix
+Phoenix Dot extraarch,\emph{phenix.xtriage}
+Phoenix extraage,\emph{phenix.xtriage}
+Phoenix,\emph{Phenix}
 pLDDT,predicted local difference distance test
 point group 2,$2$
 point group 222,$222$
@@ -578,13 +578,13 @@ point group 422,$422$
 point group 432,$432$
 point group 6,$6$
 point group 622,$622$
-privateer,Privateer
+privateer,\emph{Privateer}
 pseudo-translational,pseudotranslational
 pseudomeroheral 20,pseudomeroheral twinnig
 R3,$R3$
 R32,$R32$
-raddose-3D,RADDOSE-3D
-ref Mac 5,Refmac5
+raddose-3D,\emph{RADDOSE-3D}
+ref Mac 5,\emph{Refmac5}
 reticular 20,reticular twinning
 reticular metal hatred,reticular merohedry
 reticular metal hedry,reticular merohedry
@@ -1286,7 +1286,7 @@ expand mira,Maximizing Investigators’ Research Award
 expand moo,Multiobjective Optimization
 expand mopac,Molecular Orbital PACkage
 expand mops,3-(N-morpholino)propanesulfonic acid
-expand mx,macromolecular crystallography
+,
 expand nakb,Nucleic Acid Knowledge Base
 expand nbsr,National Bureau of Standards Reactor
 expand ncats,National Center for Advancing Translational Sciences
@@ -2249,13 +2249,49 @@ reference for prodrg,"Schuttelkopf,A.W. and van Aalten,D.M. (2004) PRODRG: a too
 reference for pymol,"Schrödinger, LLC. and Delano, W. (2023) The PyMOL Molecular Graphics System, Version 2.5.7."
 reference for wwPDB,"wwPDB Consortium (2019) Protein Data Bank: the single global archive for 3D macromolecular structure data. Nucleic Acids Res 47: D520-D528 doi: https://doi.org/10.1093/nar/gky949"
 reference for HKL 2000,"Otwinowski, Z. and W. Minor, W. (1997)  'Processing of X-ray Diffraction Data Collected in Oscillation Mode,' Methods in Enzymology, Volume 276: Macromolecular Crystallography, part A, p.307‑326, 1997, C. W. Carter, Jr. & R. M. Sweet, Eds., Academic Press (New York)"
-shell XD,SHELXD
-shell XE,SHELXE
-shell XL,SHELXL
+shell XD,\emph{SHELXD}
+shell XE,\emph{SHELXE}
+shell XL,\emph{SHELXL}
 x-ray,X-ray
-sif file, cif file
+sif file,cif file
 expand cif,crystallographic information file
-sir 2024,Sir2024
-sir 2019,Sir2019
-sir 2024,Sir2024
+sir 2024,\emph{Sir2024}
+sir 2019,\emph{Sir2019}
 over a period of time,over time
+sir 2014,\emph{Sir2014}
+expand XPP,X-ray Pump-Probe
+expand XCS,Xray Correlation Spectroscopy
+expand LUSI,LCLS Ultrafast Scientific Instruments
+expand CXI,Coherent X-ray Imaging
+expand MEC,Matter in Extreme Conditions
+expand MFX,Macromolecular Femtosecond Crystallography
+expand LCP,lipidic cubic phase
+expand SFX,Serial Femtosecond Crystallography
+expand SSX,serial synchrotron crystallography
+expand SSRL,Stanford Synchrotron Radiation Lightsource
+expand SF,femtosecond crystallography
+expand TR-SFX,Time-Resolved Serial Femtosecond Crystallography
+expand TRSSX,Time-Resolved Serial Synchrotron Crystallography
+expand SPI,Single Particle Imaging
+expand XES,X-ray Emission Spectroscopy
+expand WAXS,Wide-Angle X-ray Scattering
+expand SAXS,Small-Angle X-ray Scattering
+expand LODCMs,Large-Offset Double-Crystal Monochromators
+expand MFX,Macromolecular Femtosecond Crystallography
+expand CRL,Compound Refractive Lenses
+expand LIB,Laser Incoupling Box
+expand XRT,X-ray Tunnel
+expand SSC,Serial Sample Chamber
+expand TR-WAXS,Time Resolved Wide-Angle X-ray Scattering
+expand GDVN,Gas Dynamic Virtual Nozzle
+expand MISC,Mix and Inject Serial Crystallograhy
+expand SASE,Self-Amplified Spontaneous Emission
+expand CW,Continuous Wave
+expand SXU,Soft X-ray Undulators
+expand RF,radio-frequency
+expand TXI,Tender X-ray Instrument
+expand FPGAs,Field-Programmable Gate Array
+expand DRP,Data Reduction Pipeline
+expand DFT,density functional theory
+expand QMMM,Quantum Mechanics/Molecular Mechanics
+expand PCS,Protein Crystal Screening

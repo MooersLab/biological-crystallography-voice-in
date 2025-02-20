@@ -2292,9 +2292,12 @@ expand RF,radio-frequency
 expand TXI,Tender X-ray Instrument
 expand FPGAs,Field-Programmable Gate Array
 expand DRP,Data Reduction Pipeline
-expand DFT,density functional theory
+expand DFT,Density Functional Theory
 expand QMMM,Quantum Mechanics/Molecular Mechanics
 expand PCS,Protein Crystal Screening
 futon science,Photon Science
 journal of synchrotron radiation,Journal of Synchrotron Radiation
 journal of applied crystallography,Journal of Applied Crystallography
+expand TR-SAXS,Time Resolved Small-Angle X-ray Scattering
+site first use of synchrotron radiation in protein crystallography,\cite{Phillips1976ApplicationsSynchrotronRadiationToProteinCrystallography}
+Phillips 1976,\cite{Phillips1976ApplicationsSynchrotronRadiationToProteinCrystallography}
